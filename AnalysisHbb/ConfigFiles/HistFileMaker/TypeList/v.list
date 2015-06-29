@@ -1,0 +1,157 @@
+# BRANCH NAME, TRUTH BRANCH NAME, SAVE NAME, DIRECTORY,  MIN, MAX, NBINS
+j1_GEN_Pt,          j1_GEN_Pt, t, v/j1/Pt, 0, 500, 500
+j1_EM_Pt,           j1_GEN_Pt, a, v/j1/Pt, 0, 500, 500
+j1_EMJES_Pt,        j1_GEN_Pt, b, v/j1/Pt, 0, 500, 500
+j1_EMJESGSC_Pt,     j1_GEN_Pt, c, v/j1/Pt, 0, 500, 500
+j1_EMJESGSCMu_Pt,   j1_GEN_Pt, d, v/j1/Pt, 0, 500, 500
+j1_EMJESGSCMuPt_Pt, j1_GEN_Pt, e, v/j1/Pt, 0, 500, 500
+#
+j1_GEN_E,          j1_GEN_E, t, v/j1/E, 0, 1000, 1000
+j1_EM_E,           j1_GEN_E, a, v/j1/E, 0, 1000, 1000
+j1_EMJES_E,        j1_GEN_E, b, v/j1/E, 0, 1000, 1000
+j1_EMJESGSC_E,     j1_GEN_E, c, v/j1/E, 0, 1000, 1000
+j1_EMJESGSCMu_E,   j1_GEN_E, d, v/j1/E, 0, 1000, 1000
+j1_EMJESGSCMuPt_E, j1_GEN_E, e, v/j1/E, 0, 1000, 1000
+#
+j1_GEN_Eta,          j1_GEN_Eta, t, v/j1/Eta, -2.5, 2.5, 100
+j1_EM_Eta,           j1_GEN_Eta, a, v/j1/Eta, -2.5, 2.5, 100
+j1_EMJES_Eta,        j1_GEN_Eta, b, v/j1/Eta, -2.5, 2.5, 100
+j1_EMJESGSC_Eta,     j1_GEN_Eta, c, v/j1/Eta, -2.5, 2.5, 100
+j1_EMJESGSCMu_Eta,   j1_GEN_Eta, d, v/j1/Eta, -2.5, 2.5, 100
+j1_EMJESGSCMuPt_Eta, j1_GEN_Eta, e, v/j1/Eta, -2.5, 2.5, 100
+#
+j1_GEN_Phi,          j1_GEN_Phi, t, v/j1/Phi, -3.5, 3.5, 140
+j1_EM_Phi,           j1_GEN_Phi, a, v/j1/Phi, -3.5, 3.5, 140
+j1_EMJES_Phi,        j1_GEN_Phi, b, v/j1/Phi, -3.5, 3.5, 140
+j1_EMJESGSC_Phi,     j1_GEN_Phi, c, v/j1/Phi, -3.5, 3.5, 140
+j1_EMJESGSCMu_Phi,   j1_GEN_Phi, d, v/j1/Phi, -3.5, 3.5, 140
+j1_EMJESGSCMuPt_Phi, j1_GEN_Phi, e, v/j1/Phi, -3.5, 3.5, 140
+#
+j1_GEN_M,          j1_GEN_M, t, v/j1/M, 0, 80, 80
+j1_EM_M,           j1_GEN_M, a, v/j1/M, 0, 80, 80
+j1_EMJES_M,        j1_GEN_M, b, v/j1/M, 0, 80, 80
+j1_EMJESGSC_M,     j1_GEN_M, c, v/j1/M, 0, 80, 80
+j1_EMJESGSCMu_M,   j1_GEN_M, d, v/j1/M, 0, 80, 80
+j1_EMJESGSCMuPt_M, j1_GEN_M, e, v/j1/M, 0, 80, 80
+#
+j1_BWeight,   j1_BWeight,   BWeight,   v/j1/event, 0, 1,    100
+j1_EMF,       j1_EMF,       EMF,       v/j1/event, 0, 1,    100
+j1_FracEM3,   j1_FracEM3,  FracEM3,   v/j1/event, 0, 0.25,  50
+j1_FracTile0, j1_FracTile0, FracTile0, v/j1/event, 0, 0.6,   60
+j1_JVF,       j1_JVF,       JVF,       v/j1/event, 0, 1,    100
+j1_NTrk,      j1_NTrk,      NTrk,      v/j1/event, 0, 30,    30
+#
+j1_SumPtTrk,  j1_SumPtTrk,  SumPtTrk,  v/j1/event, 0, 600,  600
+j1_SvpErrLxy, j1_SvpErrLxy, SvpErrLxy, v/j1/event, 0, 6,     12
+j1_SvpLxy,    j1_SvpLxy,    SvpLxy,    v/j1/event, 0, 160,  160
+j1_SvpM,      j1_SvpM,      SvpM,      v/j1/event, 0, 6,   1230
+j1_SvpNTrk,   j1_SvpNTrk,   SvpNTrk,   v/j1/event, 0, 14,    14
+j1_TrkWidth,  j1_TrkWidth,  TrkWidth,  v/j1/event, 0, 0.4,   40
+#
+j1_Width, j1_Width, Width, v/j1/event, 0, 0.3, 30
+#
+#
+j2_GEN_Pt,          j2_GEN_Pt, t, v/j2/Pt, 0, 350, 350
+j2_EM_Pt,           j2_GEN_Pt, a, v/j2/Pt, 0, 350, 350
+j2_EMJES_Pt,        j2_GEN_Pt, b, v/j2/Pt, 0, 350, 350
+j2_EMJESGSC_Pt,     j2_GEN_Pt, c, v/j2/Pt, 0, 350, 350
+j2_EMJESGSCMu_Pt,   j2_GEN_Pt, d, v/j2/Pt, 0, 350, 350
+j2_EMJESGSCMuPt_Pt, j2_GEN_Pt, e, v/j2/Pt, 0, 350, 350
+#
+j2_GEN_E,          j2_GEN_E, t, v/j2/E, 0, 1000, 1000
+j2_EM_E,           j2_GEN_E, a, v/j2/E, 0, 1000, 1000
+j2_EMJES_E,        j2_GEN_E, b, v/j2/E, 0, 1000, 1000
+j2_EMJESGSC_E,     j2_GEN_E, c, v/j2/E, 0, 1000, 1000
+j2_EMJESGSCMu_E,   j2_GEN_E, d, v/j2/E, 0, 1000, 1000
+j2_EMJESGSCMuPt_E, j2_GEN_E, e, v/j2/E, 0, 1000, 1000
+#
+j2_GEN_Eta,          j2_GEN_Eta, t, v/j2/Eta, -2.5, 2.5, 100
+j2_EM_Eta,           j2_GEN_Eta, a, v/j2/Eta, -2.5, 2.5, 100
+j2_EMJES_Eta,        j2_GEN_Eta, b, v/j2/Eta, -2.5, 2.5, 100
+j2_EMJESGSC_Eta,     j2_GEN_Eta, c, v/j2/Eta, -2.5, 2.5, 100
+j2_EMJESGSCMu_Eta,   j2_GEN_Eta, d, v/j2/Eta, -2.5, 2.5, 100
+j2_EMJESGSCMuPt_Eta, j2_GEN_Eta, e, v/j2/Eta, -2.5, 2.5, 100
+#
+j2_GEN_Phi,          j2_GEN_Phi, t, v/j2/Phi, -3.5, 3.5, 140
+j2_EM_Phi,           j2_GEN_Phi, a, v/j2/Phi, -3.5, 3.5, 140
+j2_EMJES_Phi,        j2_GEN_Phi, b, v/j2/Phi, -3.5, 3.5, 140
+j2_EMJESGSC_Phi,     j2_GEN_Phi, c, v/j2/Phi, -3.5, 3.5, 140
+j2_EMJESGSCMu_Phi,   j2_GEN_Phi, d, v/j2/Phi, -3.5, 3.5, 140
+j2_EMJESGSCMuPt_Phi, j2_GEN_Phi, e, v/j2/Phi, -3.5, 3.5, 140
+#
+j2_GEN_M,          j2_GEN_M, t, v/j2/M, 0, 40, 40
+j2_EM_M,           j2_GEN_M, a, v/j2/M, 0, 40, 40
+j2_EMJES_M,        j2_GEN_M, b, v/j2/M, 0, 40, 40
+j2_EMJESGSC_M,     j2_GEN_M, c, v/j2/M, 0, 40, 40
+j2_EMJESGSCMu_M,   j2_GEN_M, d, v/j2/M, 0, 40, 40
+j2_EMJESGSCMuPt_M, j2_GEN_M, e, v/j2/M, 0, 40, 40
+#
+j2_BWeight,   j2_BWeight,   BWeight,   v/j2/event, 0, 1,    100
+j2_EMF,       j2_EMF,       EMF,       v/j2/event, 0, 1,    100
+j2_FracEM3,   j2_FracEM3,  FracEM3,   v/j2/event, 0, 0.25,  50
+j2_FracTile0, j2_FracTile0, FracTile0, v/j2/event, 0, 0.6,   60
+j2_JVF,       j2_JVF,       JVF,       v/j2/event, 0, 1,    100
+j2_NTrk,      j2_NTrk,      NTrk,      v/j2/event, 0, 30,    30
+#
+j2_SumPtTrk,  j2_SumPtTrk,  SumPtTrk,  v/j2/event, 0, 600,  600
+j2_SvpErrLxy, j2_SvpErrLxy, SvpErrLxy, v/j2/event, 0, 6,     12
+j2_SvpLxy,    j2_SvpLxy,    SvpLxy,    v/j2/event, 0, 160,  160
+j2_SvpM,      j2_SvpM,      SvpM,      v/j2/event, 0, 6,   1230
+j2_SvpNTrk,   j2_SvpNTrk,   SvpNTrk,   v/j2/event, 0, 14,    14
+j2_TrkWidth,  j2_TrkWidth,  TrkWidth,  v/j2/event, 0, 0.4,   40
+#
+j2_Width, j2_Width, Width, v/j2/event, 0, 0.3, 30
+#
+#
+j1j2_GEN_Pt,          j1j2_GEN_Pt, t, v/j1j2/Pt, 0, 900, 900
+j1j2_EM_Pt,           j1j2_GEN_Pt, a, v/j1j2/Pt, 0, 900, 900
+j1j2_EMJES_Pt,        j1j2_GEN_Pt, b, v/j1j2/Pt, 0, 900, 900
+j1j2_EMJESGSC_Pt,     j1j2_GEN_Pt, c, v/j1j2/Pt, 0, 900, 900
+j1j2_EMJESGSCMu_Pt,   j1j2_GEN_Pt, d, v/j1j2/Pt, 0, 900, 900
+j1j2_EMJESGSCMuPt_Pt, j1j2_GEN_Pt, e, v/j1j2/Pt, 0, 900, 900
+#
+j1j2_GEN_E,          j1j2_GEN_E, t, v/j1j2/E, 0, 2300, 2300
+j1j2_EM_E,           j1j2_GEN_E, a, v/j1j2/E, 0, 2300, 2300
+j1j2_EMJES_E,        j1j2_GEN_E, b, v/j1j2/E, 0, 2300, 2300
+j1j2_EMJESGSC_E,     j1j2_GEN_E, c, v/j1j2/E, 0, 2300, 2300
+j1j2_EMJESGSCMu_E,   j1j2_GEN_E, d, v/j1j2/E, 0, 2300, 2300
+j1j2_EMJESGSCMuPt_E, j1j2_GEN_E, e, v/j1j2/E, 0, 2300, 2300
+#
+j1j2_GEN_Eta,          j1j2_GEN_Eta, t, v/j1j2/Eta, -2.5, 2.5, 100
+j1j2_EM_Eta,           j1j2_GEN_Eta, a, v/j1j2/Eta, -2.5, 2.5, 100
+j1j2_EMJES_Eta,        j1j2_GEN_Eta, b, v/j1j2/Eta, -2.5, 2.5, 100
+j1j2_EMJESGSC_Eta,     j1j2_GEN_Eta, c, v/j1j2/Eta, -2.5, 2.5, 100
+j1j2_EMJESGSCMu_Eta,   j1j2_GEN_Eta, d, v/j1j2/Eta, -2.5, 2.5, 100
+j1j2_EMJESGSCMuPt_Eta, j1j2_GEN_Eta, e, v/j1j2/Eta, -2.5, 2.5, 100
+#
+j1j2_GEN_Phi,          j1j2_GEN_Phi, t, v/j1j2/Phi, -3.5, 3.5, 140
+j1j2_EM_Phi,           j1j2_GEN_Phi, a, v/j1j2/Phi, -3.5, 3.5, 140
+j1j2_EMJES_Phi,        j1j2_GEN_Phi, b, v/j1j2/Phi, -3.5, 3.5, 140
+j1j2_EMJESGSC_Phi,     j1j2_GEN_Phi, c, v/j1j2/Phi, -3.5, 3.5, 140
+j1j2_EMJESGSCMu_Phi,   j1j2_GEN_Phi, d, v/j1j2/Phi, -3.5, 3.5, 140
+j1j2_EMJESGSCMuPt_Phi, j1j2_GEN_Phi, e, v/j1j2/Phi, -3.5, 3.5, 140
+#
+j1j2_GEN_M,          j1j2_GEN_M, t, v/j1j2/M, 0, 600, 600
+j1j2_EM_M,           j1j2_GEN_M, a, v/j1j2/M, 0, 600, 600
+j1j2_EMJES_M,        j1j2_GEN_M, b, v/j1j2/M, 0, 600, 600
+j1j2_EMJESGSC_M,     j1j2_GEN_M, c, v/j1j2/M, 0, 600, 600
+j1j2_EMJESGSCMu_M,   j1j2_GEN_M, d, v/j1j2/M, 0, 600, 600
+j1j2_EMJESGSCMuPt_M, j1j2_GEN_M, e, v/j1j2/M, 0, 600, 600
+#
+j1j2_BWeight,   j1j2_BWeight,   BWeight,   v/j1j2/event, 0, 1,    100
+j1j2_EMF,       j1j2_EMF,       EMF,       v/j1j2/event, 0, 1,    100
+j1j2_FracEM3,   j1j2_FracEM3,  FracEM3,   v/j1j2/event, 0, 0.25,  50
+j1j2_FracTile0, j1j2_FracTile0, FracTile0, v/j1j2/event, 0, 0.6,   60
+j1j2_JVF,       j1j2_JVF,       JVF,       v/j1j2/event, 0, 1,    100
+j1j2_NTrk,      j1j2_NTrk,      NTrk,      v/j1j2/event, 0, 30,    30
+#
+j1j2_SumPtTrk,  j1j2_SumPtTrk,  SumPtTrk,  v/j1j2/event, 0, 600,  600
+j1j2_SvpErrLxy, j1j2_SvpErrLxy, SvpErrLxy, v/j1j2/event, 0, 6,     12
+j1j2_SvpLxy,    j1j2_SvpLxy,    SvpLxy,    v/j1j2/event, 0, 160,  160
+j1j2_SvpM,      j1j2_SvpM,      SvpM,      v/j1j2/event, 0, 6,   1230
+j1j2_SvpNTrk,   j1j2_SvpNTrk,   SvpNTrk,   v/j1j2/event, 0, 14,    14
+j1j2_TrkWidth,  j1j2_TrkWidth,  TrkWidth,  v/j1j2/event, 0, 0.4,   40
+#
+j1j2_Width, j1j2_Width, Width, v/j1j2/event, 0, 0.3, 30
+#
+MET, MET, MET, vw/event/, 0, 900, 1

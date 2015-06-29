@@ -1,0 +1,107 @@
+# BRANCH NAME, TRUTH BRANCH NAME, SAVE NAME, DIRECTORY,  MIN, MAX, NBINS
+j1_GENWZ_Pt,          j1_GENWZ_Pt, t, b/j1/Pt, 0, 2, 50
+j1_EM_Pt,           j1_GENWZ_Pt, a, b/j1/Pt, 0, 2, 50
+j1_EMJES_Pt,        j1_GENWZ_Pt, b, b/j1/Pt, 0, 2, 50
+j1_EMJESGSC_Pt,     j1_GENWZ_Pt, c, b/j1/Pt, 0, 2, 50
+j1_EMJESGSCMu_Pt,   j1_GENWZ_Pt, d, b/j1/Pt, 0, 2, 50
+j1_EMJESGSCMuPt_Pt, j1_GENWZ_Pt, e, b/j1/Pt, 0, 2, 50
+#
+j1_GENWZ_E,          j1_GENWZ_E, t, b/j1/E, 0, 2, 50
+j1_EM_E,           j1_GENWZ_E, a, b/j1/E, 0, 2, 50
+j1_EMJES_E,        j1_GENWZ_E, b, b/j1/E, 0, 2, 50
+j1_EMJESGSC_E,     j1_GENWZ_E, c, b/j1/E, 0, 2, 50
+j1_EMJESGSCMu_E,   j1_GENWZ_E, d, b/j1/E, 0, 2, 50
+j1_EMJESGSCMuPt_E, j1_GENWZ_E, e, b/j1/E, 0, 2, 50
+#
+j1_GENWZ_Eta,          j1_GENWZ_Eta, t, b/j1/Eta, 0, 2, 50
+j1_EM_Eta,           j1_GENWZ_Eta, a, b/j1/Eta, 0, 2, 50
+j1_EMJES_Eta,        j1_GENWZ_Eta, b, b/j1/Eta, 0, 2, 50
+j1_EMJESGSC_Eta,     j1_GENWZ_Eta, c, b/j1/Eta, 0, 2, 50
+j1_EMJESGSCMu_Eta,   j1_GENWZ_Eta, d, b/j1/Eta, 0, 2, 50
+j1_EMJESGSCMuPt_Eta, j1_GENWZ_Eta, e, b/j1/Eta, 0, 2, 50
+#
+j1_GENWZ_Phi,          j1_GENWZ_Phi, t, b/j1/Phi, 0, 2, 50
+j1_EM_Phi,           j1_GENWZ_Phi, a, b/j1/Phi, 0, 2, 50
+j1_EMJES_Phi,        j1_GENWZ_Phi, b, b/j1/Phi, 0, 2, 50
+j1_EMJESGSC_Phi,     j1_GENWZ_Phi, c, b/j1/Phi, 0, 2, 50
+j1_EMJESGSCMu_Phi,   j1_GENWZ_Phi, d, b/j1/Phi, 0, 2, 50
+j1_EMJESGSCMuPt_Phi, j1_GENWZ_Phi, e, b/j1/Phi, 0, 2, 50
+#
+j1_GENWZ_M,          j1_GENWZ_M, t, b/j1/M, 0, 2, 50
+j1_EM_M,           j1_GENWZ_M, a, b/j1/M, 0, 2, 50
+j1_EMJES_M,        j1_GENWZ_M, b, b/j1/M, 0, 2, 50
+j1_EMJESGSC_M,     j1_GENWZ_M, c, b/j1/M, 0, 2, 50
+j1_EMJESGSCMu_M,   j1_GENWZ_M, d, b/j1/M, 0, 2, 50
+j1_EMJESGSCMuPt_M, j1_GENWZ_M, e, b/j1/M, 0, 2, 50
+#
+#
+j2_GENWZ_Pt,          j2_GENWZ_Pt, t, b/j2/Pt, 0, 2, 50
+j2_EM_Pt,           j2_GENWZ_Pt, a, b/j2/Pt, 0, 2, 50
+j2_EMJES_Pt,        j2_GENWZ_Pt, b, b/j2/Pt, 0, 2, 50
+j2_EMJESGSC_Pt,     j2_GENWZ_Pt, c, b/j2/Pt, 0, 2, 50
+j2_EMJESGSCMu_Pt,   j2_GENWZ_Pt, d, b/j2/Pt, 0, 2, 50
+j2_EMJESGSCMuPt_Pt, j2_GENWZ_Pt, e, b/j2/Pt, 0, 2, 50
+#
+j2_GENWZ_E,          j2_GENWZ_E, t, b/j2/E, 0, 2, 50
+j2_EM_E,           j2_GENWZ_E, a, b/j2/E, 0, 2, 50
+j2_EMJES_E,        j2_GENWZ_E, b, b/j2/E, 0, 2, 50
+j2_EMJESGSC_E,     j2_GENWZ_E, c, b/j2/E, 0, 2, 50
+j2_EMJESGSCMu_E,   j2_GENWZ_E, d, b/j2/E, 0, 2, 50
+j2_EMJESGSCMuPt_E, j2_GENWZ_E, e, b/j2/E, 0, 2, 50
+#
+j2_GENWZ_Eta,          j2_GENWZ_Eta, t, b/j2/Eta, 0, 2, 50
+j2_EM_Eta,           j2_GENWZ_Eta, a, b/j2/Eta, 0, 2, 50
+j2_EMJES_Eta,        j2_GENWZ_Eta, b, b/j2/Eta, 0, 2, 50
+j2_EMJESGSC_Eta,     j2_GENWZ_Eta, c, b/j2/Eta, 0, 2, 50
+j2_EMJESGSCMu_Eta,   j2_GENWZ_Eta, d, b/j2/Eta, 0, 2, 50
+j2_EMJESGSCMuPt_Eta, j2_GENWZ_Eta, e, b/j2/Eta, 0, 2, 50
+#
+j2_GENWZ_Phi,          j2_GENWZ_Phi, t, b/j2/Phi, 0, 2, 50
+j2_EM_Phi,           j2_GENWZ_Phi, a, b/j2/Phi, 0, 2, 50
+j2_EMJES_Phi,        j2_GENWZ_Phi, b, b/j2/Phi, 0, 2, 50
+j2_EMJESGSC_Phi,     j2_GENWZ_Phi, c, b/j2/Phi, 0, 2, 50
+j2_EMJESGSCMu_Phi,   j2_GENWZ_Phi, d, b/j2/Phi, 0, 2, 50
+j2_EMJESGSCMuPt_Phi, j2_GENWZ_Phi, e, b/j2/Phi, 0, 2, 50
+#
+j2_GENWZ_M,          j2_GENWZ_M, t, b/j2/M, 0, 2, 50
+j2_EM_M,           j2_GENWZ_M, a, b/j2/M, 0, 2, 50
+j2_EMJES_M,        j2_GENWZ_M, b, b/j2/M, 0, 2, 50
+j2_EMJESGSC_M,     j2_GENWZ_M, c, b/j2/M, 0, 2, 50
+j2_EMJESGSCMu_M,   j2_GENWZ_M, d, b/j2/M, 0, 2, 50
+j2_EMJESGSCMuPt_M, j2_GENWZ_M, e, b/j2/M, 0, 2, 50
+#
+#
+j1j2_GENWZ_Pt,          j1j2_GENWZ_Pt, t, b/j1j2/Pt, 0, 2, 50
+j1j2_EM_Pt,           j1j2_GENWZ_Pt, a, b/j1j2/Pt, 0, 2, 50
+j1j2_EMJES_Pt,        j1j2_GENWZ_Pt, b, b/j1j2/Pt, 0, 2, 50
+j1j2_EMJESGSC_Pt,     j1j2_GENWZ_Pt, c, b/j1j2/Pt, 0, 2, 50
+j1j2_EMJESGSCMu_Pt,   j1j2_GENWZ_Pt, d, b/j1j2/Pt, 0, 2, 50
+j1j2_EMJESGSCMuPt_Pt, j1j2_GENWZ_Pt, e, b/j1j2/Pt, 0, 2, 50
+#
+j1j2_GENWZ_E,          j1j2_GENWZ_E, t, b/j1j2/E, 0, 2, 50
+j1j2_EM_E,           j1j2_GENWZ_E, a, b/j1j2/E, 0, 2, 50
+j1j2_EMJES_E,        j1j2_GENWZ_E, b, b/j1j2/E, 0, 2, 50
+j1j2_EMJESGSC_E,     j1j2_GENWZ_E, c, b/j1j2/E, 0, 2, 50
+j1j2_EMJESGSCMu_E,   j1j2_GENWZ_E, d, b/j1j2/E, 0, 2, 50
+j1j2_EMJESGSCMuPt_E, j1j2_GENWZ_E, e, b/j1j2/E, 0, 2, 50
+#
+j1j2_GENWZ_Eta,          j1j2_GENWZ_Eta, t, b/j1j2/Eta, 0, 2, 50
+j1j2_EM_Eta,           j1j2_GENWZ_Eta, a, b/j1j2/Eta, 0, 2, 50
+j1j2_EMJES_Eta,        j1j2_GENWZ_Eta, b, b/j1j2/Eta, 0, 2, 50
+j1j2_EMJESGSC_Eta,     j1j2_GENWZ_Eta, c, b/j1j2/Eta, 0, 2, 50
+j1j2_EMJESGSCMu_Eta,   j1j2_GENWZ_Eta, d, b/j1j2/Eta, 0, 2, 50
+j1j2_EMJESGSCMuPt_Eta, j1j2_GENWZ_Eta, e, b/j1j2/Eta, 0, 2, 50
+#
+j1j2_GENWZ_Phi,          j1j2_GENWZ_Phi, t, b/j1j2/Phi, 0, 2, 50
+j1j2_EM_Phi,           j1j2_GENWZ_Phi, a, b/j1j2/Phi, 0, 2, 50
+j1j2_EMJES_Phi,        j1j2_GENWZ_Phi, b, b/j1j2/Phi, 0, 2, 50
+j1j2_EMJESGSC_Phi,     j1j2_GENWZ_Phi, c, b/j1j2/Phi, 0, 2, 50
+j1j2_EMJESGSCMu_Phi,   j1j2_GENWZ_Phi, d, b/j1j2/Phi, 0, 2, 50
+j1j2_EMJESGSCMuPt_Phi, j1j2_GENWZ_Phi, e, b/j1j2/Phi, 0, 2, 50
+#
+j1j2_GENWZ_M,          j1j2_GENWZ_M, t, b/j1j2/M, 0, 2, 50
+j1j2_EM_M,           j1j2_GENWZ_M, a, b/j1j2/M, 0, 2, 50
+j1j2_EMJES_M,        j1j2_GENWZ_M, b, b/j1j2/M, 0, 2, 50
+j1j2_EMJESGSC_M,     j1j2_GENWZ_M, c, b/j1j2/M, 0, 2, 50
+j1j2_EMJESGSCMu_M,   j1j2_GENWZ_M, d, b/j1j2/M, 0, 2, 50
+j1j2_EMJESGSCMuPt_M, j1j2_GENWZ_M, e, b/j1j2/M, 0, 2, 50

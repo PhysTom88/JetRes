@@ -1,0 +1,25 @@
+# DATA MJ FILE, EW MJ FILE, TREE NAME, MJ DIR, DATA MJ DIR, EW MJ DIR
+#/nfs/atlas/travenscroft02/mergedMJ/flat_trees_0BTag_0_Data_MJ_0.root,   /nfs/atlas/travenscroft02/mergedMJ/flat_trees_0BTag_0_EW_MJ_0.root,   perevent, 0BTag_0_MJ,   0BTag_0_Data_MJ,   0BTag_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_0BTagEl_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_0BTagEl_0_EW_MJ_0.root, perevent, 0BTagEl_0_MJ, 0BTagEl_0_Data_MJ, 0BTagEl_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_0BTagMu_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_0BTagMu_0_EW_MJ_0.root, perevent, 0BTagMu_0_MJ, 0BTagMu_0_Data_MJ, 0BTagMu_0_EW_MJ
+#
+#/nfs/atlas/travenscroft02/mergedMJ/flat_trees_1BTag_0_Data_MJ_0.root,   /nfs/atlas/travenscroft02/mergedMJ/flat_trees_1BTag_0_EW_MJ_0.root,   perevent, 1BTag_0_MJ,   1BTag_0_Data_MJ,   1BTag_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_1BTagEl_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_1BTagEl_0_EW_MJ_0.root, perevent, 1BTagEl_0_MJ, 1BTagEl_0_Data_MJ, 1BTagEl_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_1BTagMu_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_1BTagMu_0_EW_MJ_0.root, perevent, 1BTagMu_0_MJ, 1BTagMu_0_Data_MJ, 1BTagMu_0_EW_MJ
+#
+#/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2BTag_0_Data_MJ_0.root,   /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2BTag_0_EW_MJ_0.root,   perevent, 2BTag_0_MJ,   2BTag_0_Data_MJ,   2BTag_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2BTagEl_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2BTagEl_0_EW_MJ_0.root, perevent, 2BTagEl_0_MJ, 2BTagEl_0_Data_MJ, 2BTagEl_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2BTagMu_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2BTagMu_0_EW_MJ_0.root, perevent, 2BTagMu_0_MJ, 2BTagMu_0_Data_MJ, 2BTagMu_0_EW_MJ
+#
+#/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2LBTag_0_Data_MJ_0.root,   /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2LBTag_0_EW_MJ_0.root,   perevent, 2LBTag_0_MJ,   2LBTag_0_Data_MJ,   2LBTag_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2LBTagEl_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2LBTagEl_0_EW_MJ_0.root, perevent, 2LBTagEl_0_MJ, 2LBTagEl_0_Data_MJ, 2LBTagEl_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2LBTagMu_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2LBTagMu_0_EW_MJ_0.root, perevent, 2LBTagMu_0_MJ, 2LBTagMu_0_Data_MJ, 2LBTagMu_0_EW_MJ
+#
+#/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2MBTag_0_Data_MJ_0.root,   /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2MBTag_0_EW_MJ_0.root,   perevent, 2MBTag_0_MJ,   2MBTag_0_Data_MJ,   2MBTag_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2MBTagEl_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2MBTagEl_0_EW_MJ_0.root, perevent, 2MBTagEl_0_MJ, 2MBTagEl_0_Data_MJ, 2MBTagEl_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2MBTagMu_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2MBTagMu_0_EW_MJ_0.root, perevent, 2MBTagMu_0_MJ, 2MBTagMu_0_Data_MJ, 2MBTagMu_0_EW_MJ
+#
+#/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2TBTag_0_Data_MJ_0.root,   /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2TBTag_0_EW_MJ_0.root,   perevent, 2TBTag_0_MJ,   2TBTag_0_Data_MJ,   2TBTag_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2TBTagEl_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2TBTagEl_0_EW_MJ_0.root, perevent, 2TBTagEl_0_MJ, 2TBTagEl_0_Data_MJ, 2TBTagEl_0_EW_MJ
+/nfs/atlas/travenscroft02/mergedMJ/flat_trees_2TBTagMu_0_Data_MJ_0.root, /nfs/atlas/travenscroft02/mergedMJ/flat_trees_2TBTagMu_0_EW_MJ_0.root, perevent, 2TBTagMu_0_MJ, 2TBTagMu_0_Data_MJ, 2TBTagMu_0_EW_MJ
+#

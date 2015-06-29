@@ -1,0 +1,8 @@
+# PLOT TYPE, BRANCH FILE
+#v,    ConfigFiles/HistFileMaker/TypeList/v.list
+vw,   ConfigFiles/HistFileMaker/TypeList/vw.list
+#b,    ConfigFiles/HistFileMaker/TypeList/b.list
+#bw,   ConfigFiles/HistFileMaker/TypeList/bw.list
+#re,   ConfigFiles/HistFileMaker/TypeList/re.list
+#rew,  ConfigFiles/HistFileMaker/TypeList/rew.list
+#crea, ConfigFiles/HistFileMaker/TypeList/crea.list
