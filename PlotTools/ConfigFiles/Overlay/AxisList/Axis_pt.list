@@ -1,0 +1,11 @@
+#STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABELSIZE, TEXTSIZE, MAX Y
+overlay_vw_j1j2_M_2BTag_pT_n, m_{b#bar{b}}[GeV], Normalised Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 1.55
+overlay_vw_j1j2_M_2BTag_pT,   m_{b#bar{b}}[GeV], Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 2.00
+overlay_bw_j1j2_M_2BTag_pT_n, m_{b#bar{b}}^{reco} /m_{b#bar{b}}^{truth}, Normalised Entries / 0.04, 0.90, 1.1, 0.05, 0.047, 1.55
+overlay_bw_j1j2_M_2BTag_pT,   m_{b#bar{b}}^{reco} /m_{b#bar{b}}^{truth}, Entries / 0.04, 0.90, 1.1, 0.05, 0.047, 1.55
+#
+overlay_vw_j1j2_M_2BTag_pT3_n, m_{b#bar{b}}[GeV], Normalised Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 1.55
+overlay_vw_j1j2_M_2BTag_pT3,   m_{b#bar{b}}[GeV], Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 2.00
+overlay_bw_j1j2_M_2BTag_pT3_n, m_{b#bar{b}}^{reco} /m_{b#bar{b}}^{truth}, Normalised Entries / 0.04, 0.90, 1.1, 0.05, 0.047, 1.55
+overlay_bw_j1j2_M_2BTag_pT3,   m_{b#bar{b}}^{reco} /m_{b#bar{b}}^{truth}, Entries / 0.04, 0.90, 1.1, 0.05, 0.047, 1.55
+#

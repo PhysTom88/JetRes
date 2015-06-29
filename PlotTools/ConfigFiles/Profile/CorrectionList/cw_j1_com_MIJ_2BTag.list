@@ -1,0 +1,4 @@
+# CORR NAME, VARIABLE, BASE DIR, COLOUR, MARKER STYLE, MARKER SIZE, MU, DIR
+All Jets,                      d, 2BTag_0_WH125, 868, 8, -1, nMu_all,  cw/j/Pt
+Muon-In-Jet Jets With Muon,    d, 2BTag_0_WH125, 800, 34, 1, nMu_0Inf, cw/j/Pt
+Muon-In-Jet Jets Without Muon, d, 2BTag_0_WH125, 810, 21, 1, nMu_0,    cw/j/Pt

@@ -1,0 +1,227 @@
+# STRING, LOCATION, CANVAS X, CANVAS Y, REBIN, MIN RANGE, MAX RANGE, DO BLINDING, BLINDING MIN, BLINDING MAX
+stack_vw_j1j2_M_all, all/PtV-all/vw/j1j2/M/,      e, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_0,   all/PtV-0-90/vw/j1j2/M/,     e, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_90,  all/PtV-90-120/vw/j1j2/M/,   e, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_120, all/PtV-120-160/vw/j1j2/M/,  e, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_160, all/PtV-160-200/vw/j1j2/M/,  e, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_200, all/PtV-200-2000/vw/j1j2/M/, e, 800, 600, 25, 20, 500, 0, 0, 0
+#
+stack_vw_j1j2_Pt_all, all/PtV-all/vw/j1j2/Pt/,         e, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_0,   all/PtV-0-90/vw/j1j2/Pt/,        e, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_90,  all/PtV-90-120/vw/j1j2/Pt/,      e, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_120, all/PtV-120-160/vw/j1j2/Pt/,     e, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_160, all/PtV-160-200/vw/j1j2/Pt/ ,    e, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_200, all/PtV-200-2000/vw/j1j2/Pt/,    e, 800, 600, 10, 20, 600, 0, 0, 0
+#
+stack_vw_j1j2_E_all, all/PtV-all/vw/j1j2/E/,      e, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_0,   all/PtV-0-90/vw/j1j2/E/,     e, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_90,  all/PtV-90-120/vw/j1j2/E/,   e, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_120, all/PtV-120-160/vw/j1j2/E/,  e, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_160, all/PtV-160-200/vw/j1j2/E/,  e, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_200, all/PtV-200-2000/vw/j1j2/E/, e, 800, 600, 10, 20, 1000, 0, 0, 0
+#
+stack_vw_j1j2_Eta_all, all/PtV-all/vw/j1j2/Eta/,      e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_0,   all/PtV-0-90/vw/j1j2/Eta/,     e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_90,  all/PtV-90-120/vw/j1j2/Eta/,   e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_120, all/PtV-120-160/vw/j1j2/Eta/,  e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_160, all/PtV-160-200/vw/j1j2/Eta/,  e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_200, all/PtV-200-2000/vw/j1j2/Eta/, e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j1j2_Phi_all, all/PtV-all/vw/j1j2/Phi/,      e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_0,   all/PtV-0-90/vw/j1j2/Phi/,     e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_90,  all/PtV-90-120/vw/j1j2/Phi/,   e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_120, all/PtV-120-160/vw/j1j2/Phi/,  e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_160, all/PtV-160-200/vw/j1j2/Phi/,  e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_200, all/PtV-200-2000/vw/j1j2/Phi/, e, 800, 600, 0.05, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j1j2_MET_all, all/PtV-all/vw/event/,      MET, 800, 600, 5, 10, 300, 0, 0, 0
+stack_vw_j1j2_MET_0,   all/PtV-0-90/vw/event/,     MET, 800, 600, 5, 10, 300, 0, 0, 0
+stack_vw_j1j2_MET_90,  all/PtV-90-120/vw/event/,   MET, 800, 600, 5, 10, 300, 0, 0, 0
+stack_vw_j1j2_MET_120, all/PtV-120-160/vw/event/,  MET, 800, 600, 5, 10, 300, 0, 0, 0
+stack_vw_j1j2_MET_160, all/PtV-160-200/vw/event/,  MET, 800, 600, 5, 10, 300, 0, 0, 0
+stack_vw_j1j2_MET_200, all/PtV-200-2000/vw/event/, MET, 800, 600, 5, 10, 300, 0, 0, 0
+#
+stack_vw_j1j2_lepPt_all, all/PtV-all/vw/event/,      leptonPt, 800, 600, 10, 0, 350, 0, 0, 0
+stack_vw_j1j2_lepPt_0,   all/PtV-0-90/vw/event/,     leptonPt, 800, 600, 10, 0, 350, 0, 0, 0
+stack_vw_j1j2_lepPt_90,  all/PtV-90-120/vw/event/,   leptonPt, 800, 600, 10, 0, 350, 0, 0, 0
+stack_vw_j1j2_lepPt_120, all/PtV-120-160/vw/event/,  leptonPt, 800, 600, 10, 0, 350, 0, 0, 0
+stack_vw_j1j2_lepPt_160, all/PtV-160-200/vw/event/,  leptonPt, 800, 600, 10, 0, 350, 0, 0, 0
+stack_vw_j1j2_lepPt_200, all/PtV-200-2000/vw/event/, leptonPt, 800, 600, 10, 0, 350, 0, 0, 0
+#
+stack_vw_j1j2_dR_all, all/PtV-all/vw/event/,      dR, 800, 600, 0.1, 0, 4, 0, 0, 0
+stack_vw_j1j2_dR_0,   all/PtV-0-90/vw/event/,     dR, 800, 600, 0.1, 0, 4, 0, 0, 0
+stack_vw_j1j2_dR_90,  all/PtV-90-120/vw/event/,   dR, 800, 600, 0.1, 0, 4, 0, 0, 0
+stack_vw_j1j2_dR_120, all/PtV-120-160/vw/event/,  dR, 800, 600, 0.1, 0, 4, 0, 0, 0
+stack_vw_j1j2_dR_160, all/PtV-160-200/vw/event/,  dR, 800, 600, 0.1, 0, 4, 0, 0, 0
+stack_vw_j1j2_dR_200, all/PtV-200-2000/vw/event/, dR, 800, 600, 0.1, 0, 4, 0, 0, 0
+#
+stack_vw_j1j2_pTV_all, all/PtV-all/vw/event/,      PtV, 800, 600, 10, 0, 500, 0, 0, 0
+stack_vw_j1j2_pTV_0,   all/PtV-0-90/vw/event/,     PtV, 800, 600, 10, 0, 500, 0, 0, 0
+stack_vw_j1j2_pTV_90,  all/PtV-90-120/vw/event/,   PtV, 800, 600, 10, 0, 500, 0, 0, 0
+stack_vw_j1j2_pTV_120, all/PtV-120-160/vw/event/,  PtV, 800, 600, 10, 0, 500, 0, 0, 0
+stack_vw_j1j2_pTV_160, all/PtV-160-200/vw/event/,  PtV, 800, 600, 10, 0, 500, 0, 0, 0
+stack_vw_j1j2_pTV_200, all/PtV-200-2000/vw/event/, PtV, 800, 600, 10, 0, 500, 0, 0, 0
+#
+stack_vw_j1j2_mTW_all, all/PtV-all/vw/event/,      mTW, 800, 600, 10, 0, 130, 0, 0, 0
+stack_vw_j1j2_mTW_0,   all/PtV-0-90/vw/event/,     mTW, 800, 600, 10, 0, 130, 0, 0, 0
+stack_vw_j1j2_mTW_90,  all/PtV-90-120/vw/event/,   mTW, 800, 600, 10, 0, 130, 0, 0, 0
+stack_vw_j1j2_mTW_120, all/PtV-120-160/vw/event/,  mTW, 800, 600, 10, 0, 130, 0, 0, 0
+stack_vw_j1j2_mTW_160, all/PtV-160-200/vw/event/,  mTW, 800, 600, 10, 0, 130, 0, 0, 0
+stack_vw_j1j2_mTW_200, all/PtV-200-2000/vw/event/, mTW, 800, 600, 10, 0, 130, 0, 0, 0
+#
+stack_vw_j1j2_HT_all, all/PtV-all/vw/event/,      HT, 800, 600, 10, 150, 350, 0, 0, 0
+stack_vw_j1j2_HT_0,   all/PtV-0-90/vw/event/,     HT, 800, 600, 10, 150, 350, 0, 0, 0
+stack_vw_j1j2_HT_90,  all/PtV-90-120/vw/event/,   HT, 800, 600, 10, 150, 350, 0, 0, 0
+stack_vw_j1j2_HT_120, all/PtV-120-160/vw/event/,  HT, 800, 600, 10, 200, 500, 0, 0, 0
+stack_vw_j1j2_HT_160, all/PtV-160-200/vw/event/,  HT, 800, 600, 10, 250, 500, 0, 0, 0
+stack_vw_j1j2_HT_200, all/PtV-200-2000/vw/event/, HT, 800, 600, 10, 350, 500, 0, 0, 0
+#
+stack_vw_j1j2_M_pT3_all, all/PtV-all/vw/j1j2/M/,      e3, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_pT3_0,   all/PtV-0-90/vw/j1j2/M/,     e3, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_pT3_90,  all/PtV-90-120/vw/j1j2/M/,   e3, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_pT3_120, all/PtV-120-160/vw/j1j2/M/,  e3, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_pT3_160, all/PtV-160-200/vw/j1j2/M/,  e3, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_pT3_200, all/PtV-200-2000/vw/j1j2/M/, e3, 800, 600, 25, 20, 500, 0, 0, 0
+#
+#stack_vw_j1j2_M_NN_all, all/PtV-all/vw/j1j2/M/,      f1, 800, 600, 25, 20, 500, 0, 0, 0 
+#stack_vw_j1j2_M_NN_0,   all/PtV-0-90/vw/j1j2/M/,     f1, 800, 600, 25, 20, 500, 0, 0, 0 
+#stack_vw_j1j2_M_NN_90,  all/PtV-90-120/vw/j1j2/M/,   f1, 800, 600, 25, 20, 500, 0, 0, 0 
+#stack_vw_j1j2_M_NN_120, all/PtV-120-160/vw/j1j2/M/,  f1, 800, 600, 25, 20, 500, 0, 0, 0 
+#stack_vw_j1j2_M_NN_160, all/PtV-160-200/vw/j1j2/M/,  f1, 800, 600, 25, 20, 500, 0, 0, 0 
+#stack_vw_j1j2_M_NN_200, all/PtV-200-2000/vw/j1j2/M/, f1, 800, 600, 25, 20, 500, 0, 0, 0 
+#
+stack_vw_j1j2_M_EM_all,  all/PtV-all/vw/j1j2/M/, a, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_JES_all, all/PtV-all/vw/j1j2/M/, b, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_GSC_all, all/PtV-all/vw/j1j2/M/, c, 800, 600, 25, 20, 500, 0, 0, 0
+stack_vw_j1j2_M_Mu_all,  all/PtV-all/vw/j1j2/M/, d, 800, 600, 25, 20, 500, 0, 0, 0
+#
+stack_vw_j1j2_Pt_EM_all,  all/PtV-all/vw/j1j2/Pt/, a, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_JES_all, all/PtV-all/vw/j1j2/Pt/, b, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_GSC_all, all/PtV-all/vw/j1j2/Pt/, c, 800, 600, 10, 20, 600, 0, 0, 0
+stack_vw_j1j2_Pt_Mu_all,  all/PtV-all/vw/j1j2/Pt/, d, 800, 600, 10, 20, 600, 0, 0, 0
+#
+stack_vw_j1j2_E_EM_all,  all/PtV-all/vw/j1j2/E/, a, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_JES_all, all/PtV-all/vw/j1j2/E/, b, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_GSC_all, all/PtV-all/vw/j1j2/E/, c, 800, 600, 10, 20, 1000, 0, 0, 0
+stack_vw_j1j2_E_Mu_all,  all/PtV-all/vw/j1j2/E/, d, 800, 600, 10, 20, 1000, 0, 0, 0
+#
+stack_vw_j1j2_Eta_EM_all,  all/PtV-all/vw/j1j2/Eta/, a, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_JES_all, all/PtV-all/vw/j1j2/Eta/, b, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_GSC_all, all/PtV-all/vw/j1j2/Eta/, c, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Eta_Mu_all,  all/PtV-all/vw/j1j2/Eta/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j1j2_Phi_EM_all, all/PtV-all/vw/j1j2/Phi/, a, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_EM_all, all/PtV-all/vw/j1j2/Phi/, b, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_EM_all, all/PtV-all/vw/j1j2/Phi/, c, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1j2_Phi_EM_all, all/PtV-all/vw/j1j2/Phi/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j1_M_EM_all,  all/PtV-all/vw/j1/M/, a, 800, 600, 2, 0, 40, 0, 0, 0
+stack_vw_j1_M_JES_all, all/PtV-all/vw/j1/M/, b, 800, 600, 2, 0, 40, 0, 0, 0
+stack_vw_j1_M_GSC_all, all/PtV-all/vw/j1/M/, c, 800, 600, 2, 0, 40, 0, 0, 0
+stack_vw_j1_M_Mu_all,  all/PtV-all/vw/j1/M/, d, 800, 600, 2, 0, 40, 0, 0, 0
+stack_vw_j1_M_Pt_all,  all/PtV-all/vw/j1/M/, e, 800, 600, 2, 0, 40, 0, 0, 0
+#
+stack_vw_j1_Pt_EM_all,  all/PtV-all/vw/j1/Pt/, a, 800, 600, 10, 20, 400, 0, 0, 0
+stack_vw_j1_Pt_JES_all, all/PtV-all/vw/j1/Pt/, b, 800, 600, 10, 20, 400, 0, 0, 0
+stack_vw_j1_Pt_GSC_all, all/PtV-all/vw/j1/Pt/, c, 800, 600, 10, 20, 400, 0, 0, 0
+stack_vw_j1_Pt_Mu_all,  all/PtV-all/vw/j1/Pt/, d, 800, 600, 10, 20, 400, 0, 0, 0
+stack_vw_j1_Pt_Pt_all,  all/PtV-all/vw/j1/Pt/, e, 800, 600, 10, 20, 400, 0, 0, 0
+#
+stack_vw_j1_E_EM_all,  all/PtV-all/vw/j1/E/, a, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j1_E_JES_all, all/PtV-all/vw/j1/E/, b, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j1_E_GSC_all, all/PtV-all/vw/j1/E/, c, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j1_E_Mu_all,  all/PtV-all/vw/j1/E/, d, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j1_E_Pt_all,  all/PtV-all/vw/j1/E/, e, 800, 600, 25, 20, 1000, 0, 0, 0
+#
+stack_vw_j1_Eta_EM_all,  all/PtV-all/vw/j1/Eta/, a, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Eta_JES_all, all/PtV-all/vw/j1/Eta/, b, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Eta_GSC_all, all/PtV-all/vw/j1/Eta/, c, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Eta_Mu_all,  all/PtV-all/vw/j1/Eta/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Eta_Pt_all,  all/PtV-all/vw/j1/Eta/, e, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j1_Phi_EM_all,  all/PtV-all/vw/j1/Phi/, a, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Phi_JES_all, all/PtV-all/vw/j1/Phi/, b, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Phi_GSC_all, all/PtV-all/vw/j1/Phi/, c, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Phi_Mu_all,  all/PtV-all/vw/j1/Phi/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j1_Phi_Pt_all,  all/PtV-all/vw/j1/Phi/, e, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j2_M_EM_all,  all/PtV-all/vw/j2/M/, a, 800, 600, 1, 0, 40, 0, 0, 0
+stack_vw_j2_M_JES_all, all/PtV-all/vw/j2/M/, b, 800, 600, 1, 0, 40, 0, 0, 0
+stack_vw_j2_M_GSC_all, all/PtV-all/vw/j2/M/, c, 800, 600, 1, 0, 40, 0, 0, 0
+stack_vw_j2_M_Mu_all,  all/PtV-all/vw/j2/M/, d, 800, 600, 1, 0, 40, 0, 0, 0
+stack_vw_j2_M_Pt_all,  all/PtV-all/vw/j2/M/, e, 800, 600, 1, 0, 40, 0, 0, 0
+#
+stack_vw_j2_Pt_EM_all,  all/PtV-all/vw/j2/Pt/, a, 800, 600, 10, 10, 150, 0, 0, 0
+stack_vw_j2_Pt_JES_all, all/PtV-all/vw/j2/Pt/, b, 800, 600, 10, 10, 150, 0, 0, 0
+stack_vw_j2_Pt_GSC_all, all/PtV-all/vw/j2/Pt/, c, 800, 600, 10, 10, 150, 0, 0, 0
+stack_vw_j2_Pt_Mu_all,  all/PtV-all/vw/j2/Pt/, d, 800, 600, 10, 10, 150, 0, 0, 0
+stack_vw_j2_Pt_Pt_all,  all/PtV-all/vw/j2/Pt/, e, 800, 600, 10, 10, 150, 0, 0, 0
+#
+stack_vw_j2_E_EM_all,  all/PtV-all/vw/j2/E/, a, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j2_E_JES_all, all/PtV-all/vw/j2/E/, b, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j2_E_GSC_all, all/PtV-all/vw/j2/E/, c, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j2_E_Mu_all,  all/PtV-all/vw/j2/E/, d, 800, 600, 25, 20, 1000, 0, 0, 0
+stack_vw_j2_E_Pt_all,  all/PtV-all/vw/j2/E/, e, 800, 600, 25, 20, 1000, 0, 0, 0
+#
+stack_vw_j2_Eta_EM_all,  all/PtV-all/vw/j2/Eta/, a, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Eta_JES_all, all/PtV-all/vw/j2/Eta/, b, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Eta_GSC_all, all/PtV-all/vw/j2/Eta/, c, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Eta_Mu_all,  all/PtV-all/vw/j2/Eta/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Eta_Pt_all,  all/PtV-all/vw/j2/Eta/, e, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j2_Phi_EM_all,  all/PtV-all/vw/j2/Phi/, a, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Phi_JES_all, all/PtV-all/vw/j2/Phi/, b, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Phi_GSC_all, all/PtV-all/vw/j2/Phi/, c, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Phi_Mu_all,  all/PtV-all/vw/j2/Phi/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+stack_vw_j2_Phi_Pt_all,  all/PtV-all/vw/j2/Phi/, d, 800, 600, 0.1, -2.5, 2.5, 0, 0, 0
+#
+stack_vw_j1_BWeight_all,   all/PtV-all/vw/j1/event/, BWeight,   800, 600, 0.01,  0.7, 1,    0, 0, 0
+stack_vw_j1_EMF_all,       all/PtV-all/vw/j1/event/, EMF,       800, 600, 0.05,  0,   1,    0, 0, 0
+stack_vw_j1_FracEM3_all,   all/PtV-all/vw/j1/event/, FracEM3,   800, 600, 0.005, 0,   0.25, 0, 0, 0
+stack_vw_j1_FracTile0_all, all/PtV-all/vw/j1/event/, FracTile0, 800, 600, 0.06,  0,   0.6,  0, 0, 0
+stack_vw_j1_JVF_all,       all/PtV-all/vw/j1/event/, JVF,       800, 600, 0.05,  0.6, 1,    0, 0, 0
+stack_vw_j1_NTrk_all,      all/PtV-all/vw/j1/event/, NTrk,      800, 600, 1,     0,   30,   0, 0, 0
+#
+stack_vw_j1_SumPtTrk_all,  all/PtV-all/vw/j1/event/, SumPtTrk,  800, 600, 10,   0, 300, 0, 0, 0
+stack_vw_j1_SvpErrLxy_all, all/PtV-all/vw/j1/event/, SvpErrLxy, 800, 600, 0.5,  0, 5,  0, 0, 0
+stack_vw_j1_SvpLxy_all,    all/PtV-all/vw/j1/event/, SvpLxy,    800, 600, 5,    0, 40, 0, 0, 0
+stack_vw_j1_SvpM_all,      all/PtV-all/vw/j1/event/, SvpM,      800, 600, 0.2,  0, 6,   0, 0, 0
+stack_vw_j1_SvpNTrk_all,   all/PtV-all/vw/j1/event/, SvpNTrk,   800, 600, 1,    0, 14,  0, 0, 0
+stack_vw_j1_TrkWidth_all,  all/PtV-all/vw/j1/event/, TrkWidth,  800, 600, 0.01, 0, 0.4, 0, 0, 0
+#
+stack_vw_j1_Width_all,     all/PtV-all/vw/j1/event/,  Width,     800, 600, 0.01, 0,  0.25, 0, 0, 0
+stack_vw_j1_SvpX_all,      all/PtV-all/vw/j1/event/,  SvpX,      800, 600, 0.2,  -10, 10,  0, 0, 0
+stack_vw_j1_SvpY_all,      all/PtV-all/vw/j1/event/,  SvpY,      800, 600, 0.2,  -10, 10,  0, 0, 0
+stack_vw_j1_SvpErrX_all,   all/PtV-all/vw/j1/event/,  SvpErrX,   800, 600, 0.05, 0,  1,    0, 0, 0
+stack_vw_j1_SvpErrY_all,   all/PtV-all/vw/j1/event/,  SvpErrY,   800, 600, 0.05, 0,  1,    0, 0, 0
+stack_vw_j1_SvpSigLxy_all, all/PtV-all/vw/j1/event/,  SvpSigLxy, 800, 600, 0.5,  0,  5,    0, 0, 0
+#
+stack_vw_j1_hasMuon_all,     all/PtV-all/vw/j1/event/, hasMuon,    800, 600,    1, 0, 2, 0, 0, 0
+stack_vw_j1_hasSV_all,       all/PtV-all/vw/j1/event/, hasSV,      800, 600,    1, 0, 2, 0, 0, 0
+stack_vw_j1_SumPtTrk_Mu_all, all/PtV-all/vw/j1/event/, SumPtTrk_d, 800, 600, 0.04, 0, 2, 0, 0, 0
+#
+stack_vw_j2_BWeight_all,   all/PtV-all/vw/j2/event/, BWeight,   800, 600, 0.01,  0.7, 1,    0, 0, 0
+stack_vw_j2_EMF_all,       all/PtV-all/vw/j2/event/, EMF,       800, 600, 0.05,  0,   1,    0, 0, 0
+stack_vw_j2_FracEM3_all,   all/PtV-all/vw/j2/event/, FracEM3,   800, 600, 0.005, 0,   0.25, 0, 0, 0
+stack_vw_j2_FracTile0_all, all/PtV-all/vw/j2/event/, FracTile0, 800, 600, 0.06,  0,   0.6,  0, 0, 0
+stack_vw_j2_JVF_all,       all/PtV-all/vw/j2/event/, JVF,       800, 600, 0.05,  0.6, 1,    0, 0, 0
+stack_vw_j2_NTrk_all,      all/PtV-all/vw/j2/event/, NTrk,      800, 600, 1,     0,   30,   0, 0, 0
+#
+stack_vw_j2_SumPtTrk_all,  all/PtV-all/vw/j2/event/, SumPtTrk,  800, 600, 10,   0, 300, 0, 0, 0
+stack_vw_j2_SvpErrLxy_all, all/PtV-all/vw/j2/event/, SvpErrLxy, 800, 600, 0.5,  0, 5,  0, 0, 0
+stack_vw_j2_SvpLxy_all,    all/PtV-all/vw/j2/event/, SvpLxy,    800, 600, 5,    0, 40, 0, 0, 0
+stack_vw_j2_SvpM_all,      all/PtV-all/vw/j2/event/, SvpM,      800, 600, 0.2,  0, 6,   0, 0, 0
+stack_vw_j2_SvpNTrk_all,   all/PtV-all/vw/j2/event/, SvpNTrk,   800, 600, 1,    0, 14,  0, 0, 0
+stack_vw_j2_TrkWidth_all,  all/PtV-all/vw/j2/event/, TrkWidth,  800, 600, 0.01, 0, 0.4, 0, 0, 0
+#
+stack_vw_j2_Width_all,     all/PtV-all/vw/j2/event/,  Width,     800, 600, 0.01, 0,   0.25, 0, 0, 0
+stack_vw_j2_SvpX_all,      all/PtV-all/vw/j2/event/,  SvpX,      800, 600, 0.2,  -10, 10,   0, 0, 0
+stack_vw_j2_SvpY_all,      all/PtV-all/vw/j2/event/,  SvpY,      800, 600, 0.2,  -10, 10,   0, 0, 0
+stack_vw_j2_SvpErrX_all,   all/PtV-all/vw/j2/event/,  SvpErrX,   800, 600, 0.05, 0,   1,    0, 0, 0
+stack_vw_j2_SvpErrY_all,   all/PtV-all/vw/j2/event/,  SvpErrY,   800, 600, 0.05, 0,   1,    0, 0, 0
+stack_vw_j2_SvpSigLxy_all, all/PtV-all/vw/j2/event/,  SvpSigLxy, 800, 600, 0.5,  0,   5,    0, 0, 0
+#
+stack_vw_j2_hasMuon_all,     all/PtV-all/vw/j2/event/, hasMuon,    800, 600,    1, 0, 2, 0, 0, 0
+stack_vw_j2_hasSV_all,       all/PtV-all/vw/j2/event/, hasSV,      800, 600,    1, 0, 2, 0, 0, 0
+stack_vw_j2_SumPtTrk_Mu_all, all/PtV-all/vw/j2/event/, SumPtTrk_d, 800, 600, 0.04, 0, 2, 0, 0, 0
+#

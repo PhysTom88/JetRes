@@ -1,0 +1,5 @@
+# LEGEND TITLE, LOCATION, VARIABLE, COLOUR, MARKER, FIT MIN, FIT MAX
+No Muon Jets,       2BTag_0_WH125/nMu_0/RECO-all/vw/j1j2/M,   e, 810, l, 50, 200
+1 Muon Jets,        2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M,   e, 800, l, 50, 200
+2 Muon Jets,        2BTag_0_WH125/nMu_2/RECO-all/vw/j1j2/M,   e, 858, l, 50, 200
+All Jets,           2BTag_0_WH125/nMu_all/RECO-all/vw/j1j2/M, e, 824, l, 50, 200

@@ -1,0 +1,796 @@
+# STRING, CANVAS X, CANVAS Y, XMIN, XMAX, YMIN, YMAX, NBINS
+scat_j1_gtpT_aM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtpT_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtpT_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtpT_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtpT_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtpT_bM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtpT_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtpT_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtpT_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtpT_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtpT_eM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtpT_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtpT_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtpT_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtpT_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtpT_fM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtpT_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtpT_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtpT_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtpT_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtpT_gM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtpT_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtpT_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtpT_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtpT_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtpT_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1_gtpT_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1_gtpT_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1_gtpT_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1_gtpT_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1_gtpT_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1_gtpT_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1_gtpT_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1_gtpT_SvpLxy,    800, 600, 0, 2, 0, 90,   50
+scat_j1_gtpT_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1_gtpT_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1_gtpT_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1_gtpT_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1_gtpT_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1_gtpT_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1_gtpT_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1_gtpT_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1_gtpT_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1_gtE_aM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtE_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtE_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtE_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtE_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtE_bM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtE_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtE_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtE_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtE_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtE_eM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtE_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtE_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtE_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtE_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtE_fM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtE_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtE_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtE_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtE_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtE_gM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtE_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtE_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtE_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtE_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtE_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1_gtE_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1_gtE_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1_gtE_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1_gtE_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1_gtE_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1_gtE_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1_gtE_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1_gtE_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1_gtE_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1_gtE_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1_gtE_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1_gtE_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1_gtE_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1_gtE_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1_gtE_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1_gtE_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1_gtE_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1_gtM_aM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtM_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtM_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtM_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtM_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtM_bM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtM_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtM_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtM_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtM_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtM_eM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtM_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtM_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtM_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtM_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtM_fM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtM_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtM_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtM_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtM_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtM_gM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtM_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtM_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtM_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtM_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtM_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1_gtM_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1_gtM_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1_gtM_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1_gtM_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1_gtM_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1_gtM_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1_gtM_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1_gtM_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1_gtM_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1_gtM_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1_gtM_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1_gtM_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1_gtM_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1_gtM_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1_gtM_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1_gtM_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1_gtM_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1_gtEta_aM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtEta_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtEta_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtEta_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtEta_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtEta_bM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtEta_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtEta_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtEta_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtEta_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtEta_eM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtEta_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtEta_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtEta_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtEta_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtEta_fM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtEta_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtEta_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtEta_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtEta_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtEta_gM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtEta_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtEta_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtEta_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtEta_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtEta_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1_gtEta_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1_gtEta_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1_gtEta_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1_gtEta_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1_gtEta_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1_gtEta_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1_gtEta_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1_gtEta_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1_gtEta_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1_gtEta_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1_gtEta_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1_gtEta_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1_gtEta_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1_gtEta_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1_gtEta_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1_gtEta_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1_gtEta_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1_gtPhi_aM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtPhi_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtPhi_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtPhi_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtPhi_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtPhi_bM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtPhi_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtPhi_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtPhi_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtPhi_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtPhi_eM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtPhi_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtPhi_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtPhi_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtPhi_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtPhi_fM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtPhi_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtPhi_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtPhi_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtPhi_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtPhi_gM,   800, 600, 0, 2, 0, 80, 50
+scat_j1_gtPhi_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1_gtPhi_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j1_gtPhi_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1_gtPhi_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1_gtPhi_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1_gtPhi_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1_gtPhi_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1_gtPhi_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1_gtPhi_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1_gtPhi_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1_gtPhi_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1_gtPhi_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1_gtPhi_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1_gtPhi_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1_gtPhi_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1_gtPhi_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1_gtPhi_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1_gtPhi_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1_gtPhi_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1_gtPhi_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1_gtPhi_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1_gtPhi_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j2_gtpT_aM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtpT_apT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtpT_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtpT_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtpT_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtpT_bM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtpT_bpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtpT_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtpT_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtpT_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtpT_eM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtpT_epT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtpT_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtpT_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtpT_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtpT_fM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtpT_fpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtpT_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtpT_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtpT_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtpT_gM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtpT_gpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtpT_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtpT_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtpT_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtpT_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j2_gtpT_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j2_gtpT_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j2_gtpT_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j2_gtpT_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j2_gtpT_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j2_gtpT_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j2_gtpT_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j2_gtpT_SvpLxy,    800, 600, 0, 2, 0, 90,   50
+scat_j2_gtpT_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j2_gtpT_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j2_gtpT_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j2_gtpT_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j2_gtpT_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j2_gtpT_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j2_gtpT_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j2_gtpT_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j2_gtpT_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j2_gtE_aM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtE_apT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtE_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtE_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtE_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtE_bM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtE_bpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtE_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtE_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtE_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtE_eM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtE_epT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtE_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtE_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtE_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtE_fM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtE_fpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtE_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtE_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtE_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtE_gM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtE_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j2_gtE_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtE_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtE_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtE_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j2_gtE_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j2_gtE_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j2_gtE_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j2_gtE_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j2_gtE_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j2_gtE_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j2_gtE_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j2_gtE_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j2_gtE_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j2_gtE_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j2_gtE_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j2_gtE_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j2_gtE_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j2_gtE_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j2_gtE_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j2_gtE_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j2_gtE_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j2_gtM_aM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtM_apT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtM_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtM_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtM_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtM_bM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtM_bpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtM_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtM_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtM_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtM_eM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtM_epT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtM_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtM_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtM_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtM_fM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtM_fpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtM_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtM_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtM_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtM_gM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtM_gpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtM_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtM_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtM_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtM_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j2_gtM_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j2_gtM_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j2_gtM_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j2_gtM_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j2_gtM_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j2_gtM_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j2_gtM_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j2_gtM_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j2_gtM_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j2_gtM_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j2_gtM_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j2_gtM_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j2_gtM_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j2_gtM_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j2_gtM_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j2_gtM_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j2_gtM_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j2_gtEta_aM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtEta_apT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtEta_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtEta_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtEta_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtEta_bM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtEta_bpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtEta_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtEta_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtEta_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtEta_eM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtEta_epT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtEta_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtEta_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtEta_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtEta_fM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtEta_fpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtEta_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtEta_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtEta_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtEta_gM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtEta_gpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtEta_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtEta_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtEta_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtEta_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j2_gtEta_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j2_gtEta_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j2_gtEta_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j2_gtEta_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j2_gtEta_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j2_gtEta_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j2_gtEta_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j2_gtEta_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j2_gtEta_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j2_gtEta_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j2_gtEta_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j2_gtEta_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j2_gtEta_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j2_gtEta_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j2_gtEta_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j2_gtEta_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j2_gtEta_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j2_gtPhi_aM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtPhi_apT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtPhi_aE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtPhi_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtPhi_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtPhi_bM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtPhi_bpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtPhi_bE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtPhi_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtPhi_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtPhi_eM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtPhi_epT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtPhi_eE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtPhi_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtPhi_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtPhi_fM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtPhi_fpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtPhi_fE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtPhi_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtPhi_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtPhi_gM,   800, 600, 0, 2, 0, 25, 50
+scat_j2_gtPhi_gpT,  800, 600, 0, 2, 0, 250, 50
+scat_j2_gtPhi_gE,   800, 600, 0, 2, 0, 600, 50
+scat_j2_gtPhi_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j2_gtPhi_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j2_gtPhi_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j2_gtPhi_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j2_gtPhi_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j2_gtPhi_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j2_gtPhi_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j2_gtPhi_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j2_gtPhi_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j2_gtPhi_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j2_gtPhi_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j2_gtPhi_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j2_gtPhi_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j2_gtPhi_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j2_gtPhi_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j2_gtPhi_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j2_gtPhi_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j2_gtPhi_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j2_gtPhi_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j2_gtPhi_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1j2_gtpT_aM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtpT_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtpT_aE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtpT_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtpT_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtpT_bM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtpT_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtpT_bE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtpT_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtpT_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtpT_eM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtpT_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtpT_eE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtpT_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtpT_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtpT_fM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtpT_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtpT_fE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtpT_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtpT_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtpT_gM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtpT_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtpT_gE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtpT_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtpT_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtpT_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1j2_gtpT_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1j2_gtpT_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1j2_gtpT_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1j2_gtpT_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1j2_gtpT_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1j2_gtpT_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1j2_gtpT_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1j2_gtpT_SvpLxy,    800, 600, 0, 2, 0, 90,   50
+scat_j1j2_gtpT_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1j2_gtpT_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1j2_gtpT_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1j2_gtpT_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1j2_gtpT_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1j2_gtpT_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1j2_gtpT_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1j2_gtpT_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1j2_gtpT_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1j2_gtE_aM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtE_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtE_aE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtE_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtE_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtE_bM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtE_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtE_bE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtE_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtE_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtE_eM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtE_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtE_eE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtE_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtE_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtE_fM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtE_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtE_fE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtE_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtE_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtE_gM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtE_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtE_gE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtE_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtE_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtE_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1j2_gtE_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1j2_gtE_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1j2_gtE_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1j2_gtE_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1j2_gtE_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1j2_gtE_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1j2_gtE_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1j2_gtE_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1j2_gtE_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1j2_gtE_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1j2_gtE_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1j2_gtE_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1j2_gtE_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1j2_gtE_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1j2_gtE_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1j2_gtE_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1j2_gtE_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1j2_gtM_aM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtM_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtM_aE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtM_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtM_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtM_bM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtM_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtM_bE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtM_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtM_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtM_eM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtM_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtM_eE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtM_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtM_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtM_fM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtM_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtM_fE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtM_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtM_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtM_gM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtM_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtM_gE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtM_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtM_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtM_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1j2_gtM_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1j2_gtM_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1j2_gtM_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1j2_gtM_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1j2_gtM_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1j2_gtM_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1j2_gtM_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1j2_gtM_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1j2_gtM_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1j2_gtM_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1j2_gtM_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1j2_gtM_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1j2_gtM_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1j2_gtM_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1j2_gtM_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1j2_gtM_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1j2_gtM_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1j2_gtEta_aM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtEta_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtEta_aE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtEta_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtEta_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtEta_bM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtEta_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtEta_bE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtEta_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtEta_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtEta_eM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtEta_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtEta_eE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtEta_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtEta_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtEta_fM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtEta_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtEta_fE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtEta_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtEta_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtEta_gM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtEta_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtEta_gE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtEta_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtEta_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtEta_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1j2_gtEta_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1j2_gtEta_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1j2_gtEta_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1j2_gtEta_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1j2_gtEta_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1j2_gtEta_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1j2_gtEta_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1j2_gtEta_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1j2_gtEta_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1j2_gtEta_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1j2_gtEta_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1j2_gtEta_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1j2_gtEta_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1j2_gtEta_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1j2_gtEta_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1j2_gtEta_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1j2_gtEta_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#
+scat_j1j2_gtPhi_aM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtPhi_apT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtPhi_aE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtPhi_aeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtPhi_aphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtPhi_bM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtPhi_bpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtPhi_bE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtPhi_beta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtPhi_bphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtPhi_eM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtPhi_epT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtPhi_eE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtPhi_eeta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtPhi_ephi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtPhi_fM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtPhi_fpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtPhi_fE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtPhi_feta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtPhi_fphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtPhi_gM,   800, 600, 0, 2, 0, 250, 50
+scat_j1j2_gtPhi_gpT,  800, 600, 0, 2, 0, 500, 50
+scat_j1j2_gtPhi_gE,   800, 600, 0, 2, 0, 1200, 50
+scat_j1j2_gtPhi_geta, 800, 600, 0, 2, -2, 3, 50
+scat_j1j2_gtPhi_gphi, 800, 600, 0, 2, -3, 4, 50
+#
+scat_j1j2_gtPhi_FracEM3,   800, 600, 0, 2, 0, 0.30, 50
+scat_j1j2_gtPhi_FracTile0, 800, 600, 0, 2, 0, 0.55, 50
+scat_j1j2_gtPhi_JVF,       800, 600, 0, 2, 0, 1.10, 50
+scat_j1j2_gtPhi_NTrk,      800, 600, 0, 2, 0, 20,   50
+scat_j1j2_gtPhi_TrkWidth,  800, 600, 0, 2, 0, 0.4,  50
+#
+scat_j1j2_gtPhi_Width,     800, 600, 0, 2, 0, 0.25, 50
+scat_j1j2_gtPhi_bWeight,   800, 600, 0, 2, 0, 1,    50
+scat_j1j2_gtPhi_SvpErrLxy, 800, 600, 0, 2, 0, 7,    50
+scat_j1j2_gtPhi_SvpLxy,    800, 600, 0, 2, 0, 80,   50
+scat_j1j2_gtPhi_SvpM,      800, 600, 0, 2, 0, 7,    50
+#
+scat_j1j2_gtPhi_SvpNTrk, 800, 600, 0, 2, 0, 12,     50
+scat_j1j2_gtPhi_MET,     800, 600, 0, 2, 0, 400,    50
+scat_j1j2_gtPhi_METPhi,  800, 600, 0, 2, -3, 4,     50
+scat_j1j2_gtPhi_METz1,   800, 600, 0, 2, -600, 600, 50
+scat_j1j2_gtPhi_PtV,     800, 600, 0, 2, 0, 500,    50
+#
+scat_j1j2_gtPhi_bTag,     800, 600, 0, 2, 1, 5,   50
+scat_j1j2_gtPhi_SumPtTrk, 800, 600, 0, 2, 0, 350, 50
+scat_j1j2_gtPhi_EMF,      800, 600, 0, 2, 0, 1,   50
+#
+#

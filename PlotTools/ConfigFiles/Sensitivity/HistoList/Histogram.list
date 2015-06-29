@@ -1,0 +1,7 @@
+# STRING, LOCATION, REBIN VALUE, XMIN, XMAX
+sens_vw_j1j2_M_all, all/PtV-all/vw/j1j2/M/,      10, $p_{T}^{V}$ inc.
+sens_vw_j1j2_M_0,   all/PtV-0-90/vw/j1j2/M/,     10, $p_{T}^{V} < 90$ GeV
+sens_vw_j1j2_M_90,  all/PtV-90-120/vw/j1j2/M/,   10, $90 < p_{T}^{V} < 120$ GeV
+sens_vw_j1j2_M_120, all/PtV-120-160/vw/j1j2/M/,  10, $120 < p_{T}^{V} < 160$ GeV
+sens_vw_j1j2_M_160, all/PtV-160-200/vw/j1j2/M/,  10, $160 < p_{T}^{V} < 200$ GeV
+sens_vw_j1j2_M_200, all/PtV-200-2000/vw/j1j2/M/, 10, $p_{T}^{V} > 200$ GeV

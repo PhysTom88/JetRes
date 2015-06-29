@@ -1,0 +1,113 @@
+# STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABELSIZE, TEXTSIZE
+twoD_vw_j1j2_M_all_2BTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2BTag,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2BTag,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2BTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2BTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2BTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2LBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2LBTag,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2LBTag,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2LBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2LBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2LBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2MBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2MBTag,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2MBTag,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2MBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2MBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2MBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2TBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2TBTag,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2TBTag,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2TBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2TBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2TBTag, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2BTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2BTag_aPt,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2BTag_aPt,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2BTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2BTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2BTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2LBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2LBTag_aPt,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2LBTag_aPt,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2LBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2LBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2LBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2MBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2MBTag_aPt,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2MBTag_aPt,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2MBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2MBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2MBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2TBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2TBTag_aPt,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2TBTag_aPt,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2TBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2TBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2TBTag_aPt, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2BTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2BTag_all,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2BTag_all,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2BTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2BTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2BTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2LBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2LBTag_all,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2LBTag_all,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2LBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2LBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2LBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2MBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2MBTag_all,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2MBTag_all,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2MBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2MBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2MBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2TBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2TBTag_all,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2TBTag_all,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2TBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2TBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2TBTag_all, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2BTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2BTag_NNJ,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2BTag_NNJ,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2BTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2BTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2BTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2LBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2LBTag_NNJ,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2LBTag_NNJ,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2LBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2LBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2LBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2MBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2MBTag_NNJ,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2MBTag_NNJ,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2MBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2MBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2MBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#
+twoD_vw_j1j2_M_all_2TBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_0_2TBTag_NNJ,   m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_90_2TBTag_NNJ,  m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_120_2TBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_160_2TBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+twoD_vw_j1j2_M_200_2TBTag_NNJ, m_{b#bar{b}}[GeV], RMS [GeV], 0.9, 0.9, 0.05, 0.049
+#

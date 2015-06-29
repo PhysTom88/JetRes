@@ -1,0 +1,22 @@
+# PROCESS, LOCATION, SIG/BKG, EVENT SELECTION, SCALE FACTOR
+WH125,    2MBTagEl_0_WH125,   SIGNAL, 2MBTagEl, 1.09902
+ZllH125,  2MBTagEl_0_ZllH125, SIGNAL, 2MBTagEl, 1.09902
+Wbb,      2MBTagEl_0_Wbb,     W+H,    2MBTagEl, 1.09902
+Wbl,      2MBTagEl_0_Wbl,     W+H,    2MBTagEl, 1.09902
+Wcc,      2MBTagEl_0_Wcc,     W+H,    2MBTagEl, 1.09902
+Wcl,      2MBTagEl_0_Wcl,     W+CL,   2MBTagEl, 1.09902
+Wll,      2MBTagEl_0_Wll,     W+L,    2MBTagEl, 1.09902
+Zbb,      2MBTagEl_0_Zbb,     Z+H,    2MBTagEl, 1.09902
+Zbl,      2MBTagEl_0_Zbl,     Z+H,    2MBTagEl, 1.09902
+Zcc,      2MBTagEl_0_Zcc,     Z+H,    2MBTagEl, 1.09902
+Zcl,      2MBTagEl_0_Zcl,     Z+CL,   2MBTagEl, 1.09902
+Zll,      2MBTagEl_0_Zll,     Z+L,    2MBTagEl, 1.09902
+ttbar,    2MBTagEl_0_TTBar,   TOP,    2MBTagEl, 1.09902
+stop Wt,  2MBTagEl_0_stopWt,  STOP,   2MBTagEl, 1.09902
+stop t,   2MBTagEl_0_stopt,   STOP,   2MBTagEl, 1.09902
+stop s,   2MBTagEl_0_stops,   STOP,   2MBTagEl, 1.09902
+WW,       2MBTagEl_0_WW,      VV,     2MBTagEl, 1.09902
+WZ,       2MBTagEl_0_WZ,      VV,     2MBTagEl, 1.09902
+ZZ,       2MBTagEl_0_ZZ,      VV,     2MBTagEl, 1.09902
+MultiJet, 2MBTagEl_0_MJ,      MJe,    2MBTagEl, 0.0482946
+Data,     2MBTagEl_0_Data,    DATA,   2MBTagEl, 1.00

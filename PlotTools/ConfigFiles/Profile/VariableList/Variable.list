@@ -1,0 +1,85 @@
+# r_BRANCH NAME, T_BRANCH NAME, SAVE AS, SAVE WHERE, X_MIN, X_MAX, N_BINS
+j1_EM_Pt,            j1_GENWZ_Pt, a,  bw/j1/Pt, 0, 2, 50
+j1_EMJES_Pt,         j1_GENWZ_Pt, b,  bw/j1/Pt, 0, 2, 50
+j1_EMJESGSC_Pt,      j1_GENWZ_Pt, c,  bw/j1/Pt, 0, 2, 50
+j1_EMJESGSCMu_Pt,    j1_GENWZ_Pt, d,  bw/j1/Pt, 0, 2, 50
+j1_EMJESGSCMuPt_Pt,  j1_GENWZ_Pt, e,  bw/j1/Pt, 0, 2, 50
+j1_EMJESGSCMuPt3_Pt, j1_GENWZ_Pt, e3, bw/j1/Pt, 0, 2, 50
+#
+j2_EM_Pt,            j2_GENWZ_Pt, a,  bw/j2/Pt, 0, 2, 50
+j2_EMJES_Pt,         j2_GENWZ_Pt, b,  bw/j2/Pt, 0, 2, 50
+j2_EMJESGSC_Pt,      j2_GENWZ_Pt, c,  bw/j2/Pt, 0, 2, 50
+j2_EMJESGSCMu_Pt,    j2_GENWZ_Pt, d,  bw/j2/Pt, 0, 2, 50
+j2_EMJESGSCMuPt_Pt,  j2_GENWZ_Pt, e,  bw/j2/Pt, 0, 2, 50
+j2_EMJESGSCMuPt3_Pt, j2_GENWZ_Pt, e3, bw/j2/Pt, 0, 2, 50
+#
+j1_EM_Pt,            j1_GENWZ_Pt, a,  bw/j/Pt, 0, 2, 50
+j1_EMJES_Pt,         j1_GENWZ_Pt, b,  bw/j/Pt, 0, 2, 50
+j1_EMJESGSC_Pt,      j1_GENWZ_Pt, c,  bw/j/Pt, 0, 2, 50
+j1_EMJESGSCMu_Pt,    j1_GENWZ_Pt, d,  bw/j/Pt, 0, 2, 50
+j1_EMJESGSCMuPt_Pt,  j1_GENWZ_Pt, e,  bw/j/Pt, 0, 2, 50
+j1_EMJESGSCMuPt3_Pt, j1_GENWZ_Pt, e3, bw/j/Pt, 0, 2, 50
+#
+j2_EM_Pt,            j2_GENWZ_Pt, a,  bw/j/Pt, 0, 2, 50
+j2_EMJES_Pt,         j2_GENWZ_Pt, b,  bw/j/Pt, 0, 2, 50
+j2_EMJESGSC_Pt,      j2_GENWZ_Pt, c,  bw/j/Pt, 0, 2, 50
+j2_EMJESGSCMu_Pt,    j2_GENWZ_Pt, d,  bw/j/Pt, 0, 2, 50
+j2_EMJESGSCMuPt_Pt,  j2_GENWZ_Pt, e,  bw/j/Pt, 0, 2, 50
+j2_EMJESGSCMuPt3_Pt, j2_GENWZ_Pt, e3, bw/j/Pt, 0, 2, 50
+#
+j1_EM_M,            j1_GENWZ_M, a,  bw/j1/M, 0, 2, 50
+j1_EMJES_M,         j1_GENWZ_M, b,  bw/j1/M, 0, 2, 50
+j1_EMJESGSC_M,      j1_GENWZ_M, c,  bw/j1/M, 0, 2, 50
+j1_EMJESGSCMu_M,    j1_GENWZ_M, d,  bw/j1/M, 0, 2, 50
+j1_EMJESGSCMuPt_M,  j1_GENWZ_M, e,  bw/j1/M, 0, 2, 50
+j1_EMJESGSCMuPt3_M, j1_GENWZ_M, e3, bw/j1/M, 0, 2, 50
+#
+j2_EM_M,            j2_GENWZ_M, a,  bw/j2/M, 0, 2, 50
+j2_EMJES_M,         j2_GENWZ_M, b,  bw/j2/M, 0, 2, 50
+j2_EMJESGSC_M,      j2_GENWZ_M, c,  bw/j2/M, 0, 2, 50
+j2_EMJESGSCMu_M,    j2_GENWZ_M, d,  bw/j2/M, 0, 2, 50
+j2_EMJESGSCMuPt_M,  j2_GENWZ_M, e,  bw/j2/M, 0, 2, 50
+j2_EMJESGSCMuPt3_M, j2_GENWZ_M, e3, bw/j2/M, 0, 2, 50
+#
+j1j2_EM_M,            j1j2_GENWZ_M, a,  bw/j1j2/M, 0, 2, 50
+j1j2_EMJES_M,         j1j2_GENWZ_M, b,  bw/j1j2/M, 0, 2, 50
+j1j2_EMJESGSC_M,      j1j2_GENWZ_M, c,  bw/j1j2/M, 0, 2, 50
+j1j2_EMJESGSCMu_M,    j1j2_GENWZ_M, d,  bw/j1j2/M, 0, 2, 50
+j1j2_EMJESGSCMuPt_M,  j1j2_GENWZ_M, e,  bw/j1j2/M, 0, 2, 50
+j1j2_EMJESGSCMuPt3_M, j1j2_GENWZ_M, e3, bw/j1j2/M, 0, 2, 50
+#
+j1j2_EM_M,            j1j2_GENWZ_M, a,  vw/j1j2/M, 0, 200, 200
+j1j2_EMJES_M,         j1j2_GENWZ_M, b,  vw/j1j2/M, 0, 200, 200
+j1j2_EMJESGSC_M,      j1j2_GENWZ_M, c,  vw/j1j2/M, 0, 200, 200
+j1j2_EMJESGSCMu_M,    j1j2_GENWZ_M, d,  vw/j1j2/M, 0, 200, 200
+j1j2_EMJESGSCMuPt_M,  j1j2_GENWZ_M, e,  vw/j1j2/M, 0, 200, 200
+j1j2_EMJESGSCMuPt3_M, j1j2_GENWZ_M, e3, vw/j1j2/M, 0, 200, 200
+#
+j1_EM_Pt,            j1_GENWZ_Pt, a,  cw/j1/Pt, 0, 2, 50
+j1_EMJES_Pt,         j1_GENWZ_Pt, b,  cw/j1/Pt, 0, 2, 50
+j1_EMJESGSC_Pt,      j1_GENWZ_Pt, c,  cw/j1/Pt, 0, 2, 50
+j1_EMJESGSCMu_Pt,    j1_GENWZ_Pt, d,  cw/j1/Pt, 0, 2, 50
+j1_EMJESGSCMuPt_Pt,  j1_GENWZ_Pt, e,  cw/j1/Pt, 0, 2, 50
+j1_EMJESGSCMuPt3_Pt, j1_GENWZ_Pt, e3, cw/j1/Pt, 0, 2, 50
+#
+j2_EM_Pt,            j2_GENWZ_Pt, a,  cw/j2/Pt, 0, 2, 50
+j2_EMJES_Pt,         j2_GENWZ_Pt, b,  cw/j2/Pt, 0, 2, 50
+j2_EMJESGSC_Pt,      j2_GENWZ_Pt, c,  cw/j2/Pt, 0, 2, 50
+j2_EMJESGSCMu_Pt,    j2_GENWZ_Pt, d,  cw/j2/Pt, 0, 2, 50
+j2_EMJESGSCMuPt_Pt,  j2_GENWZ_Pt, e,  cw/j2/Pt, 0, 2, 50
+j2_EMJESGSCMuPt3_Pt, j2_GENWZ_Pt, e3, cw/j2/Pt, 0, 2, 50
+#
+j1_EM_Pt,            j1_GENWZ_Pt, a,  cw/j/Pt, 0, 2, 50
+j1_EMJES_Pt,         j1_GENWZ_Pt, b,  cw/j/Pt, 0, 2, 50
+j1_EMJESGSC_Pt,      j1_GENWZ_Pt, c,  cw/j/Pt, 0, 2, 50
+j1_EMJESGSCMu_Pt,    j1_GENWZ_Pt, d,  cw/j/Pt, 0, 2, 50
+j1_EMJESGSCMuPt_Pt,  j1_GENWZ_Pt, e,  cw/j/Pt, 0, 2, 50
+j1_EMJESGSCMuPt3_Pt, j1_GENWZ_Pt, e3, cw/j/Pt, 0, 2, 50
+#
+j2_EM_Pt,            j2_GENWZ_Pt, a,  cw/j/Pt, 0, 2, 50
+j2_EMJES_Pt,         j2_GENWZ_Pt, b,  cw/j/Pt, 0, 2, 50
+j2_EMJESGSC_Pt,      j2_GENWZ_Pt, c,  cw/j/Pt, 0, 2, 50
+j2_EMJESGSCMu_Pt,    j2_GENWZ_Pt, d,  cw/j/Pt, 0, 2, 50
+j2_EMJESGSCMuPt_Pt,  j2_GENWZ_Pt, e,  cw/j/Pt, 0, 2, 50
+j2_EMJESGSCMuPt3_Pt, j2_GENWZ_Pt, e3, cw/j/Pt, 0, 2, 50
+#

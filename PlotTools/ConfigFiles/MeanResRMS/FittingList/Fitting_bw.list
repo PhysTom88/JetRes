@@ -1,0 +1,28 @@
+# STRING, COMPARE TO, GET MEAN, GET RMS, GET RES, FIT
+meanResRMS_bw_j1j2_M_all_2BTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_0_2BTag,   EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_90_2BTag,  EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_120_2BTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_160_2BTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_200_2BTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+#
+meanResRMS_bw_j1j2_M_all_2LBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_0_2LBTag,   EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_90_2LBTag,  EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_120_2LBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_160_2LBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_200_2LBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+#
+meanResRMS_bw_j1j2_M_all_2MBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_0_2MBTag,   EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_90_2MBTag,  EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_120_2MBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_160_2MBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_200_2MBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+#
+meanResRMS_bw_j1j2_M_all_2TBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_0_2TBTag,   EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_90_2TBTag,  EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_120_2TBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_160_2TBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_200_2TBTag, EM+JES+GSC+Mu+Pt3, 1, 1, 0, BUKIN

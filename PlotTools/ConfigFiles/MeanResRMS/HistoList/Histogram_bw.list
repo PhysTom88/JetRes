@@ -1,0 +1,28 @@
+# STRING, LOCATION, REBIN VALUE, DO NORM, XMIN, XMAX, pTV RANGE, TAG  TYPE
+meanResRMS_bw_j1j2_M_all_2BTag, all/PtV-all/bw/j1j2/M/,      0.04, 0, 0, 2, $p_{T}^{V}$ inc.,            2BTag
+meanResRMS_bw_j1j2_M_0_2BTag,   all/PtV-0-90/bw/j1j2/M/,     0.04, 0, 0, 2, $p_{T}^{V} < 90$ GeV,        2BTag
+meanResRMS_bw_j1j2_M_90_2BTag,  all/PtV-90-120/bw/j1j2/M/,   0.04, 0, 0, 2, $90 < p_{T}^{V} < 120$ GeV,  2BTag
+meanResRMS_bw_j1j2_M_120_2BTag, all/PtV-120-160/bw/j1j2/M/,  0.04, 0, 0, 2, $120 < p_{T}^{V} < 160$ GeV, 2BTag
+meanResRMS_bw_j1j2_M_160_2BTag, all/PtV-160-200/bw/j1j2/M/,  0.04, 0, 0, 2, $160 < p_{T}^{V} < 200$ GeV, 2BTag
+meanResRMS_bw_j1j2_M_200_2BTag, all/PtV-200-2000/bw/j1j2/M/, 0.04, 0, 0, 2, $p_{T}^{V} > 200$ GeV,       2BTag
+#
+meanResRMS_bw_j1j2_M_all_2LBTag, all/PtV-all/bw/j1j2/M/,      0.04, 0, 0, 2, $p_{T}^{V}$ inc.,            2LBTag
+meanResRMS_bw_j1j2_M_0_2LBTag,   all/PtV-0-90/bw/j1j2/M/,     0.04, 0, 0, 2, $p_{T}^{V} < 90$ GeV,        2LBTag
+meanResRMS_bw_j1j2_M_90_2LBTag,  all/PtV-90-120/bw/j1j2/M/,   0.04, 0, 0, 2, $90 < p_{T}^{V} < 120$ GeV,  2LBTag
+meanResRMS_bw_j1j2_M_120_2LBTag, all/PtV-120-160/bw/j1j2/M/,  0.04, 0, 0, 2, $120 < p_{T}^{V} < 160$ GeV, 2LBTag
+meanResRMS_bw_j1j2_M_160_2LBTag, all/PtV-160-200/bw/j1j2/M/,  0.04, 0, 0, 2, $160 < p_{T}^{V} < 200$ GeV, 2LBTag
+meanResRMS_bw_j1j2_M_200_2LBTag, all/PtV-200-2000/bw/j1j2/M/, 0.04, 0, 0, 2, $p_{T}^{V} > 200$ GeV,       2LBTag
+#
+meanResRMS_bw_j1j2_M_all_2MBTag, all/PtV-all/bw/j1j2/M/,      0.04, 0, 0, 2, $p_{T}^{V}$ inc.,            2MBTag
+meanResRMS_bw_j1j2_M_0_2MBTag,   all/PtV-0-90/bw/j1j2/M/,     0.04, 0, 0, 2, $p_{T}^{V} < 90$ GeV,        2MBTag
+meanResRMS_bw_j1j2_M_90_2MBTag,  all/PtV-90-120/bw/j1j2/M/,   0.04, 0, 0, 2, $90 < p_{T}^{V} < 120$ GeV,  2MBTag
+meanResRMS_bw_j1j2_M_120_2MBTag, all/PtV-120-160/bw/j1j2/M/,  0.04, 0, 0, 2, $120 < p_{T}^{V} < 160$ GeV, 2MBTag
+meanResRMS_bw_j1j2_M_160_2MBTag, all/PtV-160-200/bw/j1j2/M/,  0.04, 0, 0, 2, $160 < p_{T}^{V} < 200$ GeV, 2MBTag
+meanResRMS_bw_j1j2_M_200_2MBTag, all/PtV-200-2000/bw/j1j2/M/, 0.04, 0, 0, 2, $p_{T}^{V} > 200$ GeV,       2MBTag
+#
+meanResRMS_bw_j1j2_M_all_2TBTag, all/PtV-all/bw/j1j2/M/,      0.04, 0, 0, 2, $p_{T}^{V}$ inc.,            2TBTag
+meanResRMS_bw_j1j2_M_0_2TBTag,   all/PtV-0-90/bw/j1j2/M/,     0.04, 0, 0, 2, $p_{T}^{V} < 90$ GeV,        2TBTag
+meanResRMS_bw_j1j2_M_90_2TBTag,  all/PtV-90-120/bw/j1j2/M/,   0.04, 0, 0, 2, $90 < p_{T}^{V} < 120$ GeV,  2TBTag
+meanResRMS_bw_j1j2_M_120_2TBTag, all/PtV-120-160/bw/j1j2/M/,  0.04, 0, 0, 2, $120 < p_{T}^{V} < 160$ GeV, 2TBTag
+meanResRMS_bw_j1j2_M_160_2TBTag, all/PtV-160-200/bw/j1j2/M/,  0.04, 0, 0, 2, $160 < p_{T}^{V} < 200$ GeV, 2TBTag
+meanResRMS_bw_j1j2_M_200_2TBTag, all/PtV-200-2000/bw/j1j2/M/, 0.04, 0, 0, 2, $p_{T}^{V} > 200$ GeV,       2TBTag

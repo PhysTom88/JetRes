@@ -1,0 +1,12 @@
+# CORRECTION, VALUE, COMPARE TO
+GENWZ,                 t,  0
+EM,                    a,  0
+EM+JES,                b,  0
+EM+JES+GSC,            c,  0
+EM+JES+GSC+Mu,         d,  0
+EM+JES+GSC+Mu+pT,      e,  1
+EM+JES+GSC+Mu+pT2,     e2, 0
+EM+JES+GSC+Mu+pT3,     e3, 0
+EM+JES+GSC+Mu+pT3NNJ1, f1, 0
+EM+JES+GSC+Mu+pT3NNJ2, f2, 0
+EM+JES+GSC+Mu+pT3NNJ3, f3, 0

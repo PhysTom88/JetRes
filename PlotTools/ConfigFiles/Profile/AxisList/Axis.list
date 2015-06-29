@@ -1,0 +1,5 @@
+# STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABEL SIZE, TEXT SIZE
+prof_cw_j1_all_MIJ_2BTag, p_{T}^{Reco}, <p_{T}^{Truth} / p_{T}^{Reco}>, 0.99, 1.05, 0.05, 0.04
+prof_cw_j1_wMu_MIJ_2BTag, p_{T}^{Reco}, <p_{T}^{Truth} / p_{T}^{Reco}>, 0.99, 1.05, 0.05, 0.04
+prof_cw_j1_nMu_MIJ_2BTag, p_{T}^{Reco}, <p_{T}^{Truth} / p_{T}^{Reco}>, 0.99, 1.05, 0.05, 0.04
+prof_cw_j1_com_MIJ_2BTag, p_{T}^{Reco}, <p_{T}^{Truth} / p_{T}^{Reco}>, 0.99, 1.05, 0.05, 0.04

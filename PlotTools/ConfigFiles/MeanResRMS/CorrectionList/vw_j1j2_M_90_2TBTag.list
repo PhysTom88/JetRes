@@ -1,0 +1,12 @@
+# NAME, LOCATION, VARIABLE, FIT MIN, FIT MAX
+Truth,                  2TBTag_0_WH125/, t,  100, 150
+EM,                     2TBTag_0_WH125/, a,  10,  120
+EM+JES,                 2TBTag_0_WH125/, b,  50,  200
+EM+JES+GSC,             2TBTag_0_WH125/, c,  50,  200
+EM+JES+GSC+Mu,          2TBTag_0_WH125/, d,  50,  200
+EM+JES+GSC+Mu+Pt,       2TBTag_0_WH125/, e,  50,  200
+EM+JES+GSC+Mu+Pt2,      2TBTag_0_WH125/, e2, 50,  200
+EM+JES+GSC+Mu+Pt3,      2TBTag_0_WH125/, e3, 50,  200
+EM+JES+GSC+Mu+Pt3+NNJ1, 2TBTag_0_WH125/, f1, 50,  200
+EM+JES+GSC+Mu+Pt3+NNJ2, 2TBTag_0_WH125/, f2, 50,  200
+EM+JES+GSC+Mu+Pt3+NNJ3, 2TBTag_0_WH125/, f3, 50,  200

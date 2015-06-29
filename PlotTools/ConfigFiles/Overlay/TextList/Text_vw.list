@@ -1,0 +1,225 @@
+# STRING, TEXT ON PLOT, TEXTSIZE, TEXT ALIGNMENT, YSTART, GAP, XPOSITION
+overlay_vw_j1j2_M_all_2BTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_all,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_all,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_all,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_all,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_all,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_all,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_all,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_all,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_all, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_abt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_abt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_abt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_abt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_abt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_abt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_abt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_abt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_abt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_bct,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_bct,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_bct,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_bct,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_bct,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_bct,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_bct,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_bct,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_bct, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_cdt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_cdt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_cdt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_cdt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_cdt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_cdt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_cdt,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_cdt,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_cdt, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_det,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_det,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_det,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_det,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_det,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_det,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_det,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_det,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_det, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_deP,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_deP,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_deP,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_deP,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_deP,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_deP,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_deP,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_deP,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_dep, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_deP, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_def,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_def,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_def,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_def,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_def,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_def,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_def,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_def,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_def, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2BTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2BTag_ef,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2BTag_ef,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2BTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2BTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2BTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2LBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2LBTag_ef,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2LBTag_ef,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2LBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2LBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2LBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag LL; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2MBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2MBTag_ef,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2MBTag_ef,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2MBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2MBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2MBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag MM; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#
+overlay_vw_j1j2_M_all_2TBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_0_2TBTag_ef,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 0 - 90 GeV; 1 l}},    0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_90_2TBTag_ef,  #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 90 - 120 GeV; 1 l}},  0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_120_2TBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 120 - 160 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_160_2TBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} 160 - 200 GeV; 1 l}}, 0.040, 13, 0.87, 0.06, 0.12
+overlay_vw_j1j2_M_200_2TBTag_ef, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag TT; p_{T}^{V} > 200 GeV; 1 l}},     0.040, 13, 0.87, 0.06, 0.12
+#

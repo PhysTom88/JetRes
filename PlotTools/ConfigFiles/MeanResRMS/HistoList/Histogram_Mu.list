@@ -1,0 +1,8 @@
+# STRING, LOCATION, REBIN VALUE, DO NORM, XMIN, XMAX, pTV RANGE, TAG  TYPE
+meanResRMS_vw_j1j2_M_2BTag_0Mu,, 2, 0, 0, 200, $p_{T}^{V}$ inc., 2BTag 
+meanResRMS_vw_j1j2_M_2BTag_1Mu,, 2, 0, 0, 200, $p_{T}^{V}$ inc., 2BTag 
+meanResRMS_vw_j1j2_M_2BTag_2Mu,, 2, 0, 0, 200, $p_{T}^{V}$ inc., 2BTag 
+#
+meanResRMS_bw_j1j2_M_2BTag_0Mu,, 0.04, 0, 0, 2, $p_{T}^{V}$ inc., 2BTag
+meanResRMS_bw_j1j2_M_2BTag_1Mu,, 0.04, 0, 0, 2, $p_{T}^{V}$ inc., 2BTag
+meanResRMS_bw_j1j2_M_2BTag_2Mu,, 0.04, 0, 0, 2, $p_{T}^{V}$ inc., 2BTag

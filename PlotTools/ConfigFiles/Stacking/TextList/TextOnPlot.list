@@ -1,0 +1,227 @@
+# STRING, TEXT FOR PLOT, TEXT SIZE, TEXT ALIGNMENT, Y-VALUE, GAP BETWEEN LINES, X POSITION
+stack_vw_j1j2_M_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_Pt_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_E_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_Eta_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_Phi_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_MET_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_MET_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_MET_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_MET_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_MET_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_MET_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_lepPt_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_lepPt_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_lepPt_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_lepPt_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_lepPt_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_lepPt_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_dR_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_dR_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_dR_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_dR_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_dR_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_dR_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_pTV_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_pTV_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_pTV_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_pTV_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_pTV_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_pTV_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_mTW_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15 
+stack_vw_j1j2_mTW_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_mTW_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_mTW_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_mTW_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_mTW_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_HT_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15 
+stack_vw_j1j2_HT_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_HT_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_HT_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_HT_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_HT_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_M_pT3_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_pT3_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_pT3_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_pT3_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_pT3_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_pT3_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+#stack_vw_j1j2_M_NN_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }},           0.050, 13, 0.91, 0.09, 0.15
+#stack_vw_j1j2_M_NN_0,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 0 - 90 GeV; }},    0.050, 13, 0.91, 0.09, 0.15
+#stack_vw_j1j2_M_NN_90,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 90 - 120 GeV; }},  0.050, 13, 0.91, 0.09, 0.15
+#stack_vw_j1j2_M_NN_120, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 120 - 160 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+#stack_vw_j1j2_M_NN_160, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} 160 - 200 GeV; }}, 0.050, 13, 0.91, 0.09, 0.15
+#stack_vw_j1j2_M_NN_200, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} > 200 GeV; }},     0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_M_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_M_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_Pt_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Pt_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_E_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_E_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_Eta_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Eta_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1j2_Phi_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1j2_Phi_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_M_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_M_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_M_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_M_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_M_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_Pt_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Pt_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Pt_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Pt_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Pt_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_E_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_E_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_E_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_E_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_E_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_Eta_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Eta_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Eta_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Eta_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Eta_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_Phi_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Phi_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Phi_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Phi_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_Phi_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_M_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_M_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_M_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_M_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_M_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_Pt_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Pt_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Pt_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Pt_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Pt_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_E_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_E_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_E_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_E_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_E_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_Eta_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Eta_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Eta_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Eta_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Eta_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_Phi_EM_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Phi_JES_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Phi_GSC_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Phi_Mu_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_Phi_Pt_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_BWeight_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_EMF_all,       #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_FracEM3_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_FracTile0_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_JVF_all,       #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_NTrk_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_SumPtTrk_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpErrLxy_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpLxy_all,    #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpM_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpNTrk_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_TrkWidth_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_Width_all,     #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpX_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpY_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpErrX_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpErrY_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SvpSigLxy_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j1_hasMuon_all,     #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_hasSV_all,       #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j1_SumPtTrk_Mu_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_BWeight_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_EMF_all,       #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_FracEM3_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_FracTile0_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_JVF_all,       #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_NTrk_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_SumPtTrk_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpErrLxy_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpLxy_all,    #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpM_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpNTrk_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_TrkWidth_all,  #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_Width_all,     #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpX_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpY_all,      #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpErrX_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpErrY_all,   #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SvpSigLxy_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#
+stack_vw_j2_hasMuon_all,     #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_hasSV_all,       #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+stack_vw_j2_SumPtTrk_Mu_all, #int Ldt = 20.3 fb^{-1} #sqrt{s} = 8 TeV?#bf{#it{p_{T}^{V} inc; }}, 0.050, 13, 0.91, 0.09, 0.15
+#

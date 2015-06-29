@@ -1,0 +1,7 @@
+# NAME, LOCATION, VARIABLE, FIT MIN, FIT MAX
+EM,                2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, a,  10,  120
+EM+JES,            2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, b,  50,  200
+EM+JES+GSC,        2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, c,  50,  200
+EM+JES+GSC+Mu,     2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, d,  50,  200
+EM+JES+GSC+Mu+Pt,  2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, e,  50,  200
+EM+JES+GSC+Mu+Pt3, 2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, e3, 50,  200

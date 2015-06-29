@@ -1,0 +1,112 @@
+# STRING, X1, Y1, X2, Y2, TEXTSIZE
+twoD_rew_j1j2_M_all_2BTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_0_2BTag,   0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_90_2BTag,  0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_120_2BTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_160_2BTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_200_2BTag, 0.55, 0.15, 0.88, 0.35, 0.035
+#
+twoD_rew_j1j2_M_all_2LBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_0_2LBTag,   0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_90_2LBTag,  0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_120_2LBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_160_2LBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_200_2LBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+#
+twoD_rew_j1j2_M_all_2MBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_0_2MBTag,   0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_90_2MBTag,  0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_120_2MBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_160_2MBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_200_2MBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+#
+twoD_rew_j1j2_M_all_2TBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_0_2TBTag,   0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_90_2TBTag,  0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_120_2TBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_160_2TBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+twoD_rew_j1j2_M_200_2TBTag, 0.55, 0.15, 0.88, 0.35, 0.035
+#
+twoD_rew_j1j2_M_all_2BTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2BTag_aPt,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2BTag_aPt,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2BTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2BTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2BTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2LBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2LBTag_aPt,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2LBTag_aPt,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2LBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2LBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2LBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2MBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2MBTag_aPt,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2MBTag_aPt,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2MBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2MBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2MBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2TBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2TBTag_aPt,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2TBTag_aPt,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2TBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2TBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2TBTag_aPt, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2BTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_0_2BTag_all,   0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_90_2BTag_all,  0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_120_2BTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_160_2BTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_200_2BTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+#
+twoD_rew_j1j2_M_all_2LBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_0_2LBTag_all,   0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_90_2LBTag_all,  0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_120_2LBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_160_2LBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_200_2LBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+#
+twoD_rew_j1j2_M_all_2MBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_0_2MBTag_all,   0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_90_2MBTag_all,  0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_120_2MBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_160_2MBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_200_2MBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+#
+twoD_rew_j1j2_M_all_2TBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_0_2TBTag_all,   0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_90_2TBTag_all,  0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_120_2TBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_160_2TBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+twoD_rew_j1j2_M_200_2TBTag_all, 0.5, 0.13, 0.88, 0.65, 0.035
+#
+twoD_rew_j1j2_M_all_2BTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2BTag_NNJ,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2BTag_NNJ,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2BTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2BTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2BTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2LBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2LBTag_NNJ,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2LBTag_NNJ,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2LBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2LBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2LBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2MBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2MBTag_NNJ,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2MBTag_NNJ,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2MBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2MBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2MBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+#
+twoD_rew_j1j2_M_all_2TBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_0_2TBTag_NNJ,   0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_90_2TBTag_NNJ,  0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_120_2TBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_160_2TBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035
+twoD_rew_j1j2_M_200_2TBTag_NNJ, 0.5, 0.13, 0.88, 0.45, 0.035

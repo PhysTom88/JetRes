@@ -1,0 +1,8 @@
+# PLOT TYPE, BRANCH FILE
+#v,    ConfigFiles/HistFile/TypeList/v.list
+vw,   ConfigFiles/HistFile/TypeList/vw.list
+#b,    ConfigFiles/HistFile/TypeList/b.list
+#bw,   ConfigFiles/HistFile/TypeList/bw.list
+#re,   ConfigFiles/HistFile/TypeList/re.list
+#rew,  ConfigFiles/HistFile/TypeList/rew.list
+#crea, ConfigFiles/HistFile/TypeList/crea.list

@@ -1,0 +1,22 @@
+# PROCESS, LOCATION, SIG/BKG, EVENT SELECTION, SCALE FACTOR
+WH125,    2TBTagMu_0_WH125,   SIGNAL, 2TBTagMu, 0.949032
+ZllH125,  2TBTagMu_0_ZllH125, SIGNAL, 2TBTagMu, 0.949032
+Wbb,      2TBTagMu_0_Wbb,     W+H,    2TBTagMu, 0.949032
+Wbl,      2TBTagMu_0_Wbl,     W+H,    2TBTagMu, 0.949032
+Wcc,      2TBTagMu_0_Wcc,     W+H,    2TBTagMu, 0.949032
+Wcl,      2TBTagMu_0_Wcl,     W+CL,   2TBTagMu, 0.949032
+Wll,      2TBTagMu_0_Wll,     W+L,    2TBTagMu, 0.949032
+Zbb,      2TBTagMu_0_Zbb,     Z+H,    2TBTagMu, 0.949032
+Zbl,      2TBTagMu_0_Zbl,     Z+H,    2TBTagMu, 0.949032
+Zcc,      2TBTagMu_0_Zcc,     Z+H,    2TBTagMu, 0.949032
+Zcl,      2TBTagMu_0_Zcl,     Z+CL,   2TBTagMu, 0.949032
+Zll,      2TBTagMu_0_Zll,     Z+L,    2TBTagMu, 0.949032
+ttbar,    2TBTagMu_0_TTBar,   TOP,    2TBTagMu, 0.949032
+stop Wt,  2TBTagMu_0_stopWt,  STOP,   2TBTagMu, 0.949032
+stop t,   2TBTagMu_0_stopt,   STOP,   2TBTagMu, 0.949032
+stop s,   2TBTagMu_0_stops,   STOP,   2TBTagMu, 0.949032
+WW,       2TBTagMu_0_WW,      VV,     2TBTagMu, 0.949032
+WZ,       2TBTagMu_0_WZ,      VV,     2TBTagMu, 0.949032
+ZZ,       2TBTagMu_0_ZZ,      VV,     2TBTagMu, 0.949032
+MultiJet, 2TBTagMu_0_MJ,      MJm,    2TBTagMu, 0.115172
+Data,     2TBTagMu_0_Data,    DATA,   2TBTagMu, 1.00

@@ -1,0 +1,45 @@
+# PROCESS, LOCATION, SIG/BKG, EVENT SELECTION, SCALE FACTOR
+## Electron
+WH125,    2TBTagEl_0_WH125,   SIGNAL, 2TBTagEl, 1.09902
+ZllH125,  2TBTagEl_0_ZllH125, SIGNAL, 2TBTagEl, 1.09902
+Wbb,      2TBTagEl_0_Wbb,     W+H,    2TBTagEl, 1.09902
+Wbl,      2TBTagEl_0_Wbl,     W+H,    2TBTagEl, 1.09902
+Wcc,      2TBTagEl_0_Wcc,     W+H,    2TBTagEl, 1.09902
+Wcl,      2TBTagEl_0_Wcl,     W+CL,   2TBTagEl, 1.09902
+Wll,      2TBTagEl_0_Wll,     W+L,    2TBTagEl, 1.09902
+Zbb,      2TBTagEl_0_Zbb,     Z+H,    2TBTagEl, 1.09902
+Zbl,      2TBTagEl_0_Zbl,     Z+H,    2TBTagEl, 1.09902
+Zcc,      2TBTagEl_0_Zcc,     Z+H,    2TBTagEl, 1.09902
+Zcl,      2TBTagEl_0_Zcl,     Z+CL,   2TBTagEl, 1.09902
+Zll,      2TBTagEl_0_Zll,     Z+L,    2TBTagEl, 1.09902
+ttbar,    2TBTagEl_0_TTBar,   TOP,    2TBTagEl, 1.09902
+stop Wt,  2TBTagEl_0_stopWt,  STOP,   2TBTagEl, 1.09902
+stop t,   2TBTagEl_0_stopt,   STOP,   2TBTagEl, 1.09902
+stop s,   2TBTagEl_0_stops,   STOP,   2TBTagEl, 1.09902
+WW,       2TBTagEl_0_WW,      VV,     2TBTagEl, 1.09902
+WZ,       2TBTagEl_0_WZ,      VV,     2TBTagEl, 1.09902
+ZZ,       2TBTagEl_0_ZZ,      VV,     2TBTagEl, 1.09902
+MultiJet, 2TBTagEl_0_MJ,      MJe,    2TBTagEl, 0.0482946
+Data,     2TBTagEl_0_Data,    DATA,   2TBTagEl, 1.00
+## Muon
+WH125,    2TBTagMu_0_WH125,   SIGNAL, 2TBTagMu, 0.949032
+ZllH125,  2TBTagMu_0_ZllH125, SIGNAL, 2TBTagMu, 0.949032
+Wbb,      2TBTagMu_0_Wbb,     W+H,    2TBTagMu, 0.949032
+Wbl,      2TBTagMu_0_Wbl,     W+H,    2TBTagMu, 0.949032
+Wcc,      2TBTagMu_0_Wcc,     W+H,    2TBTagMu, 0.949032
+Wcl,      2TBTagMu_0_Wcl,     W+CL,   2TBTagMu, 0.949032
+Wll,      2TBTagMu_0_Wll,     W+L,    2TBTagMu, 0.949032
+Zbb,      2TBTagMu_0_Zbb,     Z+H,    2TBTagMu, 0.949032
+Zbl,      2TBTagMu_0_Zbl,     Z+H,    2TBTagMu, 0.949032
+Zcc,      2TBTagMu_0_Zcc,     Z+H,    2TBTagMu, 0.949032
+Zcl,      2TBTagMu_0_Zcl,     Z+CL,   2TBTagMu, 0.949032
+Zll,      2TBTagMu_0_Zll,     Z+L,    2TBTagMu, 0.949032
+ttbar,    2TBTagMu_0_TTBar,   TOP,    2TBTagMu, 0.949032
+stop Wt,  2TBTagMu_0_stopWt,  STOP,   2TBTagMu, 0.949032
+stop t,   2TBTagMu_0_stopt,   STOP,   2TBTagMu, 0.949032
+stop s,   2TBTagMu_0_stops,   STOP,   2TBTagMu, 0.949032
+WW,       2TBTagMu_0_WW,      VV,     2TBTagMu, 0.949032
+WZ,       2TBTagMu_0_WZ,      VV,     2TBTagMu, 0.949032
+ZZ,       2TBTagMu_0_ZZ,      VV,     2TBTagMu, 0.949032
+MultiJet, 2TBTagMu_0_MJ,      MJm,    2TBTagMu, 0.115172
+Data,     2TBTagMu_0_Data,    DATA,   2TBTagMu, 1.00

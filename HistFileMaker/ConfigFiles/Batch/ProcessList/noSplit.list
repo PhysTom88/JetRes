@@ -1,0 +1,25 @@
+# TREE FILE, TREE NAME, BASE DIRECTORY
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2BTag+TruthGENWZ+LepAll_1_perevent/lvbb125.root, perevent, 2BTag_0_WH125
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2BTag+TruthGENWZ+LepAll_1_perevent/Wbb.root,     perevent, 2BTag_0_Wbb
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2BTag+TruthGENWZ+LepAll_1_perevent/Wcl.root,     perevent, 2BTag_0_Wcl
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2BTag+TruthGENWZ+LepAll_1_perevent/TTbar.root,   perevent, 2BTag_0_TTBar
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2BTag+TruthGENWZ+LepAll_1_perevent/WZ.root,      perevent, 2BTag_0_WZ
+#
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2LBTag+TruthGENWZ+LepAll_1_perevent/lvbb125.root, perevent, 2LBTag_0_WH125
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2LBTag+TruthGENWZ+LepAll_1_perevent/Wbb.root,     perevent, 2LBTag_0_Wbb
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2LBTag+TruthGENWZ+LepAll_1_perevent/Wcl.root,     perevent, 2LBTag_0_Wcl
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2LBTag+TruthGENWZ+LepAll_1_perevent/TTbar.root,   perevent, 2LBTag_0_TTBar
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2LBTag+TruthGENWZ+LepAll_1_perevent/WZ.root,      perevent, 2LBTag_0_WZ
+#
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2MBTag+TruthGENWZ+LepAll_1_perevent/lvbb125.root, perevent, 2MBTag_0_WH125
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2MBTag+TruthGENWZ+LepAll_1_perevent/Wbb.root,     perevent, 2MBTag_0_Wbb
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2MBTag+TruthGENWZ+LepAll_1_perevent/Wcl.root,     perevent, 2MBTag_0_Wcl
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2MBTag+TruthGENWZ+LepAll_1_perevent/TTbar.root,   perevent, 2MBTag_0_TTBar
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2MBTag+TruthGENWZ+LepAll_1_perevent/WZ.root,      perevent, 2MBTag_0_WZ
+#
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2TBTag+TruthGENWZ+LepAll_1_perevent/lvbb125.root, perevent, 2TBTag_0_WH125
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2TBTag+TruthGENWZ+LepAll_1_perevent/Wbb.root,     perevent, 2TBTag_0_Wbb
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2TBTag+TruthGENWZ+LepAll_1_perevent/Wcl.root,     perevent, 2TBTag_0_Wcl
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2TBTag+TruthGENWZ+LepAll_1_perevent/TTbar.root,   perevent, 2TBTag_0_TTBar
+/nfs/atlas/travenscroft02/TreeFiles/batch/readPaul_1_0_J1Pt45+3Jet+2TBTag+TruthGENWZ+LepAll_1_perevent/WZ.root,      perevent, 2TBTag_0_WZ
+#

@@ -1,0 +1,112 @@
+# STRING, REBIN, doNORM, XMIN, XMAX, FIT, FMIN, FMAX, XVAL, YVAL
+twoD_vw_j1j2_M_all_2BTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2BTag,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2BTag,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2BTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2BTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2BTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2LBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2LBTag,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2LBTag,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2LBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2LBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2LBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2MBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2MBTag,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2MBTag,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2MBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2MBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2MBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2TBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2TBTag,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2TBTag,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2TBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2TBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2TBTag, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2BTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2BTag_aPt,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2BTag_aPt,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2BTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2BTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2BTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2LBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2LBTag_aPt,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2LBTag_aPt,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2LBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2LBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2LBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2MBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2MBTag_aPt,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2MBTag_aPt,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2MBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2MBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2MBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2TBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2TBTag_aPt,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2TBTag_aPt,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2TBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2TBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2TBTag_aPt, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2BTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2BTag_all,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2BTag_all,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2BTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2BTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2BTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2LBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2LBTag_all,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2LBTag_all,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2LBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2LBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2LBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2MBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2MBTag_all,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2MBTag_all,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2MBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2MBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2MBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2TBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2TBTag_all,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2TBTag_all,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2TBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2TBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2TBTag_all, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2BTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2BTag_NNJ,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2BTag_NNJ,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2BTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2BTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2BTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2LBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2LBTag_NNJ,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2LBTag_NNJ,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2LBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2LBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2LBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2MBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2MBTag_NNJ,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2MBTag_NNJ,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2MBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2MBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2MBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+#
+twoD_vw_j1j2_M_all_2TBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_0_2TBTag_NNJ,   2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_90_2TBTag_NNJ,  2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_120_2TBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_160_2TBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS
+twoD_vw_j1j2_M_200_2TBTag_NNJ, 2, 0, 0, 300, BUKIN, MEAN, RMS

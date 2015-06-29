@@ -1,0 +1,6 @@
+# LEGEND TITLE, LOCATION, VARIABLE, COLOUR, MARKER, FIT MIN, FIT MAX
+EM,               2BTag_0_WH125/, a, 632, l, 0.1, 0.7
+EM+JES,           2BTag_0_WH125/, b, 883, l, -0.3, 0.3
+EM+JES+GSC,       2BTag_0_WH125/, c, 801, l, -0.3, 0.3
+EM+JES+GSC+Mu,    2BTag_0_WH125/, d, 868, l, -0.3, 0.3
+EM+JES+GSC+Mu+pT, 2BTag_0_WH125/, e, 824, l, -0.3, 0.3

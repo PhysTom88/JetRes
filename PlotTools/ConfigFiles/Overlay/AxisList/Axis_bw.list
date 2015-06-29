@@ -1,0 +1,225 @@
+#STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABELSIZE, TEXTSIZE, MAX Y
+overlay_bw_j1j2_M_all_2BTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2BTag_all,    m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2BTag_all,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2BTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2BTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2BTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2LBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_all,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_all,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_all,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_all,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_all, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2BTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2BTag_abt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2BTag_abt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2BTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2BTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2BTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2LBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_abt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_abt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_abt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_abt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_abt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_abt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_abt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2BTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2BTag_bct,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2BTag_bct,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2BTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2BTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2BTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2LBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_bct,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_bct,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_bct,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_bct,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_bct,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_bct,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_bct, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j1_M_all_2BTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_0_2BTag_cdt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_90_2BTag_cdt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_120_2BTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_160_2BTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_200_2BTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j1_M_all_2LBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_0_2LBTag_cdt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_90_2LBTag_cdt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_120_2LBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_160_2LBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_200_2LBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j1_M_all_2MBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_0_2MBTag_cdt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_90_2MBTag_cdt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_120_2MBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_160_2MBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_200_2MBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j1_M_all_2TBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_0_2TBTag_cdt,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_90_2TBTag_cdt,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_120_2TBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_160_2TBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j1_M_200_2TBTag_cdt, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2BTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2BTag_det,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2BTag_det,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2BTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2BTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2BTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2LBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_det,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_det,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_det,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_det,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_det,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_det,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_det, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2BTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_0_2BTag_deP,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_90_2BTag_deP,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_120_2BTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_160_2BTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_200_2BTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+#
+overlay_bw_j1j2_M_all_2LBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_deP,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_deP,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_deP,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_deP,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_deP,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_deP,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_deP, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2BTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_0_2BTag_def,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_90_2BTag_def,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_120_2BTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_160_2BTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_200_2BTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+#
+overlay_bw_j1j2_M_all_2LBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_def,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_def,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_def,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_def,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_def,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_def,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_def, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2BTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_0_2BTag_ef,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_90_2BTag_ef,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_120_2BTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_160_2BTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+overlay_bw_j1j2_M_200_2BTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45 
+#
+overlay_bw_j1j2_M_all_2LBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2LBTag_ef,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2LBTag_ef,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2LBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2LBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2LBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2MBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2MBTag_ef,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2MBTag_ef,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2MBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2MBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2MBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_bw_j1j2_M_all_2TBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_0_2TBTag_ef,   m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_90_2TBTag_ef,  m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_120_2TBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_160_2TBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+overlay_bw_j1j2_M_200_2TBTag_ef, m_{b#bar{b}}^{r} / m_{b#bar{b}}^{t}, Entries / 0.04, 0.90, 1.1, 0.047, 0.047, 1.45
+#

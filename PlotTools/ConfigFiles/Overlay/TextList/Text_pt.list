@@ -1,0 +1,11 @@
+# STRING, TEXT ON PLOT, TEXTSIZE, TEXT ALIGNMENT, YSTART, GAP, XPOSITION
+overlay_vw_j1j2_M_2BTag_pT_n, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+overlay_vw_j1j2_M_2BTag_pT,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1j2_M_2BTag_pT_n, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1j2_M_2BTag_pT,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+#
+overlay_vw_j1j2_M_2BTag_pT3_n, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+overlay_vw_j1j2_M_2BTag_pT3,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1j2_M_2BTag_pT3_n, #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1j2_M_2BTag_pT3,   #bf{#it{#bf{Simulation}}}?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},           0.040, 13, 0.87, 0.06, 0.13
+#

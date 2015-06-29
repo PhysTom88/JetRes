@@ -1,0 +1,5 @@
+# LEGEND TITLE, LOCATION, VARIABLE, COLOUR, MARKER, FIT MIN, FIT MAX
+No Muon Jets,       2BTag_0_WH125/nMu_0/RECO-all/bw/j1j2/M,   e3, 810, l, 2SIGMA, 2SIGMA
+1 Muon Jets,        2BTag_0_WH125/nMu_1/RECO-all/bw/j1j2/M,   e3, 800, l, 2SIGMA, 2SIGMA
+2 Muon Jets,        2BTag_0_WH125/nMu_2/RECO-all/bw/j1j2/M,   e3, 858, l, 2SIGMA, 2SIGMA
+All Jets,           2BTag_0_WH125/nMu_all/RECO-all/bw/j1j2/M, e3, 824, l, 2SIGMA, 2SIGMA

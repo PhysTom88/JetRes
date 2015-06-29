@@ -1,0 +1,5 @@
+# NAME, LOCATION, VARIABLE, FIT MIN, FIT MAX
+All, 2BTag_0_WH125/nMu_all/RECO-all/vw/j1j2/M, e,  50, 200
+0 Muon, 2BTag_0_WH125/nMu_0/RECO-all/vw/j1j2/M, e,  50, 200
+1 Muon, 2BTag_0_WH125/nMu_1/RECO-all/vw/j1j2/M, e,  50, 200
+2 MUon, 2BTag_0_WH125/nMu_2/RECO-all/vw/j1j2/M, e,  50, 200

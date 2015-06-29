@@ -1,0 +1,796 @@
+# STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABELSIZE, TEXTSIZE
+scat_j1_gtpT_aM,   p_{T}^{r}/p_{T}^{t}, EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_apT,  p_{T}^{r}/p_{T}^{t}, EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_aE,   p_{T}^{r}/p_{T}^{t}, EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_aeta, p_{T}^{r}/p_{T}^{t}, EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_aphi, p_{T}^{r}/p_{T}^{t}, EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_bM,   p_{T}^{r}/p_{T}^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_bpT,  p_{T}^{r}/p_{T}^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_bE,   p_{T}^{r}/p_{T}^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_beta, p_{T}^{r}/p_{T}^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_bphi, p_{T}^{r}/p_{T}^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_eM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_epT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_eE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_eeta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_ephi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_fM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_fpT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_fE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_feta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_fphi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_gM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_gpT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_gE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_geta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_gphi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_FracEM3,   p_{T}^{r}/p_{T}^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_FracTile0, p_{T}^{r}/p_{T}^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_JVF,       p_{T}^{r}/p_{T}^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_NTrk,      p_{T}^{r}/p_{T}^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_TrkWidth,  p_{T}^{r}/p_{T}^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_Width,     p_{T}^{r}/p_{T}^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_bWeight,   p_{T}^{r}/p_{T}^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_SvpErrLxy, p_{T}^{r}/p_{T}^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_SvpLxy,    p_{T}^{r}/p_{T}^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_SvpM,      p_{T}^{r}/p_{T}^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_SvpNTrk, p_{T}^{r}/p_{T}^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_MET,     p_{T}^{r}/p_{T}^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_METPhi,  p_{T}^{r}/p_{T}^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_METz1,   p_{T}^{r}/p_{T}^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_PtV,     p_{T}^{r}/p_{T}^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtpT_bTag,     p_{T}^{r}/p_{T}^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_SumPtTrk, p_{T}^{r}/p_{T}^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtpT_EMF,      p_{T}^{r}/p_{T}^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1_gtE_aM,   E^{r}/E^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_apT,  E^{r}/E^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_aE,   E^{r}/E^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_aeta, E^{r}/E^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_aphi, E^{r}/E^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_bM,   E^{r}/E^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_bpT,  E^{r}/E^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_bE,   E^{r}/E^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_beta, E^{r}/E^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_bphi, E^{r}/E^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_eM,   E^{r}/E^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_epT,  E^{r}/E^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_eE,   E^{r}/E^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_eeta, E^{r}/E^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_ephi, E^{r}/E^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_fM,   E^{r}/E^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_fpT,  E^{r}/E^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_fE,   E^{r}/E^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_feta, E^{r}/E^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_fphi, E^{r}/E^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_gM,   E^{r}/E^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_gpT,  E^{r}/E^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_gE,   E^{r}/E^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_geta, E^{r}/E^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_gphi, E^{r}/E^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_FracEM3,   E^{r}/E^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_FracTile0, E^{r}/E^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_JVF,       E^{r}/E^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_NTrk,      E^{r}/E^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_TrkWidth,  E^{r}/E^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_Width,     E^{r}/E^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_bWeight,   E^{r}/E^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_SvpErrLxy, E^{r}/E^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_SvpLxy,    E^{r}/E^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_SvpM,      E^{r}/E^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_SvpNTrk, E^{r}/E^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_MET,     E^{r}/E^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_METPhi,  E^{r}/E^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_METz1,   E^{r}/E^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_PtV,     E^{r}/E^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtE_bTag,     E^{r}/E^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_SumPtTrk, E^{r}/E^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtE_EMF,      E^{r}/E^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1_gtM_aM,   m_{j}^{r}/m_{j}^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_apT,  m_{j}^{r}/m_{j}^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_aE,   m_{j}^{r}/m_{j}^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_aeta, m_{j}^{r}/m_{j}^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_aphi, m_{j}^{r}/m_{j}^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_bM,   m_{j}^{r}/m_{j}^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_bpT,  m_{j}^{r}/m_{j}^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_bE,   m_{j}^{r}/m_{j}^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_beta, m_{j}^{r}/m_{j}^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_bphi, m_{j}^{r}/m_{j}^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_eM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_epT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_eE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_eeta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_ephi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_fM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_fpT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_fE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_feta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_fphi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_gM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_gpT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_gE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_geta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_gphi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_FracEM3,   m_{j}^{r}/m_{j}^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_FracTile0, m_{j}^{r}/m_{j}^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_JVF,       m_{j}^{r}/m_{j}^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_NTrk,      m_{j}^{r}/m_{j}^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_TrkWidth,  m_{j}^{r}/m_{j}^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_Width,     m_{j}^{r}/m_{j}^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_bWeight,   m_{j}^{r}/m_{j}^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_SvpErrLxy, m_{j}^{r}/m_{j}^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_SvpLxy,    m_{j}^{r}/m_{j}^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_SvpM,      m_{j}^{r}/m_{j}^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_SvpNTrk, m_{j}^{r}/m_{j}^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_MET,     m_{j}^{r}/m_{j}^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_METPhi,  m_{j}^{r}/m_{j}^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_METz1,   m_{j}^{r}/m_{j}^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_PtV,     m_{j}^{r}/m_{j}^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtM_bTag,     m_{j}^{r}/m_{j}^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_SumPtTrk, m_{j}^{r}/m_{j}^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtM_EMF,      m_{j}^{r}/m_{j}^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1_gtEta_aM,   #eta^{r}/#eta^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_apT,  #eta^{r}/#eta^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_aE,   #eta^{r}/#eta^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_aeta, #eta^{r}/#eta^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_aphi, #eta^{r}/#eta^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_bM,   #eta^{r}/#eta^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_bpT,  #eta^{r}/#eta^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_bE,   #eta^{r}/#eta^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_beta, #eta^{r}/#eta^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_bphi, #eta^{r}/#eta^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_eM,   #eta^{r}/#eta^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_epT,  #eta^{r}/#eta^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_eE,   #eta^{r}/#eta^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_eeta, #eta^{r}/#eta^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_ephi, #eta^{r}/#eta^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_fM,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_fpT,  #eta^{r}/#eta^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_fE,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_feta, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_fphi, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_gM,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_gpT,  #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_gE,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_geta, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_gphi, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_FracEM3,   #eta^{r}/#eta^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_FracTile0, #eta^{r}/#eta^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_JVF,       #eta^{r}/#eta^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_NTrk,      #eta^{r}/#eta^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_TrkWidth,  #eta^{r}/#eta^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_Width,     #eta^{r}/#eta^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_bWeight,   #eta^{r}/#eta^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_SvpErrLxy, #eta^{r}/#eta^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_SvpLxy,    #eta^{r}/#eta^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_SvpM,      #eta^{r}/#eta^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_SvpNTrk, #eta^{r}/#eta^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_MET,     #eta^{r}/#eta^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_METPhi,  #eta^{r}/#eta^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_METz1,   #eta^{r}/#eta^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_PtV,     #eta^{r}/#eta^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtEta_bTag,     #eta^{r}/#eta^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_SumPtTrk, #eta^{r}/#eta^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtEta_EMF,      #eta^{r}/#eta^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1_gtPhi_aM,   #phi^{r}/#phi^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_apT,  #phi^{r}/#phi^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_aE,   #phi^{r}/#phi^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_aeta, #phi^{r}/#phi^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_aphi, #phi^{r}/#phi^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_bM,   #phi^{r}/#phi^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_bpT,  #phi^{r}/#phi^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_bE,   #phi^{r}/#phi^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_beta, #phi^{r}/#phi^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_bphi, #phi^{r}/#phi^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_eM,   #phi^{r}/#phi^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_epT,  #phi^{r}/#phi^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_eE,   #phi^{r}/#phi^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_eeta, #phi^{r}/#phi^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_ephi, #phi^{r}/#phi^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_fM,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_fpT,  #phi^{r}/#phi^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_fE,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_feta, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_fphi, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_gM,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_gpT,  #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_gE,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_geta, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_gphi, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_FracEM3,   #phi^{r}/#phi^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_FracTile0, #phi^{r}/#phi^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_JVF,       #phi^{r}/#phi^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_NTrk,      #phi^{r}/#phi^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_TrkWidth,  #phi^{r}/#phi^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_Width,     #phi^{r}/#phi^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_bWeight,   #phi^{r}/#phi^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_SvpErrLxy, #phi^{r}/#phi^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_SvpLxy,    #phi^{r}/#phi^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_SvpM,      #phi^{r}/#phi^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_SvpNTrk, #phi^{r}/#phi^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_MET,     #phi^{r}/#phi^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_METPhi,  #phi^{r}/#phi^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_METz1,   #phi^{r}/#phi^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_PtV,     #phi^{r}/#phi^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1_gtPhi_bTag,     #phi^{r}/#phi^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_SumPtTrk, #phi^{r}/#phi^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1_gtPhi_EMF,      #phi^{r}/#phi^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j2_gtpT_aM,   p_{T}^{r}/p_{T}^{t}, EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_apT,  p_{T}^{r}/p_{T}^{t}, EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_aE,   p_{T}^{r}/p_{T}^{t}, EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_aeta, p_{T}^{r}/p_{T}^{t}, EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_aphi, p_{T}^{r}/p_{T}^{t}, EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_bM,   p_{T}^{r}/p_{T}^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_bpT,  p_{T}^{r}/p_{T}^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_bE,   p_{T}^{r}/p_{T}^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_beta, p_{T}^{r}/p_{T}^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_bphi, p_{T}^{r}/p_{T}^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_eM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_epT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_eE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_eeta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_ephi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_fM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_fpT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_fE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_feta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_fphi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_gM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_gpT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_gE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_geta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_gphi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_FracEM3,   p_{T}^{r}/p_{T}^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_FracTile0, p_{T}^{r}/p_{T}^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_JVF,       p_{T}^{r}/p_{T}^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_NTrk,      p_{T}^{r}/p_{T}^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_TrkWidth,  p_{T}^{r}/p_{T}^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_Width,     p_{T}^{r}/p_{T}^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_bWeight,   p_{T}^{r}/p_{T}^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_SvpErrLxy, p_{T}^{r}/p_{T}^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_SvpLxy,    p_{T}^{r}/p_{T}^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_SvpM,      p_{T}^{r}/p_{T}^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_SvpNTrk, p_{T}^{r}/p_{T}^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_MET,     p_{T}^{r}/p_{T}^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_METPhi,  p_{T}^{r}/p_{T}^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_METz1,   p_{T}^{r}/p_{T}^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_PtV,     p_{T}^{r}/p_{T}^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtpT_bTag,     p_{T}^{r}/p_{T}^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_SumPtTrk, p_{T}^{r}/p_{T}^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtpT_EMF,      p_{T}^{r}/p_{T}^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j2_gtE_aM,   E^{r}/E^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_apT,  E^{r}/E^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_aE,   E^{r}/E^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_aeta, E^{r}/E^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_aphi, E^{r}/E^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_bM,   E^{r}/E^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_bpT,  E^{r}/E^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_bE,   E^{r}/E^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_beta, E^{r}/E^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_bphi, E^{r}/E^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_eM,   E^{r}/E^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_epT,  E^{r}/E^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_eE,   E^{r}/E^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_eeta, E^{r}/E^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_ephi, E^{r}/E^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_fM,   E^{r}/E^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_fpT,  E^{r}/E^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_fE,   E^{r}/E^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_feta, E^{r}/E^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_fphi, E^{r}/E^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_gM,   E^{r}/E^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_gpT,  E^{r}/E^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_gE,   E^{r}/E^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_geta, E^{r}/E^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_gphi, E^{r}/E^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_FracEM3,   E^{r}/E^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_FracTile0, E^{r}/E^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_JVF,       E^{r}/E^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_NTrk,      E^{r}/E^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_TrkWidth,  E^{r}/E^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_Width,     E^{r}/E^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_bWeight,   E^{r}/E^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_SvpErrLxy, E^{r}/E^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_SvpLxy,    E^{r}/E^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_SvpM,      E^{r}/E^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_SvpNTrk, E^{r}/E^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_MET,     E^{r}/E^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_METPhi,  E^{r}/E^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_METz1,   E^{r}/E^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_PtV,     E^{r}/E^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtE_bTag,     E^{r}/E^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_SumPtTrk, E^{r}/E^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtE_EMF,      E^{r}/E^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j2_gtM_aM,   m_{j}^{r}/m_{j}^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_apT,  m_{j}^{r}/m_{j}^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_aE,   m_{j}^{r}/m_{j}^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_aeta, m_{j}^{r}/m_{j}^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_aphi, m_{j}^{r}/m_{j}^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_bM,   m_{j}^{r}/m_{j}^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_bpT,  m_{j}^{r}/m_{j}^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_bE,   m_{j}^{r}/m_{j}^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_beta, m_{j}^{r}/m_{j}^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_bphi, m_{j}^{r}/m_{j}^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_eM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_epT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_eE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_eeta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_ephi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_fM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_fpT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_fE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_feta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_fphi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_gM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_gpT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_gE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_geta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_gphi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_FracEM3,   m_{j}^{r}/m_{j}^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_FracTile0, m_{j}^{r}/m_{j}^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_JVF,       m_{j}^{r}/m_{j}^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_NTrk,      m_{j}^{r}/m_{j}^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_TrkWidth,  m_{j}^{r}/m_{j}^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_Width,     m_{j}^{r}/m_{j}^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_bWeight,   m_{j}^{r}/m_{j}^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_SvpErrLxy, m_{j}^{r}/m_{j}^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_SvpLxy,    m_{j}^{r}/m_{j}^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_SvpM,      m_{j}^{r}/m_{j}^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_SvpNTrk, m_{j}^{r}/m_{j}^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_MET,     m_{j}^{r}/m_{j}^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_METPhi,  m_{j}^{r}/m_{j}^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_METz1,   m_{j}^{r}/m_{j}^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_PtV,     m_{j}^{r}/m_{j}^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtM_bTag,     m_{j}^{r}/m_{j}^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_SumPtTrk, m_{j}^{r}/m_{j}^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtM_EMF,      m_{j}^{r}/m_{j}^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j2_gtEta_aM,   #eta^{r}/#eta^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_apT,  #eta^{r}/#eta^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_aE,   #eta^{r}/#eta^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_aeta, #eta^{r}/#eta^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_aphi, #eta^{r}/#eta^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_bM,   #eta^{r}/#eta^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_bpT,  #eta^{r}/#eta^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_bE,   #eta^{r}/#eta^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_beta, #eta^{r}/#eta^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_bphi, #eta^{r}/#eta^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_eM,   #eta^{r}/#eta^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_epT,  #eta^{r}/#eta^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_eE,   #eta^{r}/#eta^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_eeta, #eta^{r}/#eta^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_ephi, #eta^{r}/#eta^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_fM,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_fpT,  #eta^{r}/#eta^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_fE,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_feta, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_fphi, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_gM,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_gpT,  #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_gE,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_geta, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_gphi, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_FracEM3,   #eta^{r}/#eta^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_FracTile0, #eta^{r}/#eta^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_JVF,       #eta^{r}/#eta^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_NTrk,      #eta^{r}/#eta^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_TrkWidth,  #eta^{r}/#eta^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_Width,     #eta^{r}/#eta^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_bWeight,   #eta^{r}/#eta^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_SvpErrLxy, #eta^{r}/#eta^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_SvpLxy,    #eta^{r}/#eta^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_SvpM,      #eta^{r}/#eta^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_SvpNTrk, #eta^{r}/#eta^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_MET,     #eta^{r}/#eta^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_METPhi,  #eta^{r}/#eta^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_METz1,   #eta^{r}/#eta^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_PtV,     #eta^{r}/#eta^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtEta_bTag,     #eta^{r}/#eta^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_SumPtTrk, #eta^{r}/#eta^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtEta_EMF,      #eta^{r}/#eta^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j2_gtPhi_aM,   #phi^{r}/#phi^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_apT,  #phi^{r}/#phi^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_aE,   #phi^{r}/#phi^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_aeta, #phi^{r}/#phi^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_aphi, #phi^{r}/#phi^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_bM,   #phi^{r}/#phi^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_bpT,  #phi^{r}/#phi^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_bE,   #phi^{r}/#phi^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_beta, #phi^{r}/#phi^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_bphi, #phi^{r}/#phi^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_eM,   #phi^{r}/#phi^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_epT,  #phi^{r}/#phi^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_eE,   #phi^{r}/#phi^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_eeta, #phi^{r}/#phi^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_ephi, #phi^{r}/#phi^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_fM,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_fpT,  #phi^{r}/#phi^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_fE,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_feta, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_fphi, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_gM,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_gpT,  #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_gE,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_geta, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_gphi, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_FracEM3,   #phi^{r}/#phi^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_FracTile0, #phi^{r}/#phi^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_JVF,       #phi^{r}/#phi^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_NTrk,      #phi^{r}/#phi^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_TrkWidth,  #phi^{r}/#phi^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_Width,     #phi^{r}/#phi^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_bWeight,   #phi^{r}/#phi^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_SvpErrLxy, #phi^{r}/#phi^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_SvpLxy,    #phi^{r}/#phi^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_SvpM,      #phi^{r}/#phi^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_SvpNTrk, #phi^{r}/#phi^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_MET,     #phi^{r}/#phi^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_METPhi,  #phi^{r}/#phi^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_METz1,   #phi^{r}/#phi^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_PtV,     #phi^{r}/#phi^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j2_gtPhi_bTag,     #phi^{r}/#phi^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_SumPtTrk, #phi^{r}/#phi^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j2_gtPhi_EMF,      #phi^{r}/#phi^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1j2_gtpT_aM,   p_{T}^{r}/p_{T}^{t}, EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_apT,  p_{T}^{r}/p_{T}^{t}, EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_aE,   p_{T}^{r}/p_{T}^{t}, EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_aeta, p_{T}^{r}/p_{T}^{t}, EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_aphi, p_{T}^{r}/p_{T}^{t}, EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_bM,   p_{T}^{r}/p_{T}^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_bpT,  p_{T}^{r}/p_{T}^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_bE,   p_{T}^{r}/p_{T}^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_beta, p_{T}^{r}/p_{T}^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_bphi, p_{T}^{r}/p_{T}^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_eM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_epT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_eE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_eeta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_ephi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_fM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_fpT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_fE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_feta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_fphi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_gM,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_gpT,  p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_gE,   p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_geta, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_gphi, p_{T}^{r}/p_{T}^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_FracEM3,   p_{T}^{r}/p_{T}^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_FracTile0, p_{T}^{r}/p_{T}^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_JVF,       p_{T}^{r}/p_{T}^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_NTrk,      p_{T}^{r}/p_{T}^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_TrkWidth,  p_{T}^{r}/p_{T}^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_Width,     p_{T}^{r}/p_{T}^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_bWeight,   p_{T}^{r}/p_{T}^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_SvpErrLxy, p_{T}^{r}/p_{T}^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_SvpLxy,    p_{T}^{r}/p_{T}^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_SvpM,      p_{T}^{r}/p_{T}^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_SvpNTrk, p_{T}^{r}/p_{T}^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_MET,     p_{T}^{r}/p_{T}^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_METPhi,  p_{T}^{r}/p_{T}^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_METz1,   p_{T}^{r}/p_{T}^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_PtV,     p_{T}^{r}/p_{T}^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtpT_bTag,     p_{T}^{r}/p_{T}^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_SumPtTrk, p_{T}^{r}/p_{T}^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtpT_EMF,      p_{T}^{r}/p_{T}^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1j2_gtE_aM,   E^{r}/E^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_apT,  E^{r}/E^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_aE,   E^{r}/E^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_aeta, E^{r}/E^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_aphi, E^{r}/E^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_bM,   E^{r}/E^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_bpT,  E^{r}/E^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_bE,   E^{r}/E^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_beta, E^{r}/E^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_bphi, E^{r}/E^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_eM,   E^{r}/E^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_epT,  E^{r}/E^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_eE,   E^{r}/E^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_eeta, E^{r}/E^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_ephi, E^{r}/E^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_fM,   E^{r}/E^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_fpT,  E^{r}/E^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_fE,   E^{r}/E^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_feta, E^{r}/E^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_fphi, E^{r}/E^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_gM,   E^{r}/E^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_gpT,  E^{r}/E^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_gE,   E^{r}/E^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_geta, E^{r}/E^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_gphi, E^{r}/E^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_FracEM3,   E^{r}/E^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_FracTile0, E^{r}/E^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_JVF,       E^{r}/E^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_NTrk,      E^{r}/E^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_TrkWidth,  E^{r}/E^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_Width,     E^{r}/E^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_bWeight,   E^{r}/E^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_SvpErrLxy, E^{r}/E^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_SvpLxy,    E^{r}/E^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_SvpM,      E^{r}/E^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_SvpNTrk, E^{r}/E^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_MET,     E^{r}/E^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_METPhi,  E^{r}/E^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_METz1,   E^{r}/E^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_PtV,     E^{r}/E^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtE_bTag,     E^{r}/E^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_SumPtTrk, E^{r}/E^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtE_EMF,      E^{r}/E^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1j2_gtM_aM,   m_{j}^{r}/m_{j}^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_apT,  m_{j}^{r}/m_{j}^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_aE,   m_{j}^{r}/m_{j}^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_aeta, m_{j}^{r}/m_{j}^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_aphi, m_{j}^{r}/m_{j}^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_bM,   m_{j}^{r}/m_{j}^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_bpT,  m_{j}^{r}/m_{j}^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_bE,   m_{j}^{r}/m_{j}^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_beta, m_{j}^{r}/m_{j}^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_bphi, m_{j}^{r}/m_{j}^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_eM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_epT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_eE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_eeta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_ephi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_fM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_fpT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_fE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_feta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_fphi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_gM,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_gpT,  m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_gE,   m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_geta, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_gphi, m_{j}^{r}/m_{j}^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_FracEM3,   m_{j}^{r}/m_{j}^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_FracTile0, m_{j}^{r}/m_{j}^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_JVF,       m_{j}^{r}/m_{j}^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_NTrk,      m_{j}^{r}/m_{j}^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_TrkWidth,  m_{j}^{r}/m_{j}^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_Width,     m_{j}^{r}/m_{j}^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_bWeight,   m_{j}^{r}/m_{j}^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_SvpErrLxy, m_{j}^{r}/m_{j}^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_SvpLxy,    m_{j}^{r}/m_{j}^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_SvpM,      m_{j}^{r}/m_{j}^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_SvpNTrk, m_{j}^{r}/m_{j}^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_MET,     m_{j}^{r}/m_{j}^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_METPhi,  m_{j}^{r}/m_{j}^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_METz1,   m_{j}^{r}/m_{j}^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_PtV,     m_{j}^{r}/m_{j}^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtM_bTag,     m_{j}^{r}/m_{j}^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_SumPtTrk, m_{j}^{r}/m_{j}^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtM_EMF,      m_{j}^{r}/m_{j}^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1j2_gtEta_aM,   #eta^{r}/#eta^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_apT,  #eta^{r}/#eta^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_aE,   #eta^{r}/#eta^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_aeta, #eta^{r}/#eta^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_aphi, #eta^{r}/#eta^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_bM,   #eta^{r}/#eta^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_bpT,  #eta^{r}/#eta^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_bE,   #eta^{r}/#eta^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_beta, #eta^{r}/#eta^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_bphi, #eta^{r}/#eta^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_eM,   #eta^{r}/#eta^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_epT,  #eta^{r}/#eta^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_eE,   #eta^{r}/#eta^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_eeta, #eta^{r}/#eta^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_ephi, #eta^{r}/#eta^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_fM,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_fpT,  #eta^{r}/#eta^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_fE,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_feta, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_fphi, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_gM,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_gpT,  #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_gE,   #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_geta, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_gphi, #eta^{r}/#eta^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_FracEM3,   #eta^{r}/#eta^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_FracTile0, #eta^{r}/#eta^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_JVF,       #eta^{r}/#eta^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_NTrk,      #eta^{r}/#eta^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_TrkWidth,  #eta^{r}/#eta^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_Width,     #eta^{r}/#eta^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_bWeight,   #eta^{r}/#eta^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_SvpErrLxy, #eta^{r}/#eta^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_SvpLxy,    #eta^{r}/#eta^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_SvpM,      #eta^{r}/#eta^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_SvpNTrk, #eta^{r}/#eta^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_MET,     #eta^{r}/#eta^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_METPhi,  #eta^{r}/#eta^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_METz1,   #eta^{r}/#eta^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_PtV,     #eta^{r}/#eta^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtEta_bTag,     #eta^{r}/#eta^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_SumPtTrk, #eta^{r}/#eta^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtEta_EMF,      #eta^{r}/#eta^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#
+scat_j1j2_gtPhi_aM,   #phi^{r}/#phi^{t} , EM m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_apT,  #phi^{r}/#phi^{t} , EM p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_aE,   #phi^{r}/#phi^{t} , EM E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_aeta, #phi^{r}/#phi^{t} , EM #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_aphi, #phi^{r}/#phi^{t} , EM #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_bM,   #phi^{r}/#phi^{t} , EM+JES m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_bpT,  #phi^{r}/#phi^{t} , EM+JES p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_bE,   #phi^{r}/#phi^{t} , EM+JES E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_beta, #phi^{r}/#phi^{t} , EM+JES #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_bphi, #phi^{r}/#phi^{t} , EM+JES #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_eM,   #phi^{r}/#phi^{t} , EM+JES+GSC m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_epT,  #phi^{r}/#phi^{t} , EM+JES+GSC p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_eE,   #phi^{r}/#phi^{t} , EM+JES+GSC E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_eeta, #phi^{r}/#phi^{t} , EM+JES+GSC #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_ephi, #phi^{r}/#phi^{t} , EM+JES+GSC #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_fM,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_fpT,  #phi^{r}/#phi^{t} , EM+JES+GSC+Mu p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_fE,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_feta, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_fphi, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_gM,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT m_{j} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_gpT,  #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT p_{T} [GeV], 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_gE,   #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT E [GeV],     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_geta, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT #eta       , 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_gphi, #phi^{r}/#phi^{t} , EM+JES+GSC+Mu+pT #phi       , 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_FracEM3,   #phi^{r}/#phi^{t} , FracEM3,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_FracTile0, #phi^{r}/#phi^{t} , FracTile0, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_JVF,       #phi^{r}/#phi^{t} , JVF,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_NTrk,      #phi^{r}/#phi^{t} , NTrk,      1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_TrkWidth,  #phi^{r}/#phi^{t} , TrkWidth,  1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_Width,     #phi^{r}/#phi^{t} , Width,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_bWeight,   #phi^{r}/#phi^{t} , bWeight,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_SvpErrLxy, #phi^{r}/#phi^{t} , SvpErrLxy, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_SvpLxy,    #phi^{r}/#phi^{t} , SvpLxy,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_SvpM,      #phi^{r}/#phi^{t} , SvpM,      1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_SvpNTrk, #phi^{r}/#phi^{t} , SvpNTrk,   1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_MET,     #phi^{r}/#phi^{t} , MET,       1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_METPhi,  #phi^{r}/#phi^{t} , METPhi,    1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_METz1,   #phi^{r}/#phi^{t} , METz1,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_PtV,     #phi^{r}/#phi^{t} , p_{T}^{V}, 1.0, 1.0, 0.045, 0.045
+#
+scat_j1j2_gtPhi_bTag,     #phi^{r}/#phi^{t} , bTag,     1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_SumPtTrk, #phi^{r}/#phi^{t} , SumPtTrk, 1.0, 1.0, 0.045, 0.045
+scat_j1j2_gtPhi_EMF,      #phi^{r}/#phi^{t} , EMF,      1.0, 1.0, 0.045, 0.045
+#
+#

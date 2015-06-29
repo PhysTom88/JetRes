@@ -1,0 +1,11 @@
+# STRING, X1, Y1, X2, Y2, TEXTSIZE
+overlay_vw_j1_E_all_2BTag_abt,   0.53, 0.62, 0.86, 0.87, 0.035
+overlay_bw_j1_E_all_2BTag_abt,   0.53, 0.62, 0.86, 0.87, 0.035
+overlay_vw_j1_Pt_all_2BTag_bct,  0.53, 0.62, 0.86, 0.87, 0.035
+overlay_bw_j1_Pt_all_2BTag_bct,  0.53, 0.62, 0.86, 0.87, 0.035
+#
+overlay_vw_j1j2_M_all_2BTag_e2f, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_bw_j1j2_M_all_2BTag_e2f, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_vw_j1j2_M_all_2BTag_sig, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_vw_j1j2_M_all_2BTag_ttb, 0.52, 0.72, 0.88, 0.87, 0.030

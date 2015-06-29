@@ -1,0 +1,11 @@
+# STRING, LOCATION, CANVAS X, CANVAS Y, GRID ON PLOT(1/0), REBIN, XMIN, XMAX, FIT, NORMALISE
+overlay_vw_j1_E_all_2BTag_abt,  all/PtV-all/vw/j1/E/,  800, 600, 1, 5,    20, 300, BUKIN, 0
+overlay_bw_j1_E_all_2BTag_abt,  all/PtV-all/bw/j1/E/,  800, 600, 1, 0.04, 0,  2,   BUKIN, 0
+overlay_vw_j1_Pt_all_2BTag_bct, all/PtV-all/vw/j1/Pt/, 800, 600, 1, 5,    20, 300, BUKIN, 0
+overlay_bw_j1_Pt_all_2BTag_bct, all/PtV-all/bw/j1/Pt/, 800, 600, 1, 0.04, 0,  2,   BUKIN, 0
+#
+overlay_vw_j1j2_M_all_2BTag_e2f, all/PtV-all/vw/j1j2/M/,800, 600, 1, 2, 50, 180, BUKIN, 0
+overlay_bw_j1j2_M_all_2BTag_e2f, all/PtV-all/bw/j1j2/M/,800, 600, 1, 0.04, 0, 2, BUKIN, 0
+#
+overlay_vw_j1j2_M_all_2BTag_sig, all/PtV-all/vw/j1j2/M/,800, 600, 1, 2, 50, 180, BUKIN, 0
+overlay_vw_j1j2_M_all_2BTag_ttb, all/PtV-all/vw/j1j2/M/,800, 600, 1, 2, 50, 180, BUKIN, 0

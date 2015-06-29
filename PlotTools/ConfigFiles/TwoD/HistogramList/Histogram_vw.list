@@ -1,0 +1,112 @@
+# STRING, LOCATION, CANVAS X, CANVAS Y, XLOW, XHIGH, YLOW, YHIGH, NBINS
+twoD_vw_j1j2_M_all_2BTag, 2BTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_0_2BTag,   2BTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_90_2BTag,  2BTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_120_2BTag, 2BTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_160_2BTag, 2BTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_200_2BTag, 2BTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 2.5, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2LBTag, 2LBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_0_2LBTag,   2LBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_90_2LBTag,  2LBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_120_2LBTag, 2LBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_160_2LBTag, 2LBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_200_2LBTag, 2LBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 2.5, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2MBTag, 2MBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_0_2MBTag,   2MBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_90_2MBTag,  2MBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_120_2MBTag, 2MBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_160_2MBTag, 2MBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_200_2MBTag, 2MBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 2.5, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2TBTag, 2TBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_0_2TBTag,   2TBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_90_2TBTag,  2TBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_120_2TBTag, 2TBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_160_2TBTag, 2TBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 2.5, 17.4, 1000
+twoD_vw_j1j2_M_200_2TBTag, 2TBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 2.5, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2BTag_aPt, 2BTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2BTag_aPt,   2BTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2BTag_aPt,  2BTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2BTag_aPt, 2BTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2BTag_aPt, 2BTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2BTag_aPt, 2BTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2LBTag_aPt, 2LBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2LBTag_aPt,   2LBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2LBTag_aPt,  2LBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2LBTag_aPt, 2LBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2LBTag_aPt, 2LBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2LBTag_aPt, 2LBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2MBTag_aPt, 2MBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2MBTag_aPt,   2MBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2MBTag_aPt,  2MBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2MBTag_aPt, 2MBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2MBTag_aPt, 2MBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2MBTag_aPt, 2MBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2TBTag_aPt, 2TBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2TBTag_aPt,   2TBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2TBTag_aPt,  2TBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2TBTag_aPt, 2TBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2TBTag_aPt, 2TBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2TBTag_aPt, 2TBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2BTag_all, 2BTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2BTag_all,   2BTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2BTag_all,  2BTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2BTag_all, 2BTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2BTag_all, 2BTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2BTag_all, 2BTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, -7.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2LBTag_all, 2LBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2LBTag_all,   2LBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2LBTag_all,  2LBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2LBTag_all, 2LBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2LBTag_all, 2LBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2LBTag_all, 2LBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, -5.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2MBTag_all, 2MBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2MBTag_all,   2MBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2MBTag_all,  2MBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2MBTag_all, 2MBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2MBTag_all, 2MBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2MBTag_all, 2MBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, -3.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2TBTag_all, 2TBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2TBTag_all,   2TBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2TBTag_all,  2TBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2TBTag_all, 2TBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2TBTag_all, 2TBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, -3.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2TBTag_all, 2TBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, -7.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2BTag_NNJ, 2BTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2BTag_NNJ,   2BTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2BTag_NNJ,  2BTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2BTag_NNJ, 2BTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2BTag_NNJ, 2BTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2BTag_NNJ, 2BTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2LBTag_NNJ, 2LBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2LBTag_NNJ,   2LBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2LBTag_NNJ,  2LBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2LBTag_NNJ, 2LBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2LBTag_NNJ, 2LBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2LBTag_NNJ, 2LBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2MBTag_NNJ, 2MBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2MBTag_NNJ,   2MBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2MBTag_NNJ,  2MBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2MBTag_NNJ, 2MBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2MBTag_NNJ, 2MBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2MBTag_NNJ, 2MBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000
+#
+twoD_vw_j1j2_M_all_2TBTag_NNJ, 2TBTag_0_WH125/all/PtV-all/vw/j1j2/M/,      800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_0_2TBTag_NNJ,   2TBTag_0_WH125/all/PtV-0-90/vw/j1j2/M/,     800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_90_2TBTag_NNJ,  2TBTag_0_WH125/all/PtV-90-120/vw/j1j2/M/,   800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_120_2TBTag_NNJ, 2TBTag_0_WH125/all/PtV-120-160/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_160_2TBTag_NNJ, 2TBTag_0_WH125/all/PtV-160-200/vw/j1j2/M/,  800, 600, 66, 128, 1.0, 17.4, 1000
+twoD_vw_j1j2_M_200_2TBTag_NNJ, 2TBTag_0_WH125/all/PtV-200-2000/vw/j1j2/M/, 800, 600, 66, 128, 1.0, 17.4, 1000

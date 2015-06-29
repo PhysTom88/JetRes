@@ -1,0 +1,227 @@
+# STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABELSIZE, TEXTSIZE MAX Y Value
+stack_vw_j1j2_M_all, m_{b#bar{b}}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_0,   m_{b#bar{b}}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_90,  m_{b#bar{b}}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_120, m_{b#bar{b}}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_160, m_{b#bar{b}}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_200, m_{b#bar{b}}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_Pt_all, p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_0,   p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_90,  p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_120, p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_160, p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_200, p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_E_all, E [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_0,   E [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_90,  E [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_120, E [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_160, E [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_200, E [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_Eta_all, #eta_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_0,   #eta_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_90,  #eta_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_120, #eta_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_160, #eta_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_200, #eta_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j1j2_Phi_all, #phi_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_0,   #phi_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_90,  #phi_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_120, #phi_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_160, #phi_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_200, #phi_{jj}, Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j1j2_MET_all, MET [GeV], Entries / 5 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_MET_0,   MET [GeV], Entries / 5 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_MET_90,  MET [GeV], Entries / 5 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_MET_120, MET [GeV], Entries / 5 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_MET_160, MET [GeV], Entries / 5 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_MET_200, MET [GeV], Entries / 5 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_lepPt_all, Lepton p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_lepPt_0,   Lepton p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_lepPt_90,  Lepton p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_lepPt_120, Lepton p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_lepPt_160, Lepton p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_lepPt_200, Lepton p_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_dR_all, #Delta R(b#bar{b}), Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.55
+stack_vw_j1j2_dR_0,   #Delta R(b#bar{b}), Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.55
+stack_vw_j1j2_dR_90,  #Delta R(b#bar{b}), Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.55
+stack_vw_j1j2_dR_120, #Delta R(b#bar{b}), Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.55
+stack_vw_j1j2_dR_160, #Delta R(b#bar{b}), Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.55
+stack_vw_j1j2_dR_200, #Delta R(b#bar{b}), Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.55
+#
+stack_vw_j1j2_pTV_all, p_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_pTV_0,   p_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_pTV_90,  p_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_pTV_120, p_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_pTV_160, p_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_pTV_200, p_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_mTW_all, m_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1j2_mTW_0,   m_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 2.10
+stack_vw_j1j2_mTW_90,  m_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1j2_mTW_120, m_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1j2_mTW_160, m_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1j2_mTW_200, m_{T}^{W} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 2.00
+#
+stack_vw_j1j2_HT_all, H_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_HT_0,   H_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_HT_90,  H_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_HT_120, H_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_HT_160, H_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_HT_200, H_{T} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_M_pT3_all, m_{b#bar{b}}^{p_{T}3} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_pT3_0,   m_{b#bar{b}}^{p_{T}3} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_pT3_90,  m_{b#bar{b}}^{p_{T}3} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_pT3_120, m_{b#bar{b}}^{p_{T}3} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_pT3_160, m_{b#bar{b}}^{p_{T}3} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_pT3_200, m_{b#bar{b}}^{p_{T}3} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+#stack_vw_j1j2_NN_all, m_{b#bar{b}}^{NN} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#stack_vw_j1j2_NN_0,   m_{b#bar{b}}^{NN} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#stack_vw_j1j2_NN_90,  m_{b#bar{b}}^{NN} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#stack_vw_j1j2_NN_120, m_{b#bar{b}}^{NN} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#stack_vw_j1j2_NN_160, m_{b#bar{b}}^{NN} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#stack_vw_j1j2_NN_200, m_{b#bar{b}}^{NN} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_M_EM_all,  m_{b#bar{b}}^{EM}[GeV],  Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_JES_all, m_{b#bar{b}}^{JES}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_GSC_all, m_{b#bar{b}}^{GSC}[GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_M_Mu_all,  m_{b#bar{b}}^{Mu}[GeV],  Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_Pt_EM_all,  p_{T}^{EM} [GeV],  Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_JES_all, p_{T}^{JES} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_GSC_all, p_{T}^{GSC} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_Pt_Mu_all,  p_{T}^{Mu} [GeV],  Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_E_EM_all,  E^{EM} [GeV],  Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_JES_all, E^{JES} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_GSC_all, E^{GSC} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1j2_E_Mu_all,  E^{Mu} [GeV],  Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1j2_Eta_EM_all,  #eta_{jj}^{EM},  Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_JES_all, #eta_{jj}^{JES}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_GSC_all, #eta_{jj}^{GSC}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Eta_Mu_all,  #eta_{jj}^{Mu},  Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j1j2_Phi_EM_all,  #phi_{jj}^{EM},  Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_JES_all, #phi_{jj}^{JES}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_GSC_all, #phi_{jj}^{GSC}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1j2_Phi_Mu_all,  #phi_{jj}^{Mu},  Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j1_M_EM_all,  Jet 1 m_{b}^{EM}[GeV],    Entries / 2 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_M_JES_all, Jet 1 m_{b}^{JES}[GeV],   Entries / 2 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_M_GSC_all, Jet 1 m_{b}^{GSC}[GeV],   Entries / 2 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_M_Mu_all,  Jet 1 m_{b}^{Mu}[GeV],    Entries / 2 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_M_Pt_all,  Jet 1 m_{b}^{p_{T}}[GeV], Entries / 2 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1_Pt_EM_all,  Jet 1 p_{T}^{EM} [GeV],    Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_Pt_JES_all, Jet 1 p_{T}^{JES} [GeV],   Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_Pt_GSC_all, Jet 1 p_{T}^{GSC} [GeV],   Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_Pt_Mu_all,  Jet 1 p_{T}^{Mu} [GeV],    Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_Pt_Pt_all,  Jet 1 p_{T}^{p_{T}} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1_E_EM_all,  Jet 1 E^{EM} [GeV],    Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_E_JES_all, Jet 1 E^{JES} [GeV],   Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_E_GSC_all, Jet 1 E^{GSC} [GeV],   Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_E_Mu_all,  Jet 1 E^{Mu} [GeV],    Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_E_Pt_all,  Jet 1 E^{p_{T}} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1_Eta_EM_all,  Jet 1 #eta_{j}^{EM},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Eta_JES_all, Jet 1 #eta_{j}^{JES},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Eta_GSC_all, Jet 1 #eta_{j}^{GSC},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Eta_Mu_all,  Jet 1 #eta_{j}^{Mu},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Eta_Pt_all,  Jet 1 #eta_{j}^{p_{T}}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j1_Phi_EM_all,  Jet 1 #phi_{j}^{EM},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Phi_JES_all, Jet 1 #phi_{j}^{JES},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Phi_GSC_all, Jet 1 #phi_{j}^{GSC},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Phi_Mu_all,  Jet 1 #phi_{j}^{Mu},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_Phi_Pt_all,  Jet 1 #phi_{j}^{p_{T}}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j2_M_EM_all,  Jet 2 m_{b}^{EM}[GeV],    Entries / 1 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_M_JES_all, Jet 2 m_{b}^{JES}[GeV],   Entries / 1 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_M_GSC_all, Jet 2 m_{b}^{GSC}[GeV],   Entries / 1 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_M_Mu_all,  Jet 2 m_{b}^{Mu}[GeV],    Entries / 1 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_M_Pt_all,  Jet 2 m_{b}^{p_{T}}[GeV], Entries / 1 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j2_Pt_EM_all,  Jet 2 p_{T}^{EM} [GeV],    Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_Pt_JES_all, Jet 2 p_{T}^{JES} [GeV],   Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_Pt_GSC_all, Jet 2 p_{T}^{GSC} [GeV],   Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_Pt_Mu_all,  Jet 2 p_{T}^{Mu} [GeV],    Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_Pt_Pt_all,  Jet 2 p_{T}^{p_{T}} [GeV], Entries / 10 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j2_E_EM_all,  Jet 2 E^{EM} [GeV],    Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_E_JES_all, Jet 2 E^{JES} [GeV],   Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_E_GSC_all, Jet 2 E^{GSC} [GeV],   Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_E_Mu_all,  Jet 2 E^{Mu} [GeV],    Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_E_Pt_all,  Jet 2 E^{p_{T}} [GeV], Entries / 25 [GeV], 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j2_Eta_EM_all,  Jet 2 #eta_{j}^{EM},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Eta_JES_all, Jet 2 #eta_{j}^{JES},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Eta_GSC_all, Jet 2 #eta_{j}^{GSC},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Eta_Mu_all,  Jet 2 #eta_{j}^{Mu},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Eta_Pt_all,  Jet 2 #eta_{j}^{p_{T}}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j2_Phi_EM_all,  Jet 2 #phi_{j}^{EM},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Phi_JES_all, Jet 2 #phi_{j}^{JES},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Phi_GSC_all, Jet 2 #phi_{j}^{GSC},   Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Phi_Mu_all,  Jet 2 #phi_{j}^{Mu},    Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_Phi_Pt_all,  Jet 2 #phi_{j}^{p_{T}}, Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 3.00
+#
+stack_vw_j1_BWeight_all,   Jet 1 bWeight,   Entries / 0.01,  1.2, 1.05, 0.05, 0.05, 4.00
+stack_vw_j1_EMF_all,       Jet 1 EMF,       Entries / 0.05,  1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j1_FracEM3_all,   Jet 1 FracEM3,   Entries / 0.005, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_FracTile0_all, Jet 1 FracTile0, Entries / 0.06,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_JVF_all,       Jet 1 JVF,       Entries / 0.05,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_NTrk_all,      Jet 1 NTrk,      Entries / 1,     1.2, 1.05, 0.05, 0.05, 2.00
+#
+stack_vw_j1_SumPtTrk_all,  Jet 1 SumPtTrk,  Entries / 10,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpErrLxy_all, Jet 1 SvpErrLxy, Entries / 0.5, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpLxy_all,    Jet 1 SvpLxy,    Entries / 5,   1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpM_all,      Jet 1 SvpM,      Entries / 0.3, 1.2, 1.05, 0.05, 0.05, 1.00
+stack_vw_j1_SvpNTrk_all,   Jet 1 SvpNTrk,   Entries / 1,   1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_TrkWidth_all,  Jet 1 TrkWidth,  Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.00
+#
+stack_vw_j1_Width_all,     Jet 1 Width,     Entries / 0.01, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpX_all,      Jet 1 SvpX,      Entries / 0.2,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpY_all,      Jet 1 SvpY,      Entries / 0.2,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpErrX_all,   Jet 1 SvpErrX,   Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpErrY_all,   Jet 1 SvpErrY,   Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpSigLxy_all, Jet 1 SvpSigLxy, Entries / 0.5,  1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j1_hasMuon_all,     Jet 1 Has Muon,               Entries, 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j1_hasSvp_all,      Jet 1 has Svp,                Entries, 1.2, 1.05, 0.05, 0.05, 2.75
+stack_vw_j1_SumPtTrk_Mu_all, Jet 1 SumPtTrk / Jet 1 p_{T}, Entries, 1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j2_BWeight_all,   Jet 2 bWeight,   Entries / 0.01,  1.2, 1.05, 0.05, 0.05, 4.00
+stack_vw_j2_EMF_all,       Jet 2 EMF,       Entries / 0.05,  1.2, 1.05, 0.05, 0.05, 3.00
+stack_vw_j2_FracEM3_all,   Jet 2 FracEM3,   Entries / 0.005, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_FracTile0_all, Jet 2 FracTile0, Entries / 0.06,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_JVF_all,       Jet 2 JVF,       Entries / 0.05,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_NTrk_all,      Jet 2 NTrk,      Entries / 1,     1.2, 1.05, 0.05, 0.05, 2.00
+#
+stack_vw_j2_SumPtTrk_all,  Jet 2 SumPtTrk,  Entries / 10,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpErrLxy_all, Jet 2 SvpErrLxy, Entries / 0.5, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpLxy_all,    Jet 2 SvpLxy,    Entries / 5,   1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpM_all,      Jet 2 SvpM,      Entries / 0.3, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpNTrk_all,   Jet 2 SvpNTrk,   Entries / 1,   1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_TrkWidth_all,  Jet 2 TrkWidth,  Entries / 0.1, 1.2, 1.05, 0.05, 0.05, 2.00
+#
+stack_vw_j2_Width_all,     Jet 2 Width,     Entries / 0.01, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpX_all,      Jet 1 SvpX,      Entries / 0.2,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpY_all,      Jet 1 SvpY,      Entries / 0.2,  1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpErrX_all,   Jet 1 SvpErrX,   Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j2_SvpErrY_all,   Jet 1 SvpErrY,   Entries / 0.05, 1.2, 1.05, 0.05, 0.05, 2.00
+stack_vw_j1_SvpSigLxy_all, Jet 1 SvpSigLxy, Entries / 0.5,  1.2, 1.05, 0.05, 0.05, 1.55
+#
+stack_vw_j2_hasMuon_all,     Jet 2 Has Muon,               Entries, 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_hasSvp_all,      Jet 2 has Svp,                Entries, 1.2, 1.05, 0.05, 0.05, 1.55
+stack_vw_j2_SumPtTrk_Mu_all, Jet 2 SumPtTrk / Jet 2 p_{T}, Entries, 1.2, 1.05, 0.05, 0.05, 1.55
+#

@@ -1,0 +1,796 @@
+# STRING, TEXT ON PLOT, TEXTSIZE, TEXT ALIGNMENT, YSTART, GAP, XPOSITION
+scat_j1_gtpT_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtpT_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtpT_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtpT_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtpT_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtpT_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtpT_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtpT_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1_gtE_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtE_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtE_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtE_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtE_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtE_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtE_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtE_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1_gtM_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtM_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtM_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtM_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtM_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtM_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtM_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtM_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1_gtEta_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtEta_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtEta_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtEta_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtEta_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtEta_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtEta_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtEta_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1_gtPhi_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtPhi_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtPhi_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtPhi_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtPhi_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1_gtPhi_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1_gtPhi_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1_gtPhi_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j2_gtpT_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtpT_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtpT_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtpT_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtpT_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtpT_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtpT_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtpT_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j2_gtE_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtE_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtE_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtE_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtE_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtE_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtE_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtE_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j2_gtM_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtM_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtM_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtM_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtM_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtM_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtM_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtM_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j2_gtEta_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtEta_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtEta_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtEta_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtEta_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtEta_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtEta_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtEta_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j2_gtPhi_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtPhi_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtPhi_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtPhi_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtPhi_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j2_gtPhi_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j2_gtPhi_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j2_gtPhi_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1j2_gtpT_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtpT_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtpT_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtpT_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtpT_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtpT_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtpT_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtpT_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1j2_gtE_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtE_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtE_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtE_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtE_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtE_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtE_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtE_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1j2_gtM_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtM_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtM_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtM_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtM_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtM_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtM_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtM_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1j2_gtEta_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtEta_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtEta_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtEta_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtEta_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtEta_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtEta_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtEta_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#
+scat_j1j2_gtPhi_aM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_apT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_aE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_aeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_aphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_bM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_bpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_bE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_beta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_bphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_eM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_epT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_eE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_eeta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_ephi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_fM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_fpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_fE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_feta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_fphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_gM,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_gpT,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_gE,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_geta, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_gphi, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_FracEm3,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_FracTile0, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_JVF,       #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtPhi_NTrk,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_TrkWidt,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_Width,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_bWeight,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtPhi_SvpErrLxy, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_SvpLxy,    #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_SvpM,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_SvpNTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtPhi_MET,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_METPhi,  #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_METz1,   #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtPhi_PtV,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+#
+scat_j1j2_gtPhi_bTag,     #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+scat_j1j2_gtPhi_SumPtTrk, #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.88, 0.08, 0.12
+scat_j1j2_gtPhi_EMF,      #bf{#it{#bf{ATLAS} Simulation Internal}}, 0.035, 13, 0.17, 0.08, 0.12
+#
+#

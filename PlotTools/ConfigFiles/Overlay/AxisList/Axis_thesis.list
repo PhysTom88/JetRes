@@ -1,0 +1,11 @@
+#STRING, XLABEL, YLABEL, XOFFSET, YOFFSET, LABELSIZE, TEXTSIZE, MAX Y
+overlay_vw_j1_E_all_2BTag_abt,  E_{b}[GeV],                         Entries / 5 GeV, 0.90, 0.9, 0.05, 0.05, 2.00
+overlay_bw_j1_E_all_2BTag_abt,  E_{b}^{reco}/E_{b}^{truth},         Entries / 0.04,  0.90, 0.9, 0.05, 0.05, 1.55
+overlay_vw_j1_Pt_all_2BTag_bct, p_{T}[GeV],                         Entries / 5 GeV, 0.90, 0.9, 0.05, 0.05, 1.35
+overlay_bw_j1_Pt_all_2BTag_bct, p_{T}^{reco}/p_{T}^{truth},     Entries / 0.04,  0.90, 0.9, 0.05, 0.05, 1.55
+#
+overlay_vw_j1j2_M_all_2BTag_e2f, m_{b#bar{b}}[GeV], Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 1.55
+overlay_bw_j1j2_M_all_2BTag_e2f, m_{b#bar{b}}}^{reco} /m_{b#bar{b}}^{truth}, Entries / 2 GeV, 0.90, 1.1, 0.047, 0.047, 1.45
+#
+overlay_vw_j1j2_M_all_2BTag_sig, m_{b#bar{b}}[GeV], Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 1.55
+overlay_vw_j1j2_M_all_2BTag_ttb, m_{b#bar{b}}[GeV], Entries / 2 GeV, 0.90, 1.1, 0.05, 0.05, 1.55

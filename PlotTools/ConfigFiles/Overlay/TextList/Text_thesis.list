@@ -1,0 +1,11 @@
+# STRING, TEXT ON PLOT, TEXTSIZE, TEXT ALIGNMENT, YSTART, GAP, XPOSITION
+overlay_vw_j1_E_all_2BTag_abt,   Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}}, 0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1_E_all_2BTag_abt,   Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}}, 0.040, 13, 0.87, 0.06, 0.13
+overlay_vw_j1_Pt_all_2BTag_bct,  Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}}, 0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1_Pt_all_2BTag_bct,  Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}}, 0.040, 13, 0.87, 0.06, 0.13
+#
+overlay_vw_j1j2_M_all_2BTag_e2f, Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},  0.040, 13, 0.87, 0.06, 0.13
+overlay_bw_j1j2_M_all_2BTag_e2f, Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},  0.040, 13, 0.87, 0.06, 0.13
+#
+overlay_vw_j1j2_M_all_2BTag_sig, Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},  0.040, 13, 0.87, 0.06, 0.13
+overlay_vw_j1j2_M_all_2BTag_ttb, Simulation?#bf{#it{2 b-Tag; p_{T}^{V} inc; 1 l}},  0.040, 13, 0.87, 0.06, 0.13

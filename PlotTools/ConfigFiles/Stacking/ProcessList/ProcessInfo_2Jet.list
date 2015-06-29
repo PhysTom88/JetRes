@@ -1,0 +1,31 @@
+# Process File, tag Text
+#ConfigFiles/Stacking/ProcessList/2Jet/0BTagEl_MJ.list, #bf{#it{1 e; 0 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/0BTagMu_MJ.list, #bf{#it{1 #mu; 0 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/1BTagEl_MJ.list, #bf{#it{1 e; 1 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/1BTagMu_MJ.list, #bf{#it{1 #mu; 1 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2BTagEl_MJ.list, #bf{#it{1 e; 2 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2BTagMu_MJ.list, #bf{#it{1 #mu; 2 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2LBTagEl_MJ.list, #bf{#it{1 e; 2 b-Tag LL; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2LBTagMu_MJ.list, #bf{#it{1 #mu; 2 b-Tag LL; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2MBTagEl_MJ.list, #bf{#it{1 e; 2 b-Tag MM; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2MBTagMu_MJ.list, #bf{#it{1 #mu; 2 b-Tag MM; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2TBTagEl_MJ.list, #bf{#it{1 e; 2 b-Tag TT; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2TBTagMu_MJ.list, #bf{#it{1 #mu; 2 b-Tag TT; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/0BTag.list, #bf{#it{1 lepton; 0 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/1BTag.list, #bf{#it{1 lepton; 1 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2BTag.list, #bf{#it{1 lepton; 2 b-Tag inc; 2 Jet}}
+ConfigFiles/Stacking/ProcessList/2Jet/2LBTag.list, #bf{#it{1 lepton; 2 b-Tag LL; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2MBTag.list, #bf{#it{1 lepton; 2 b-Tag MM; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2TBTag.list, #bf{#it{1 lepton; 2 b-Tag TT; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/0BTagEl.list, #bf{#it{1 e; 0 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/0BTagMu.list, #bf{#it{1 #mu; 0 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/1BTagEl.list, #bf{#it{1 e; 1 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/1BTagMu.list, #bf{#it{1 #mu; 1 b-Tag; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2BTagEl.list, #bf{#it{1 e; 2 b-Tag inc; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2BTagMu.list, #bf{#it{1 #mu; 2 b-Tag inc; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2LBTagEl.list, #bf{#it{1 e; 2 b-Tag LL.; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2LBTagMu.list, #bf{#it{1 #mu; 2 b-Tag LL.; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2MBTagEl.list, #bf{#it{1 e; 2 b-Tag MM.; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2MBTagMu.list, #bf{#it{1 #mu; 2 b-Tag MM.; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2TBTagEl.list, #bf{#it{1 e; 2 b-Tag TT.; 2 Jet}}
+#ConfigFiles/Stacking/ProcessList/2Jet/2TBTagMu.list, #bf{#it{1 #mu; 2 b-Tag TT.}}

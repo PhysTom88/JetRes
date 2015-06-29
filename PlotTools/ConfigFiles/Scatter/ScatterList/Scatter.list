@@ -1,0 +1,796 @@
+# STRING, TREENAME, BRANCH X, BRANCH Y, OPTION
+scat_j1_gtpT_aM,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EM_M,   COLZ
+scat_j1_gtpT_apT,  per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EM_Pt,  COLZ
+scat_j1_gtpT_aE,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EM_E,   COLZ
+scat_j1_gtpT_aeta, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EM_Eta, COLZ
+scat_j1_gtpT_aphi, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EM_Phi, COLZ
+# 
+scat_j1_gtpT_bM,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJES_M,   COLZ
+scat_j1_gtpT_bpT,  per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJES_Pt,  COLZ
+scat_j1_gtpT_bE,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJES_E,   COLZ
+scat_j1_gtpT_beta, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJES_Eta, COLZ
+scat_j1_gtpT_bphi, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJES_Phi, COLZ
+#
+scat_j1_gtpT_eM,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSC_M,   COLZ
+scat_j1_gtpT_epT,  per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSC_Pt,  COLZ
+scat_j1_gtpT_eE,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSC_E,   COLZ
+scat_j1_gtpT_eeta, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSC_Eta, COLZ
+scat_j1_gtpT_ephi, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSC_Phi, COLZ
+#
+scat_j1_gtpT_fM,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMu_M,   COLZ
+scat_j1_gtpT_fpT,  per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMu_Pt,  COLZ
+scat_j1_gtpT_fE,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMu_E,   COLZ
+scat_j1_gtpT_feta, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMu_Eta, COLZ
+scat_j1_gtpT_fphi, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMu_Phi, COLZ
+#
+scat_j1_gtpT_gM,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMuPt_M,   COLZ
+scat_j1_gtpT_gpt,  per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMuPt_Pt,  COLZ
+scat_j1_gtpT_gE,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMuPt_E,   COLZ
+scat_j1_gtpT_geta, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMuPt_Eta, COLZ
+scat_j1_gtpT_gphi, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1_gtpT_FracEM3,    per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_FracEM3,   COLZ
+scat_j1_gtpT_FractTile0, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_FracTile0, COLZ
+scat_j1_gtpT_JVF,        per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_JVF,       COLZ
+scat_j1_gtpT_NTrk,       per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_NTrk,      COLZ
+scat_j1_gtpT_TrkWidth,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_TrkWidth,  COLZ
+#
+scat_j1_gtpT_Width,     per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_Width,     COLZ
+scat_j1_gtpT_bWeight,   per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_BWeight,   COLZ
+scat_j1_gtpT_SvpErrLxy, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_SvpErrLxy, COLZ
+scat_j1_gtpT_SvpLxy,    per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_SvpLxy,    COLZ
+scat_j1_gtpT_SvpM,      per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_SvpM,      COLZ
+#
+scat_j1_gtpT_SvpNTrk, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_SvpNTrk, COLZ
+scat_j1_gtpT_MET,     per_event, j1_EMJESGSCMuPt_GEN_Pt, MET,        COLZ
+scat_j1_gtpT_METPhi,  per_event, j1_EMJESGSCMuPt_GEN_Pt, METPhi,     COLZ
+scat_j1_gtpT_METz1,   per_event, j1_EMJESGSCMuPt_GEN_Pt, METz1,      COLZ
+scat_j1_gtpT_PtV,     per_event, j1_EMJESGSCMuPt_GEN_Pt, PtV,        COLZ
+#
+scat_j1_gtpT_bTag,     per_event, j1_EMJESGSCMuPt_GEN_Pt, bTag,        COLZ
+scat_j1_gtpT_SumPtTrk, per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_SumPtTrk, COLZ
+scat_j1_gtpT_EMF,      per_event, j1_EMJESGSCMuPt_GEN_Pt, j1_EMF,      COLZ
+#
+#
+scat_j1_gtE_aM,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EM_M,   COLZ
+scat_j1_gtE_apT,  per_event, j1_EMJESGSCMuPt_GEN_E, j1_EM_Pt,  COLZ
+scat_j1_gtE_aE,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EM_E,   COLZ
+scat_j1_gtE_aeta, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EM_Eta, COLZ
+scat_j1_gtE_aphi, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EM_Phi, COLZ
+# 
+scat_j1_gtE_bM,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJES_M,   COLZ
+scat_j1_gtE_bpT,  per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJES_Pt,  COLZ
+scat_j1_gtE_bE,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJES_E,   COLZ
+scat_j1_gtE_beta, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJES_Eta, COLZ
+scat_j1_gtE_bphi, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJES_Phi, COLZ
+#
+scat_j1_gtE_eM,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSC_M,   COLZ
+scat_j1_gtE_epT,  per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSC_Pt,  COLZ
+scat_j1_gtE_eE,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSC_E,   COLZ
+scat_j1_gtE_eeta, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSC_Eta, COLZ
+scat_j1_gtE_ephi, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSC_Phi, COLZ
+#
+scat_j1_gtE_fM,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMu_M,   COLZ
+scat_j1_gtE_fpT,  per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMu_Pt,  COLZ
+scat_j1_gtE_fE,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMu_E,   COLZ
+scat_j1_gtE_feta, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMu_Eta, COLZ
+scat_j1_gtE_fphi, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMu_Phi, COLZ
+#
+scat_j1_gtE_gM,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMuPt_M,   COLZ
+scat_j1_gtE_gpt,  per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMuPt_Pt,  COLZ
+scat_j1_gtE_gE,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMuPt_E,   COLZ
+scat_j1_gtE_geta, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMuPt_Eta, COLZ
+scat_j1_gtE_gphi, per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1_gtE_FracEM3,    per_event, j1_EMJESGSCMuPt_GEN_E, j1_FracEM3,   COLZ
+scat_j1_gtE_FractTile0, per_event, j1_EMJESGSCMuPt_GEN_E, j1_FracTile0, COLZ
+scat_j1_gtE_JVF,        per_event, j1_EMJESGSCMuPt_GEN_E, j1_JVF,       COLZ
+scat_j1_gtE_NTrk,       per_event, j1_EMJESGSCMuPt_GEN_E, j1_NTrk,      COLZ
+scat_j1_gtE_TrkWidth,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_TrkWidth,  COLZ
+#
+scat_j1_gtE_Width,     per_event, j1_EMJESGSCMuPt_GEN_E, j1_Width,     COLZ
+scat_j1_gtE_bWeight,   per_event, j1_EMJESGSCMuPt_GEN_E, j1_BWeight,   COLZ
+scat_j1_gtE_SvpErrLxy, per_event, j1_EMJESGSCMuPt_GEN_E, j1_SvpErrLxy, COLZ
+scat_j1_gtE_SvpLxy,    per_event, j1_EMJESGSCMuPt_GEN_E, j1_SvpLxy,    COLZ
+scat_j1_gtE_SvpM,      per_event, j1_EMJESGSCMuPt_GEN_E, j1_SvpM,      COLZ
+#
+scat_j1_gtE_SvpNTrk, per_event, j1_EMJESGSCMuPt_GEN_E, j1_SvpNTrk, COLZ
+scat_j1_gtE_MET,     per_event, j1_EMJESGSCMuPt_GEN_E, MET,        COLZ
+scat_j1_gtE_METPhi,  per_event, j1_EMJESGSCMuPt_GEN_E, METPhi,     COLZ
+scat_j1_gtE_METz1,   per_event, j1_EMJESGSCMuPt_GEN_E, METz1,      COLZ
+scat_j1_gtE_PtV,     per_event, j1_EMJESGSCMuPt_GEN_E, PtV,        COLZ
+#
+scat_j1_gtE_bTag,     per_event, j1_EMJESGSCMuPt_GEN_E, bTag,        COLZ
+scat_j1_gtE_SumPtTrk, per_event, j1_EMJESGSCMuPt_GEN_E, j1_SumPtTrk, COLZ
+scat_j1_gtE_EMF,      per_event, j1_EMJESGSCMuPt_GEN_E, j1_EMF,      COLZ
+#
+#
+scat_j1_gtM_aM,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EM_M,   COLZ
+scat_j1_gtM_apT,  per_event, j1_EMJESGSCMuPt_GEN_M, j1_EM_Pt,  COLZ
+scat_j1_gtM_aE,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EM_E,   COLZ
+scat_j1_gtM_aeta, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EM_Eta, COLZ
+scat_j1_gtM_aphi, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EM_Phi, COLZ
+# 
+scat_j1_gtM_bM,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJES_M,   COLZ
+scat_j1_gtM_bpT,  per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJES_Pt,  COLZ
+scat_j1_gtM_bE,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJES_E,   COLZ
+scat_j1_gtM_beta, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJES_Eta, COLZ
+scat_j1_gtM_bphi, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJES_Phi, COLZ
+#
+scat_j1_gtM_eM,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSC_M,   COLZ
+scat_j1_gtM_epT,  per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSC_Pt,  COLZ
+scat_j1_gtM_eE,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSC_E,   COLZ
+scat_j1_gtM_eeta, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSC_Eta, COLZ
+scat_j1_gtM_ephi, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSC_Phi, COLZ
+#
+scat_j1_gtM_fM,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMu_M,   COLZ
+scat_j1_gtM_fpT,  per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMu_Pt,  COLZ
+scat_j1_gtM_fE,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMu_E,   COLZ
+scat_j1_gtM_feta, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMu_Eta, COLZ
+scat_j1_gtM_fphi, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMu_Phi, COLZ
+#
+scat_j1_gtM_gM,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMuPt_M,   COLZ
+scat_j1_gtM_gpt,  per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMuPt_Pt,  COLZ
+scat_j1_gtM_gE,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMuPt_E,   COLZ
+scat_j1_gtM_geta, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMuPt_Eta, COLZ
+scat_j1_gtM_gphi, per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1_gtM_FracEM3,    per_event, j1_EMJESGSCMuPt_GEN_M, j1_FracEM3,   COLZ
+scat_j1_gtM_FractTile0, per_event, j1_EMJESGSCMuPt_GEN_M, j1_FracTile0, COLZ
+scat_j1_gtM_JVF,        per_event, j1_EMJESGSCMuPt_GEN_M, j1_JVF,       COLZ
+scat_j1_gtM_NTrk,       per_event, j1_EMJESGSCMuPt_GEN_M, j1_NTrk,      COLZ
+scat_j1_gtM_TrkWidth,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_TrkWidth,  COLZ
+#
+scat_j1_gtM_Width,     per_event, j1_EMJESGSCMuPt_GEN_M, j1_Width,     COLZ
+scat_j1_gtM_bWeight,   per_event, j1_EMJESGSCMuPt_GEN_M, j1_BWeight,   COLZ
+scat_j1_gtM_SvpErrLxy, per_event, j1_EMJESGSCMuPt_GEN_M, j1_SvpErrLxy, COLZ
+scat_j1_gtM_SvpLxy,    per_event, j1_EMJESGSCMuPt_GEN_M, j1_SvpLxy,    COLZ
+scat_j1_gtM_SvpM,      per_event, j1_EMJESGSCMuPt_GEN_M, j1_SvpM,      COLZ
+#
+scat_j1_gtM_SvpNTrk, per_event, j1_EMJESGSCMuPt_GEN_M, j1_SvpNTrk, COLZ
+scat_j1_gtM_MET,     per_event, j1_EMJESGSCMuPt_GEN_M, MET,        COLZ
+scat_j1_gtM_METPhi,  per_event, j1_EMJESGSCMuPt_GEN_M, METPhi,     COLZ
+scat_j1_gtM_METz1,   per_event, j1_EMJESGSCMuPt_GEN_M, METz1,      COLZ
+scat_j1_gtM_PtV,     per_event, j1_EMJESGSCMuPt_GEN_M, PtV,        COLZ
+#
+scat_j1_gtM_bTag,     per_event, j1_EMJESGSCMuPt_GEN_M, bTag,        COLZ
+scat_j1_gtM_SumPtTrk, per_event, j1_EMJESGSCMuPt_GEN_M, j1_SumPtTrk, COLZ
+scat_j1_gtM_EMF,      per_event, j1_EMJESGSCMuPt_GEN_M, j1_EMF,      COLZ
+#
+#
+scat_j1_gtEta_aM,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EM_M,   COLZ
+scat_j1_gtEta_apT,  per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EM_Pt,  COLZ
+scat_j1_gtEta_aE,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EM_E,   COLZ
+scat_j1_gtEta_aeta, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EM_Eta, COLZ
+scat_j1_gtEta_aphi, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EM_Phi, COLZ
+# 
+scat_j1_gtEta_bM,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJES_M,   COLZ
+scat_j1_gtEta_bpT,  per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJES_Pt,  COLZ
+scat_j1_gtEta_bE,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJES_E,   COLZ
+scat_j1_gtEta_beta, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJES_Eta, COLZ
+scat_j1_gtEta_bphi, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJES_Phi, COLZ
+#
+scat_j1_gtEta_eM,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSC_M,   COLZ
+scat_j1_gtEta_epT,  per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSC_Pt,  COLZ
+scat_j1_gtEta_eE,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSC_E,   COLZ
+scat_j1_gtEta_eeta, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSC_Eta, COLZ
+scat_j1_gtEta_ephi, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSC_Phi, COLZ
+#
+scat_j1_gtEta_fM,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMu_M,   COLZ
+scat_j1_gtEta_fpT,  per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMu_Pt,  COLZ
+scat_j1_gtEta_fE,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMu_E,   COLZ
+scat_j1_gtEta_feta, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMu_Eta, COLZ
+scat_j1_gtEta_fphi, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMu_Phi, COLZ
+#
+scat_j1_gtEta_gM,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMuPt_M,   COLZ
+scat_j1_gtEta_gpt,  per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMuPt_Pt,  COLZ
+scat_j1_gtEta_gE,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMuPt_E,   COLZ
+scat_j1_gtEta_geta, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMuPt_Eta, COLZ
+scat_j1_gtEta_gphi, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1_gtEta_FracEM3,    per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_FracEM3,   COLZ
+scat_j1_gtEta_FractTile0, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_FracTile0, COLZ
+scat_j1_gtEta_JVF,        per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_JVF,       COLZ
+scat_j1_gtEta_NTrk,       per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_NTrk,      COLZ
+scat_j1_gtEta_TrkWidth,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_TrkWidth,  COLZ
+#
+scat_j1_gtEta_Width,     per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_Width,     COLZ
+scat_j1_gtEta_bWeight,   per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_BWeight,   COLZ
+scat_j1_gtEta_SvpErrLxy, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_SvpErrLxy, COLZ
+scat_j1_gtEta_SvpLxy,    per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_SvpLxy,    COLZ
+scat_j1_gtEta_SvpM,      per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_SvpM,      COLZ
+#
+scat_j1_gtEta_SvpNTrk, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_SvpNTrk, COLZ
+scat_j1_gtEta_MET,     per_event, j1_EMJESGSCMuPt_GEN_Eta, MET,        COLZ
+scat_j1_gtEta_METPhi,  per_event, j1_EMJESGSCMuPt_GEN_Eta, METPhi,     COLZ
+scat_j1_gtEta_METz1,   per_event, j1_EMJESGSCMuPt_GEN_Eta, METz1,      COLZ
+scat_j1_gtEta_PtV,     per_event, j1_EMJESGSCMuPt_GEN_Eta, PtV,        COLZ
+#
+scat_j1_gtEta_bTag,     per_event, j1_EMJESGSCMuPt_GEN_Eta, bTag,        COLZ
+scat_j1_gtEta_SumPtTrk, per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_SumPtTrk, COLZ
+scat_j1_gtEta_EMF,      per_event, j1_EMJESGSCMuPt_GEN_Eta, j1_EMF,      COLZ
+#
+#
+scat_j1_gtPhi_aM,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EM_M,   COLZ
+scat_j1_gtPhi_apT,  per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EM_Pt,  COLZ
+scat_j1_gtPhi_aE,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EM_E,   COLZ
+scat_j1_gtPhi_aeta, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EM_Eta, COLZ
+scat_j1_gtPhi_aphi, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EM_Phi, COLZ
+# 
+scat_j1_gtPhi_bM,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJES_M,   COLZ
+scat_j1_gtPhi_bpT,  per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJES_Pt,  COLZ
+scat_j1_gtPhi_bE,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJES_E,   COLZ
+scat_j1_gtPhi_beta, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJES_Eta, COLZ
+scat_j1_gtPhi_bphi, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJES_Phi, COLZ
+#
+scat_j1_gtPhi_eM,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSC_M,   COLZ
+scat_j1_gtPhi_epT,  per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSC_Pt,  COLZ
+scat_j1_gtPhi_eE,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSC_E,   COLZ
+scat_j1_gtPhi_eeta, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSC_Eta, COLZ
+scat_j1_gtPhi_ephi, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSC_Phi, COLZ
+#
+scat_j1_gtPhi_fM,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMu_M,   COLZ
+scat_j1_gtPhi_fpT,  per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMu_Pt,  COLZ
+scat_j1_gtPhi_fE,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMu_E,   COLZ
+scat_j1_gtPhi_feta, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMu_Eta, COLZ
+scat_j1_gtPhi_fphi, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMu_Phi, COLZ
+#
+scat_j1_gtPhi_gM,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMuPt_M,   COLZ
+scat_j1_gtPhi_gpt,  per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMuPt_Pt,  COLZ
+scat_j1_gtPhi_gE,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMuPt_E,   COLZ
+scat_j1_gtPhi_geta, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMuPt_Eta, COLZ
+scat_j1_gtPhi_gphi, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1_gtPhi_FracEM3,    per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_FracEM3,   COLZ
+scat_j1_gtPhi_FractTile0, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_FracTile0, COLZ
+scat_j1_gtPhi_JVF,        per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_JVF,       COLZ
+scat_j1_gtPhi_NTrk,       per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_NTrk,      COLZ
+scat_j1_gtPhi_TrkWidth,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_TrkWidth,  COLZ
+#
+scat_j1_gtPhi_Width,     per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_Width,     COLZ
+scat_j1_gtPhi_bWeight,   per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_BWeight,   COLZ
+scat_j1_gtPhi_SvpErrLxy, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_SvpErrLxy, COLZ
+scat_j1_gtPhi_SvpLxy,    per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_SvpLxy,    COLZ
+scat_j1_gtPhi_SvpM,      per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_SvpM,      COLZ
+#
+scat_j1_gtPhi_SvpNTrk, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_SvpNTrk, COLZ
+scat_j1_gtPhi_MET,     per_event, j1_EMJESGSCMuPt_GEN_Phi, MET,        COLZ
+scat_j1_gtPhi_METPhi,  per_event, j1_EMJESGSCMuPt_GEN_Phi, METPhi,     COLZ
+scat_j1_gtPhi_METz1,   per_event, j1_EMJESGSCMuPt_GEN_Phi, METz1,      COLZ
+scat_j1_gtPhi_PtV,     per_event, j1_EMJESGSCMuPt_GEN_Phi, PtV,        COLZ
+#
+scat_j1_gtPhi_bTag,     per_event, j1_EMJESGSCMuPt_GEN_Phi, bTag,        COLZ
+scat_j1_gtPhi_SumPtTrk, per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_SumPtTrk, COLZ
+scat_j1_gtPhi_EMF,      per_event, j1_EMJESGSCMuPt_GEN_Phi, j1_EMF,      COLZ
+#
+#
+scat_j2_gtpT_aM,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EM_M,   COLZ
+scat_j2_gtpT_apT,  per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EM_Pt,  COLZ
+scat_j2_gtpT_aE,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EM_E,   COLZ
+scat_j2_gtpT_aeta, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EM_Eta, COLZ
+scat_j2_gtpT_aphi, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EM_Phi, COLZ
+# 
+scat_j2_gtpT_bM,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJES_M,   COLZ
+scat_j2_gtpT_bpT,  per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJES_Pt,  COLZ
+scat_j2_gtpT_bE,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJES_E,   COLZ
+scat_j2_gtpT_beta, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJES_Eta, COLZ
+scat_j2_gtpT_bphi, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJES_Phi, COLZ
+#
+scat_j2_gtpT_eM,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSC_M,   COLZ
+scat_j2_gtpT_epT,  per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSC_Pt,  COLZ
+scat_j2_gtpT_eE,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSC_E,   COLZ
+scat_j2_gtpT_eeta, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSC_Eta, COLZ
+scat_j2_gtpT_ephi, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSC_Phi, COLZ
+#
+scat_j2_gtpT_fM,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMu_M,   COLZ
+scat_j2_gtpT_fpT,  per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMu_Pt,  COLZ
+scat_j2_gtpT_fE,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMu_E,   COLZ
+scat_j2_gtpT_feta, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMu_Eta, COLZ
+scat_j2_gtpT_fphi, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j2_gtpT_gM,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMuPt_M,   COLZ
+scat_j2_gtpT_gpt,  per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j2_gtpT_gE,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMuPt_E,   COLZ
+scat_j2_gtpT_geta, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMuPt_Eta, COLZ
+scat_j2_gtpT_gphi, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j2_gtpT_FracEM3,    per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_FracEM3,   COLZ
+scat_j2_gtpT_FractTile0, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_FracTile0, COLZ
+scat_j2_gtpT_JVF,        per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_JVF,       COLZ
+scat_j2_gtpT_NTrk,       per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_NTrk,      COLZ
+scat_j2_gtpT_TrkWidth,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_TrkWidth,  COLZ
+#
+scat_j2_gtpT_Width,     per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_Width,     COLZ
+scat_j2_gtpT_bWeight,   per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_BWeight,   COLZ
+scat_j2_gtpT_SvpErrLxy, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_SvpErrLxy, COLZ
+scat_j2_gtpT_SvpLxy,    per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_SvpLxy,    COLZ
+scat_j2_gtpT_SvpM,      per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_SvpM,      COLZ
+#
+scat_j2_gtpT_SvpNTrk, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_SvpNTrk, COLZ
+scat_j2_gtpT_MET,     per_event, j2_EMJESGSCMuPt_GEN_Pt, MET,        COLZ
+scat_j2_gtpT_METPhi,  per_event, j2_EMJESGSCMuPt_GEN_Pt, METPhi,     COLZ
+scat_j2_gtpT_METz1,   per_event, j2_EMJESGSCMuPt_GEN_Pt, METz1,      COLZ
+scat_j2_gtpT_PtV,     per_event, j2_EMJESGSCMuPt_GEN_Pt, PtV,        COLZ
+#
+scat_j2_gtpT_bTag,     per_event, j2_EMJESGSCMuPt_GEN_Pt, bTag,        COLZ
+scat_j2_gtpT_SumPtTrk, per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_SumPtTrk, COLZ
+scat_j2_gtpT_EMF,      per_event, j2_EMJESGSCMuPt_GEN_Pt, j2_EMF,      COLZ
+#
+#
+scat_j2_gtE_aM,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EM_M,   COLZ
+scat_j2_gtE_apT,  per_event, j2_EMJESGSCMuPt_GEN_E, j2_EM_Pt,  COLZ
+scat_j2_gtE_aE,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EM_E,   COLZ
+scat_j2_gtE_aeta, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EM_Eta, COLZ
+scat_j2_gtE_aphi, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EM_Phi, COLZ
+# 
+scat_j2_gtE_bM,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJES_M,   COLZ
+scat_j2_gtE_bpT,  per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJES_Pt,  COLZ
+scat_j2_gtE_bE,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJES_E,   COLZ
+scat_j2_gtE_beta, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJES_Eta, COLZ
+scat_j2_gtE_bphi, per_event, j2_EMJESGSCMuPt_GEN_E, j1_EMJES_Phi, COLZ
+#
+scat_j2_gtE_eM,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSC_M,   COLZ
+scat_j2_gtE_epT,  per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSC_Pt,  COLZ
+scat_j2_gtE_eE,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSC_E,   COLZ
+scat_j2_gtE_eeta, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSC_Eta, COLZ
+scat_j2_gtE_ephi, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSC_Phi, COLZ
+#
+scat_j2_gtE_fM,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMu_M,   COLZ
+scat_j2_gtE_fpT,  per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMu_Pt,  COLZ
+scat_j2_gtE_fE,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMu_E,   COLZ
+scat_j2_gtE_feta, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMu_Eta, COLZ
+scat_j2_gtE_fphi, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j2_gtE_gM,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMuPt_M,   COLZ
+scat_j2_gtE_gpt,  per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j2_gtE_gE,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMuPt_E,   COLZ
+scat_j2_gtE_geta, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMuPt_Eta, COLZ
+scat_j2_gtE_gphi, per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j2_gtE_FracEM3,    per_event, j2_EMJESGSCMuPt_GEN_E, j2_FracEM3,   COLZ
+scat_j2_gtE_FractTile0, per_event, j2_EMJESGSCMuPt_GEN_E, j2_FracTile0, COLZ
+scat_j2_gtE_JVF,        per_event, j2_EMJESGSCMuPt_GEN_E, j2_JVF,       COLZ
+scat_j2_gtE_NTrk,       per_event, j2_EMJESGSCMuPt_GEN_E, j2_NTrk,      COLZ
+scat_j2_gtE_TrkWidth,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_TrkWidth,  COLZ
+#
+scat_j2_gtE_Width,     per_event, j2_EMJESGSCMuPt_GEN_E, j2_Width,     COLZ
+scat_j2_gtE_bWeight,   per_event, j2_EMJESGSCMuPt_GEN_E, j2_BWeight,   COLZ
+scat_j2_gtE_SvpErrLxy, per_event, j2_EMJESGSCMuPt_GEN_E, j2_SvpErrLxy, COLZ
+scat_j2_gtE_SvpLxy,    per_event, j2_EMJESGSCMuPt_GEN_E, j2_SvpLxy,    COLZ
+scat_j2_gtE_SvpM,      per_event, j2_EMJESGSCMuPt_GEN_E, j2_SvpM,      COLZ
+#
+scat_j2_gtE_SvpNTrk, per_event, j2_EMJESGSCMuPt_GEN_E, j2_SvpNTrk, COLZ
+scat_j2_gtE_MET,     per_event, j2_EMJESGSCMuPt_GEN_E, MET,        COLZ
+scat_j2_gtE_METPhi,  per_event, j2_EMJESGSCMuPt_GEN_E, METPhi,     COLZ
+scat_j2_gtE_METz1,   per_event, j2_EMJESGSCMuPt_GEN_E, METz1,      COLZ
+scat_j2_gtE_PtV,     per_event, j2_EMJESGSCMuPt_GEN_E, PtV,        COLZ
+#
+scat_j2_gtE_bTag,     per_event, j2_EMJESGSCMuPt_GEN_E, bTag,        COLZ
+scat_j2_gtE_SumPtTrk, per_event, j2_EMJESGSCMuPt_GEN_E, j2_SumPtTrk, COLZ
+scat_j2_gtE_EMF,      per_event, j2_EMJESGSCMuPt_GEN_E, j2_EMF,      COLZ
+#
+#
+scat_j2_gtM_aM,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EM_M,   COLZ
+scat_j2_gtM_apT,  per_event, j2_EMJESGSCMuPt_GEN_M, j2_EM_Pt,  COLZ
+scat_j2_gtM_aE,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EM_E,   COLZ
+scat_j2_gtM_aeta, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EM_Eta, COLZ
+scat_j2_gtM_aphi, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EM_Phi, COLZ
+# 
+scat_j2_gtM_bM,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJES_M,   COLZ
+scat_j2_gtM_bpT,  per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJES_Pt,  COLZ
+scat_j2_gtM_bE,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJES_E,   COLZ
+scat_j2_gtM_beta, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJES_Eta, COLZ
+scat_j2_gtM_bphi, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJES_Phi, COLZ
+#
+scat_j2_gtM_eM,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSC_M,   COLZ
+scat_j2_gtM_epT,  per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSC_Pt,  COLZ
+scat_j2_gtM_eE,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSC_E,   COLZ
+scat_j2_gtM_eeta, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSC_Eta, COLZ
+scat_j2_gtM_ephi, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSC_Phi, COLZ
+#
+scat_j2_gtM_fM,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMu_M,   COLZ
+scat_j2_gtM_fpT,  per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMu_Pt,  COLZ
+scat_j2_gtM_fE,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMu_E,   COLZ
+scat_j2_gtM_feta, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMu_Eta, COLZ
+scat_j2_gtM_fphi, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j2_gtM_gM,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMuPt_M,   COLZ
+scat_j2_gtM_gpt,  per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j2_gtM_gE,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMuPt_E,   COLZ
+scat_j2_gtM_geta, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMuPt_Eta, COLZ
+scat_j2_gtM_gphi, per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j2_gtM_FracEM3,    per_event, j2_EMJESGSCMuPt_GEN_M, j2_FracEM3,   COLZ
+scat_j2_gtM_FractTile0, per_event, j2_EMJESGSCMuPt_GEN_M, j2_FracTile0, COLZ
+scat_j2_gtM_JVF,        per_event, j2_EMJESGSCMuPt_GEN_M, j2_JVF,       COLZ
+scat_j2_gtM_NTrk,       per_event, j2_EMJESGSCMuPt_GEN_M, j2_NTrk,      COLZ
+scat_j2_gtM_TrkWidth,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_TrkWidth,  COLZ
+#
+scat_j2_gtM_Width,     per_event, j2_EMJESGSCMuPt_GEN_M, j2_Width,     COLZ
+scat_j2_gtM_bWeight,   per_event, j2_EMJESGSCMuPt_GEN_M, j2_BWeight,   COLZ
+scat_j2_gtM_SvpErrLxy, per_event, j2_EMJESGSCMuPt_GEN_M, j2_SvpErrLxy, COLZ
+scat_j2_gtM_SvpLxy,    per_event, j2_EMJESGSCMuPt_GEN_M, j2_SvpLxy,    COLZ
+scat_j2_gtM_SvpM,      per_event, j2_EMJESGSCMuPt_GEN_M, j2_SvpM,      COLZ
+#
+scat_j2_gtM_SvpNTrk, per_event, j2_EMJESGSCMuPt_GEN_M, j2_SvpNTrk, COLZ
+scat_j2_gtM_MET,     per_event, j2_EMJESGSCMuPt_GEN_M, MET,        COLZ
+scat_j2_gtM_METPhi,  per_event, j2_EMJESGSCMuPt_GEN_M, METPhi,     COLZ
+scat_j2_gtM_METz1,   per_event, j2_EMJESGSCMuPt_GEN_M, METz1,      COLZ
+scat_j2_gtM_PtV,     per_event, j2_EMJESGSCMuPt_GEN_M, PtV,        COLZ
+#
+scat_j2_gtM_bTag,     per_event, j2_EMJESGSCMuPt_GEN_M, bTag,        COLZ
+scat_j2_gtM_SumPtTrk, per_event, j2_EMJESGSCMuPt_GEN_M, j2_SumPtTrk, COLZ
+scat_j2_gtM_EMF,      per_event, j2_EMJESGSCMuPt_GEN_M, j2_EMF,      COLZ
+#
+#
+scat_j2_gtEta_aM,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EM_M,   COLZ
+scat_j2_gtEta_apT,  per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EM_Pt,  COLZ
+scat_j2_gtEta_aE,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EM_E,   COLZ
+scat_j2_gtEta_aeta, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EM_Eta, COLZ
+scat_j2_gtEta_aphi, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EM_Phi, COLZ
+#
+scat_j2_gtEta_bM,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJES_M,   COLZ
+scat_j2_gtEta_bpT,  per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJES_Pt,  COLZ
+scat_j2_gtEta_bE,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJES_E,   COLZ
+scat_j2_gtEta_beta, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJES_Eta, COLZ
+scat_j2_gtEta_bphi, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJES_Phi, COLZ
+#
+scat_j2_gtEta_eM,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSC_M,   COLZ
+scat_j2_gtEta_epT,  per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSC_Pt,  COLZ
+scat_j2_gtEta_eE,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSC_E,   COLZ
+scat_j2_gtEta_eeta, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSC_Eta, COLZ
+scat_j2_gtEta_ephi, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSC_Phi, COLZ
+#
+scat_j2_gtEta_fM,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMu_M,   COLZ
+scat_j2_gtEta_fpT,  per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMu_Pt,  COLZ
+scat_j2_gtEta_fE,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMu_E,   COLZ
+scat_j2_gtEta_feta, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMu_Eta, COLZ
+scat_j2_gtEta_fphi, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j2_gtEta_gM,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMuPt_M,   COLZ
+scat_j2_gtEta_gpt,  per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j2_gtEta_gE,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMuPt_E,   COLZ
+scat_j2_gtEta_geta, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMuPt_Eta, COLZ
+scat_j2_gtEta_gphi, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j2_gtEta_FracEM3,    per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_FracEM3,   COLZ
+scat_j2_gtEta_FractTile0, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_FracTile0, COLZ
+scat_j2_gtEta_JVF,        per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_JVF,       COLZ
+scat_j2_gtEta_NTrk,       per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_NTrk,      COLZ
+scat_j2_gtEta_TrkWidth,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_TrkWidth,  COLZ
+#
+scat_j2_gtEta_Width,     per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_Width,     COLZ
+scat_j2_gtEta_bWeight,   per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_BWeight,   COLZ
+scat_j2_gtEta_SvpErrLxy, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_SvpErrLxy, COLZ
+scat_j2_gtEta_SvpLxy,    per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_SvpLxy,    COLZ
+scat_j2_gtEta_SvpM,      per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_SvpM,      COLZ
+#
+scat_j2_gtEta_SvpNTrk, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_SvpNTrk, COLZ
+scat_j2_gtEta_MET,     per_event, j2_EMJESGSCMuPt_GEN_Eta, MET,        COLZ
+scat_j2_gtEta_METPhi,  per_event, j2_EMJESGSCMuPt_GEN_Eta, METPhi,     COLZ
+scat_j2_gtEta_METz1,   per_event, j2_EMJESGSCMuPt_GEN_Eta, METz1,      COLZ
+scat_j2_gtEta_PtV,     per_event, j2_EMJESGSCMuPt_GEN_Eta, PtV,        COLZ
+#
+scat_j2_gtEta_bTag,     per_event, j2_EMJESGSCMuPt_GEN_Eta, bTag,        COLZ
+scat_j2_gtEta_SumPtTrk, per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_SumPtTrk, COLZ
+scat_j2_gtEta_EMF,      per_event, j2_EMJESGSCMuPt_GEN_Eta, j2_EMF,      COLZ
+#
+#
+scat_j2_gtPhi_aM,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EM_M,   COLZ
+scat_j2_gtPhi_apT,  per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EM_Pt,  COLZ
+scat_j2_gtPhi_aE,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EM_E,   COLZ
+scat_j2_gtPhi_aeta, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EM_Eta, COLZ
+scat_j2_gtPhi_aphi, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EM_Phi, COLZ
+# 
+scat_j2_gtPhi_bM,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJES_M,   COLZ
+scat_j2_gtPhi_bpT,  per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJES_Pt,  COLZ
+scat_j2_gtPhi_bE,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJES_E,   COLZ
+scat_j2_gtPhi_beta, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJES_Eta, COLZ
+scat_j2_gtPhi_bphi, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJES_Phi, COLZ
+#
+scat_j2_gtPhi_eM,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSC_M,   COLZ
+scat_j2_gtPhi_epT,  per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSC_Pt,  COLZ
+scat_j2_gtPhi_eE,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSC_E,   COLZ
+scat_j2_gtPhi_eeta, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSC_Eta, COLZ
+scat_j2_gtPhi_ephi, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSC_Phi, COLZ
+#
+scat_j2_gtPhi_fM,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMu_M,   COLZ
+scat_j2_gtPhi_fpT,  per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMu_Pt,  COLZ
+scat_j2_gtPhi_fE,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMu_E,   COLZ
+scat_j2_gtPhi_feta, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMu_Eta, COLZ
+scat_j2_gtPhi_fphi, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j2_gtPhi_gM,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMuPt_M,   COLZ
+scat_j2_gtPhi_gpt,  per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j2_gtPhi_gE,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMuPt_E,   COLZ
+scat_j2_gtPhi_geta, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMuPt_Eta, COLZ
+scat_j2_gtPhi_gphi, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j2_gtPhi_FracEM3,    per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_FracEM3,   COLZ
+scat_j2_gtPhi_FractTile0, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_FracTile0, COLZ
+scat_j2_gtPhi_JVF,        per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_JVF,       COLZ
+scat_j2_gtPhi_NTrk,       per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_NTrk,      COLZ
+scat_j2_gtPhi_TrkWidth,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_TrkWidth,  COLZ
+#
+scat_j2_gtPhi_Width,     per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_Width,     COLZ
+scat_j2_gtPhi_bWeight,   per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_BWeight,   COLZ
+scat_j2_gtPhi_SvpErrLxy, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_SvpErrLxy, COLZ
+scat_j2_gtPhi_SvpLxy,    per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_SvpLxy,    COLZ
+scat_j2_gtPhi_SvpM,      per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_SvpM,      COLZ
+#
+scat_j2_gtPhi_SvpNTrk, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_SvpNTrk, COLZ
+scat_j2_gtPhi_MET,     per_event, j2_EMJESGSCMuPt_GEN_Phi, MET,        COLZ
+scat_j2_gtPhi_METPhi,  per_event, j2_EMJESGSCMuPt_GEN_Phi, METPhi,     COLZ
+scat_j2_gtPhi_METz1,   per_event, j2_EMJESGSCMuPt_GEN_Phi, METz1,      COLZ
+scat_j2_gtPhi_PtV,     per_event, j2_EMJESGSCMuPt_GEN_Phi, PtV,        COLZ
+#
+scat_j2_gtPhi_bTag,     per_event, j2_EMJESGSCMuPt_GEN_Phi, bTag,        COLZ
+scat_j2_gtPhi_SumPtTrk, per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_SumPtTrk, COLZ
+scat_j2_gtPhi_EMF,      per_event, j2_EMJESGSCMuPt_GEN_Phi, j2_EMF,      COLZ
+#
+#
+scat_j1j2_gtpT_aM,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EM_M,   COLZ
+scat_j1j2_gtpT_apT,  per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EM_Pt,  COLZ
+scat_j1j2_gtpT_aE,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EM_E,   COLZ
+scat_j1j2_gtpT_aeta, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EM_Eta, COLZ
+scat_j1j2_gtpT_aphi, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EM_Phi, COLZ
+# 
+scat_j1j2_gtpT_bM,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJES_M,   COLZ
+scat_j1j2_gtpT_bpT,  per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJES_Pt,  COLZ
+scat_j1j2_gtpT_bE,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJES_E,   COLZ
+scat_j1j2_gtpT_beta, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJES_Eta, COLZ
+scat_j1j2_gtpT_bphi, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJES_Phi, COLZ
+#
+scat_j1j2_gtpT_eM,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSC_M,   COLZ
+scat_j1j2_gtpT_epT,  per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSC_Pt,  COLZ
+scat_j1j2_gtpT_eE,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSC_E,   COLZ
+scat_j1j2_gtpT_eeta, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSC_Eta, COLZ
+scat_j1j2_gtpT_ephi, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSC_Phi, COLZ
+#
+scat_j1j2_gtpT_fM,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMu_M,   COLZ
+scat_j1j2_gtpT_fpT,  per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMu_Pt,  COLZ
+scat_j1j2_gtpT_fE,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMu_E,   COLZ
+scat_j1j2_gtpT_feta, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMu_Eta, COLZ
+scat_j1j2_gtpT_fphi, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j1j2_gtpT_gM,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMuPt_M,   COLZ
+scat_j1j2_gtpT_gpt,  per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j1j2_gtpT_gE,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMuPt_E,   COLZ
+scat_j1j2_gtpT_geta, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMuPt_Eta, COLZ
+scat_j1j2_gtpT_gphi, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1j2_gtpT_FracEM3,    per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_FracEM3,   COLZ
+scat_j1j2_gtpT_FractTile0, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_FracTile0, COLZ
+scat_j1j2_gtpT_JVF,        per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_JVF,       COLZ
+scat_j1j2_gtpT_NTrk,       per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_NTrk,      COLZ
+scat_j1j2_gtpT_TrkWidth,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_TrkWidth,  COLZ
+#
+scat_j1j2_gtpT_Width,     per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_Width,     COLZ
+scat_j1j2_gtpT_bWeight,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_BWeight,   COLZ
+scat_j1j2_gtpT_SvpErrLxy, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_SvpErrLxy, COLZ
+scat_j1j2_gtpT_SvpLxy,    per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_SvpLxy,    COLZ
+scat_j1j2_gtpT_SvpM,      per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_SvpM,      COLZ
+#
+scat_j1j2_gtpT_SvpNTrk, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_SvpNTrk, COLZ
+scat_j1j2_gtpT_MET,     per_event, j1j2_EMJESGSCMuPt_GEN_Pt, MET,        COLZ
+scat_j1j2_gtpT_METPhi,  per_event, j1j2_EMJESGSCMuPt_GEN_Pt, METPhi,     COLZ
+scat_j1j2_gtpT_METz1,   per_event, j1j2_EMJESGSCMuPt_GEN_Pt, METz1,      COLZ
+scat_j1j2_gtpT_PtV,     per_event, j1j2_EMJESGSCMuPt_GEN_Pt, PtV,        COLZ
+#
+scat_j1j2_gtpT_bTag,     per_event, j1j2_EMJESGSCMuPt_GEN_Pt, bTag,        COLZ
+scat_j1j2_gtpT_SumPtTrk, per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_SumPtTrk, COLZ
+scat_j1j2_gtpT_EMF,      per_event, j1j2_EMJESGSCMuPt_GEN_Pt, j1j2_EMF,      COLZ
+#
+#
+scat_j1j2_gtE_aM,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EM_M,   COLZ
+scat_j1j2_gtE_apT,  per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EM_Pt,  COLZ
+scat_j1j2_gtE_aE,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EM_E,   COLZ
+scat_j1j2_gtE_aeta, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EM_Eta, COLZ
+scat_j1j2_gtE_aphi, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EM_Phi, COLZ
+# 
+scat_j1j2_gtE_bM,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJES_M,   COLZ
+scat_j1j2_gtE_bpT,  per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJES_Pt,  COLZ
+scat_j1j2_gtE_bE,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJES_E,   COLZ
+scat_j1j2_gtE_beta, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJES_Eta, COLZ
+scat_j1j2_gtE_bphi, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJES_Phi, COLZ
+#
+scat_j1j2_gtE_eM,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSC_M,   COLZ
+scat_j1j2_gtE_epT,  per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSC_Pt,  COLZ
+scat_j1j2_gtE_eE,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSC_E,   COLZ
+scat_j1j2_gtE_eeta, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSC_Eta, COLZ
+scat_j1j2_gtE_ephi, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSC_Phi, COLZ
+#
+scat_j1j2_gtE_fM,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMu_M,   COLZ
+scat_j1j2_gtE_fpT,  per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMu_Pt,  COLZ
+scat_j1j2_gtE_fE,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMu_E,   COLZ
+scat_j1j2_gtE_feta, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMu_Eta, COLZ
+scat_j1j2_gtE_fphi, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j1j2_gtE_gM,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMuPt_M,   COLZ
+scat_j1j2_gtE_gpt,  per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j1j2_gtE_gE,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMuPt_E,   COLZ
+scat_j1j2_gtE_geta, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMuPt_Eta, COLZ
+scat_j1j2_gtE_gphi, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1j2_gtE_FracEM3,    per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_FracEM3,   COLZ
+scat_j1j2_gtE_FractTile0, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_FracTile0, COLZ
+scat_j1j2_gtE_JVF,        per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_JVF,       COLZ
+scat_j1j2_gtE_NTrk,       per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_NTrk,      COLZ
+scat_j1j2_gtE_TrkWidth,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_TrkWidth,  COLZ
+#
+scat_j1j2_gtE_Width,     per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_Width,     COLZ
+scat_j1j2_gtE_bWeight,   per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_BWeight,   COLZ
+scat_j1j2_gtE_SvpErrLxy, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_SvpErrLxy, COLZ
+scat_j1j2_gtE_SvpLxy,    per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_SvpLxy,    COLZ
+scat_j1j2_gtE_SvpM,      per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_SvpM,      COLZ
+#
+scat_j1j2_gtE_SvpNTrk, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_SvpNTrk, COLZ
+scat_j1j2_gtE_MET,     per_event, j1j2_EMJESGSCMuPt_GEN_E, MET,        COLZ
+scat_j1j2_gtE_METPhi,  per_event, j1j2_EMJESGSCMuPt_GEN_E, METPhi,     COLZ
+scat_j1j2_gtE_METz1,   per_event, j1j2_EMJESGSCMuPt_GEN_E, METz1,      COLZ
+scat_j1j2_gtE_PtV,     per_event, j1j2_EMJESGSCMuPt_GEN_E, PtV,        COLZ
+#
+scat_j1j2_gtE_bTag,     per_event, j1j2_EMJESGSCMuPt_GEN_E, bTag,        COLZ
+scat_j1j2_gtE_SumPtTrk, per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_SumPtTrk, COLZ
+scat_j1j2_gtE_EMF,      per_event, j1j2_EMJESGSCMuPt_GEN_E, j1j2_EMF,      COLZ
+#
+#
+scat_j1j2_gtM_aM,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EM_M,   COLZ
+scat_j1j2_gtM_apT,  per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EM_Pt,  COLZ
+scat_j1j2_gtM_aE,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EM_E,   COLZ
+scat_j1j2_gtM_aeta, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EM_Eta, COLZ
+scat_j1j2_gtM_aphi, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EM_Phi, COLZ
+# 
+scat_j1j2_gtM_bM,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJES_M,   COLZ
+scat_j1j2_gtM_bpT,  per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJES_Pt,  COLZ
+scat_j1j2_gtM_bE,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJES_E,   COLZ
+scat_j1j2_gtM_beta, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJES_Eta, COLZ
+scat_j1j2_gtM_bphi, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJES_Phi, COLZ
+#
+scat_j1j2_gtM_eM,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSC_M,   COLZ
+scat_j1j2_gtM_epT,  per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSC_Pt,  COLZ
+scat_j1j2_gtM_eE,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSC_E,   COLZ
+scat_j1j2_gtM_eeta, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSC_Eta, COLZ
+scat_j1j2_gtM_ephi, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSC_Phi, COLZ
+#
+scat_j1j2_gtM_fM,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMu_M,   COLZ
+scat_j1j2_gtM_fpT,  per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMu_Pt,  COLZ
+scat_j1j2_gtM_fE,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMu_E,   COLZ
+scat_j1j2_gtM_feta, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMu_Eta, COLZ
+scat_j1j2_gtM_fphi, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j1j2_gtM_gM,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMuPt_M,   COLZ
+scat_j1j2_gtM_gpt,  per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j1j2_gtM_gE,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMuPt_E,   COLZ
+scat_j1j2_gtM_geta, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMuPt_Eta, COLZ
+scat_j1j2_gtM_gphi, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1j2_gtM_FracEM3,    per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_FracEM3,   COLZ
+scat_j1j2_gtM_FractTile0, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_FracTile0, COLZ
+scat_j1j2_gtM_JVF,        per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_JVF,       COLZ
+scat_j1j2_gtM_NTrk,       per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_NTrk,      COLZ
+scat_j1j2_gtM_TrkWidth,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_TrkWidth,  COLZ
+#
+scat_j1j2_gtM_Width,     per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_Width,     COLZ
+scat_j1j2_gtM_bWeight,   per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_BWeight,   COLZ
+scat_j1j2_gtM_SvpErrLxy, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_SvpErrLxy, COLZ
+scat_j1j2_gtM_SvpLxy,    per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_SvpLxy,    COLZ
+scat_j1j2_gtM_SvpM,      per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_SvpM,      COLZ
+#
+scat_j1j2_gtM_SvpNTrk, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_SvpNTrk, COLZ
+scat_j1j2_gtM_MET,     per_event, j1j2_EMJESGSCMuPt_GEN_M, MET,        COLZ
+scat_j1j2_gtM_METPhi,  per_event, j1j2_EMJESGSCMuPt_GEN_M, METPhi,     COLZ
+scat_j1j2_gtM_METz1,   per_event, j1j2_EMJESGSCMuPt_GEN_M, METz1,      COLZ
+scat_j1j2_gtM_PtV,     per_event, j1j2_EMJESGSCMuPt_GEN_M, PtV,        COLZ
+#
+scat_j1j2_gtM_bTag,     per_event, j1j2_EMJESGSCMuPt_GEN_M, bTag,        COLZ
+scat_j1j2_gtM_SumPtTrk, per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_SumPtTrk, COLZ
+scat_j1j2_gtM_EMF,      per_event, j1j2_EMJESGSCMuPt_GEN_M, j1j2_EMF,      COLZ
+#
+#
+scat_j1j2_gtEta_aM,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EM_M,   COLZ
+scat_j1j2_gtEta_apT,  per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EM_Pt,  COLZ
+scat_j1j2_gtEta_aE,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EM_E,   COLZ
+scat_j1j2_gtEta_aeta, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EM_Eta, COLZ
+scat_j1j2_gtEta_aphi, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EM_Phi, COLZ
+# 
+scat_j1j2_gtEta_bM,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJES_M,   COLZ
+scat_j1j2_gtEta_bpT,  per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJES_Pt,  COLZ
+scat_j1j2_gtEta_bE,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJES_E,   COLZ
+scat_j1j2_gtEta_beta, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJES_Eta, COLZ
+scat_j1j2_gtEta_bphi, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJES_Phi, COLZ
+#
+scat_j1j2_gtEta_eM,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSC_M,   COLZ
+scat_j1j2_gtEta_epT,  per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSC_Pt,  COLZ
+scat_j1j2_gtEta_eE,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSC_E,   COLZ
+scat_j1j2_gtEta_eeta, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSC_Eta, COLZ
+scat_j1j2_gtEta_ephi, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSC_Phi, COLZ
+#
+scat_j1j2_gtEta_fM,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMu_M,   COLZ
+scat_j1j2_gtEta_fpT,  per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMu_Pt,  COLZ
+scat_j1j2_gtEta_fE,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMu_E,   COLZ
+scat_j1j2_gtEta_feta, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMu_Eta, COLZ
+scat_j1j2_gtEta_fphi, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j1j2_gtEta_gM,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMuPt_M,   COLZ
+scat_j1j2_gtEta_gpt,  per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j1j2_gtEta_gE,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMuPt_E,   COLZ
+scat_j1j2_gtEta_geta, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMuPt_Eta, COLZ
+scat_j1j2_gtEta_gphi, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1j2_gtEta_FracEM3,    per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_FracEM3,   COLZ
+scat_j1j2_gtEta_FractTile0, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_FracTile0, COLZ
+scat_j1j2_gtEta_JVF,        per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_JVF,       COLZ
+scat_j1j2_gtEta_NTrk,       per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_NTrk,      COLZ
+scat_j1j2_gtEta_TrkWidth,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_TrkWidth,  COLZ
+#
+scat_j1j2_gtEta_Width,     per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_Width,     COLZ
+scat_j1j2_gtEta_bWeight,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_BWeight,   COLZ
+scat_j1j2_gtEta_SvpErrLxy, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_SvpErrLxy, COLZ
+scat_j1j2_gtEta_SvpLxy,    per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_SvpLxy,    COLZ
+scat_j1j2_gtEta_SvpM,      per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_SvpM,      COLZ
+#
+scat_j1j2_gtEta_SvpNTrk, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_SvpNTrk, COLZ
+scat_j1j2_gtEta_MET,     per_event, j1j2_EMJESGSCMuPt_GEN_Eta, MET,        COLZ
+scat_j1j2_gtEta_METPhi,  per_event, j1j2_EMJESGSCMuPt_GEN_Eta, METPhi,     COLZ
+scat_j1j2_gtEta_METz1,   per_event, j1j2_EMJESGSCMuPt_GEN_Eta, METz1,      COLZ
+scat_j1j2_gtEta_PtV,     per_event, j1j2_EMJESGSCMuPt_GEN_Eta, PtV,        COLZ
+#
+scat_j1j2_gtEta_bTag,     per_event, j1j2_EMJESGSCMuPt_GEN_Eta, bTag,        COLZ
+scat_j1j2_gtEta_SumPtTrk, per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_SumPtTrk, COLZ
+scat_j1j2_gtEta_EMF,      per_event, j1j2_EMJESGSCMuPt_GEN_Eta, j1j2_EMF,      COLZ
+#
+#
+scat_j1j2_gtPhi_aM,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EM_M,   COLZ
+scat_j1j2_gtPhi_apT,  per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EM_Pt,  COLZ
+scat_j1j2_gtPhi_aE,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EM_E,   COLZ
+scat_j1j2_gtPhi_aeta, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EM_Eta, COLZ
+scat_j1j2_gtPhi_aphi, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EM_Phi, COLZ
+# 
+scat_j1j2_gtPhi_bM,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJES_M,   COLZ
+scat_j1j2_gtPhi_bpT,  per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJES_Pt,  COLZ
+scat_j1j2_gtPhi_bE,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJES_E,   COLZ
+scat_j1j2_gtPhi_beta, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJES_Eta, COLZ
+scat_j1j2_gtPhi_bphi, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJES_Phi, COLZ
+#
+scat_j1j2_gtPhi_eM,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSC_M,   COLZ
+scat_j1j2_gtPhi_epT,  per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSC_Pt,  COLZ
+scat_j1j2_gtPhi_eE,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSC_E,   COLZ
+scat_j1j2_gtPhi_eeta, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSC_Eta, COLZ
+scat_j1j2_gtPhi_ephi, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSC_Phi, COLZ
+#
+scat_j1j2_gtPhi_fM,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMu_M,   COLZ
+scat_j1j2_gtPhi_fpT,  per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMu_Pt,  COLZ
+scat_j1j2_gtPhi_fE,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMu_E,   COLZ
+scat_j1j2_gtPhi_feta, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMu_Eta, COLZ
+scat_j1j2_gtPhi_fphi, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMu_Phi, COLZ
+#
+scat_j1j2_gtPhi_gM,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMuPt_M,   COLZ
+scat_j1j2_gtPhi_gpt,  per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMuPt_Pt,  COLZ
+scat_j1j2_gtPhi_gE,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMuPt_E,   COLZ
+scat_j1j2_gtPhi_geta, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMuPt_Eta, COLZ
+scat_j1j2_gtPhi_gphi, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMJESGSCMuPt_Phi, COLZ
+#
+scat_j1j2_gtPhi_FracEM3,    per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_FracEM3,   COLZ
+scat_j1j2_gtPhi_FractTile0, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_FracTile0, COLZ
+scat_j1j2_gtPhi_JVF,        per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_JVF,       COLZ
+scat_j1j2_gtPhi_NTrk,       per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_NTrk,      COLZ
+scat_j1j2_gtPhi_TrkWidth,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_TrkWidth,  COLZ
+#
+scat_j1j2_gtPhi_Width,     per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_Width,     COLZ
+scat_j1j2_gtPhi_bWeight,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_BWeight,   COLZ
+scat_j1j2_gtPhi_SvpErrLxy, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_SvpErrLxy, COLZ
+scat_j1j2_gtPhi_SvpLxy,    per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_SvpLxy,    COLZ
+scat_j1j2_gtPhi_SvpM,      per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_SvpM,      COLZ
+#
+scat_j1j2_gtPhi_SvpNTrk, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_SvpNTrk, COLZ
+scat_j1j2_gtPhi_MET,     per_event, j1j2_EMJESGSCMuPt_GEN_Phi, MET,        COLZ
+scat_j1j2_gtPhi_METPhi,  per_event, j1j2_EMJESGSCMuPt_GEN_Phi, METPhi,     COLZ
+scat_j1j2_gtPhi_METz1,   per_event, j1j2_EMJESGSCMuPt_GEN_Phi, METz1,      COLZ
+scat_j1j2_gtPhi_PtV,     per_event, j1j2_EMJESGSCMuPt_GEN_Phi, PtV,        COLZ
+#
+scat_j1j2_gtPhi_bTag,     per_event, j1j2_EMJESGSCMuPt_GEN_Phi, bTag,        COLZ
+scat_j1j2_gtPhi_SumPtTrk, per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_SumPtTrk, COLZ
+scat_j1j2_gtPhi_EMF,      per_event, j1j2_EMJESGSCMuPt_GEN_Phi, j1j2_EMF,      COLZ
+#
+#

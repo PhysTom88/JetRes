@@ -1,0 +1,8 @@
+# STRING, COMPARE TO, GET MEAN, GET RMS, GET RES, FIT
+meanResRMS_vw_j1j2_M_2BTag_0Mu, EM+JES+GSC+Mu+Pt, 1, 1, 1, BUKIN
+meanResRMS_vw_j1j2_M_2BTag_1Mu, EM+JES+GSC+Mu+Pt, 1, 1, 1, BUKIN
+meanResRMS_vw_j1j2_M_2BTag_2Mu, EM+JES+GSC+Mu+Pt, 1, 1, 1, BUKIN
+#
+meanResRMS_bw_j1j2_M_2BTag_0Mu, EM+JES+GSC+Mu+Pt, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_2BTag_1Mu, EM+JES+GSC+Mu+Pt, 1, 1, 0, BUKIN
+meanResRMS_bw_j1j2_M_2BTag_2Mu, EM+JES+GSC+Mu+Pt, 1, 1, 0, BUKIN

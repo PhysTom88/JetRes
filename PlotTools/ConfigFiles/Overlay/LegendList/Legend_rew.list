@@ -1,0 +1,225 @@
+# STRING, X1, Y1, X2, Y2, TEXTSIZE
+overlay_rew_j1j2_M_all_2BTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_all,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_all,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_all,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_all,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_all,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_all,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_all,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_all,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_all, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_abt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_abt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_abt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_abt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_abt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_abt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_abt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_abt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_abt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_bct,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_bct,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_bct,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_bct,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_bct,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_bct,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_bct,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_bct,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_bct, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_cdt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_cdt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_cdt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_cdt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_cdt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_cdt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_cdt,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_cdt,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_cdt, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_det,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_det,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_det,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_det,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_det,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_det,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_det,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_det,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_det, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_deP,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_deP,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_deP,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_deP,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_deP,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_deP,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_deP,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_deP,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_deP, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_def,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_def,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_def,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_def,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_def,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_def,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_def,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_def,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_def, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2BTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2BTag_ef,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2BTag_ef,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2BTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2BTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2BTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2LBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2LBTag_ef,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2LBTag_ef,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2LBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2LBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2LBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2MBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2MBTag_ef,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2MBTag_ef,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2MBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2MBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2MBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+#
+overlay_rew_j1j2_M_all_2TBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_0_2TBTag_ef,   0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_90_2TBTag_ef,  0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_120_2TBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_160_2TBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+overlay_rew_j1j2_M_200_2TBTag_ef, 0.52, 0.72, 0.88, 0.87, 0.030
+#

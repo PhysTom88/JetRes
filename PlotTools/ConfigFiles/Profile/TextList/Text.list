@@ -1,0 +1,5 @@
+# STRING, PLOT TEXT, TEXTSIZE, AIGNMENT, YSTART, GAP, XPOSITION
+prof_cw_j1_all_MIJ_2BTag, #bf{#it{#bf{ATLAS} Simulation Internal}}?#bf{#it{2 b-Tag; 1 l}}, 0.035, 13, 0.87, 0.05, 0.13
+prof_cw_j1_wMu_MIJ_2BTag, #bf{#it{#bf{ATLAS} Simulation Internal}}?#bf{#it{2 b-Tag; 1 l}}, 0.035, 13, 0.87, 0.05, 0.13
+prof_cw_j1_nMu_MIJ_2BTag, #bf{#it{#bf{ATLAS} Simulation Internal}}?#bf{#it{2 b-Tag; 1 l}}, 0.035, 13, 0.87, 0.05, 0.13
+prof_cw_j1_com_MIJ_2BTag, #bf{#it{#bf{ATLAS} Simulation Internal}}?#bf{#it{2 b-Tag; 1 l}}, 0.035, 13, 0.87, 0.05, 0.13
